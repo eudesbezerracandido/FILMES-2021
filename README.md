@@ -33,5 +33,23 @@ FILMES 2021
 <info> O carcereiro Samuel Tillery trabalha como guarda dos prisioneiros mais perigosos do Missouri enquanto eles esperam o julgamento. Quando a população se revolta, Samuel é levado ao limite para defender aquilo em que acredita.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COMO CASAR COM UM MILIONÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e113dc6a68d9e46328f4d98296ea96874b16332</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/s3n3swgSLQzTZSZsnUueQBBnvTy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Este filme é um guia (muito engraçado) para quem sonha com um relacionamento feliz! O longa conta a história de Alicja, uma menina que vai acidentalmente a um curso ministrado pela autora de guias de best-sellers, Sonia. Sônia assume que “é melhor chorar em uma Mercedes do que em outro lugar” e revela métodos comprovados de sedução que funcionam mesmo nos casos mais complicados.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PRESENTE DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:472a29dd90f4cb0b73ba1e8b44f3ca1c194bbb1b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jgnfHt8XnLagu2SvBQojlKaqcay.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> As decorações de Natal da família Barnett já está pronta, mas eles desejam deixar tudo perfeito. Entretanto, cada um deles possui preocupações diferentes.</info>
+</item>
+
+
+
 
 
