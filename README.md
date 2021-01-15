@@ -73,6 +73,21 @@ FILMES 2021
 <info>Johanna tem 16 anos e é esperta, tem opiniões fortes e excesso de peso. Com hormônios furiosos ela está desesperada para sair de sua cidade natal e fazer um nome para si mesma - o que ela faz, se reinventando como Dolly Wilde, uma crítica de música de rock. Ganhando notoriedade como um enfant terrible, ela finalmente descobre 'como construir uma garota' - mas é essa a garota que ela queria construir.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] PALAVRAS NAS PAREDES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3b7e7ba7ab14768bc92af5b713477e3cdeae8b9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/83JorDqAqu05Ru5kAGw08oCaH7w.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Adam é um estudante que sofre de esquizofrenia paranoica acompanhadas de alucinações, e por conta disso, resolve participar do teste de uma nova droga que promete esconder todos estes sintomas de seus colegas de sala.</info>
+</item>
+
+
+
+
+
+
+
+
 
 
 
