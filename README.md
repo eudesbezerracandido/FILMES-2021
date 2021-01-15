@@ -50,12 +50,32 @@ FILMES 2021
 </item>
 
 <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] ZONA DE COMBATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JCZI7GXZXARW4TKOHSUOEJL52UMJ2U7A</link>
+<thumbnail>themoviedb.org/t/p/original/goADapremQ8ZCmlAPQpacJKMR1m.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info>Num futuro definido, um piloto de drone é enviado a uma zona militarizada mortal onde ele se encontra trabalhando para um oficial android, encarregado de localizar um dispositivo do juízo final, antes que ele caia nas mãos dos insurgentes</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] UMA NOITE EM MIAMI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bed565c4913f80b8adc1bceaa4cd1904cc5519f2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/izMwtiJk4JaMTnW7UyJIpY1rAvd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Situado na noite de 25 de fevereiro de 1964, a história segue o jovem Cassius Clay ao sair do Miami Beach Convention Center como campeão mundial de boxe. Contra todas as probabilidades, ele derrotou Sonny Liston e chocou o mundo do boxe. Enquanto multidões de pessoas lotam os hotspots de Miami Beach para comemorar a partida, Clay, incapaz de permanecer na ilha por causa das leis de segregação de Jim Crow, passa a noite no Hampton House Motel, no bairro de Overtown, em Miami, comemorando com três de seus amigos: ativista Malcolm X, o cantor Sam Cooke e o astro do futebol Jim Brown.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] COMO CONSTRUIR UMA GAROTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CLG67DLG6REFOROPXQKPEK4Z6IQKGMJA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/svEKCyQmJs3ZRu4YC6rQl248AAs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Johanna tem 16 anos e é esperta, tem opiniões fortes e excesso de peso. Com hormônios furiosos ela está desesperada para sair de sua cidade natal e fazer um nome para si mesma - o que ela faz, se reinventando como Dolly Wilde, uma crítica de música de rock. Ganhando notoriedade como um enfant terrible, ela finalmente descobre 'como construir uma garota' - mas é essa a garota que ela queria construir.</info>
+</item>
+
+
+
+
 
 
 
