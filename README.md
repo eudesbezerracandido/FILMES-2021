@@ -89,6 +89,22 @@ FILMES 2021
 <info> Durante o feriado de fim de ano, Grace (Riley Keough) viaja com seu futuro noivo e os dois filhos dele para um remoto chalé. Quando a relação entre ela e as crianças finalmente começa a se estabelecer, uma nevasca e estranhos acontecimentos ameaçam despertar demônios psicológicos de sua infância.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O TIGRE BRANCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65WXKPAOLJVKEGJAR7APXU3IE2OXPBDI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/atKZoNzIWzobetgUz38TTVuI30z.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A jornada épica de um motorista pobre, que deve usar sua inteligência e astúcia para se libertar da servidão a seus mestres ricos e chegar ao topo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A BRUXA DA CASA AO LADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8c6d70e8bf76a6d365ed95fb80399e091443276</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/auYgUlzat97qhDNPk2RjjU6cvnb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um adolescente rebelde lidando com o divórcio iminente de seus pais acaba enfrentando uma bruxa de mil anos que se apossou do corpo de uma vizinha.</info>
+</item>
+
 
 
 
