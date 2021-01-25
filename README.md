@@ -81,6 +81,14 @@ FILMES 2021
 <info> Adam é um estudante que sofre de esquizofrenia paranoica acompanhadas de alucinações, e por conta disso, resolve participar do teste de uma nova droga que promete esconder todos estes sintomas de seus colegas de sala.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O CHALÉ  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2509d6d14b771157a6b74af38c2d75f3cc25071</link>
+<thumbnail>https://media.fstatic.com/EA2EhZPJoadHfIgU1IkMPpqw0nw=/290x478/smart/media/movies/covers/2020/07/0150398_335.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Durante o feriado de fim de ano, Grace (Riley Keough) viaja com seu futuro noivo e os dois filhos dele para um remoto chalé. Quando a relação entre ela e as crianças finalmente começa a se estabelecer, uma nevasca e estranhos acontecimentos ameaçam despertar demônios psicológicos de sua infância.</info>
+</item>
+
 
 
 
