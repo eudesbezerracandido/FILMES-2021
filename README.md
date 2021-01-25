@@ -105,6 +105,14 @@ FILMES 2021
 <info>Um adolescente rebelde lidando com o divórcio iminente de seus pais acaba enfrentando uma bruxa de mil anos que se apossou do corpo de uma vizinha.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O ELEVADOR  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef5f54b878f5ec4b64d05fa8927743896d4e5ce3</link>
+<thumbnail>https://ondeeubaixo.org/imagens/o-elevador-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Sito e Ana são um casal feliz. Durante uma briga, Ana segue Sito até o elevador. Eles discutem na descida, mas quando chegam ao saguão, o elevador retorna ao 10º andar e começa tudo novamente. Eles estão presos em um loop temporal. Sito sabe, mas Ana não. Então, ele precisa convencê-la do que está acontecendo. Para conseguirem sair, eles precisarão solucionar seus problemas de relacionamento</info>
+</item>
+
 
 
 
