@@ -153,6 +153,14 @@ FILMES 2021
 <info>O único sobrevivente de um misterioso acidente espacial não voltou para casa sozinho — escondendo-se em seu corpo está uma perigosa criatura. Sua única esperança é uma doutora disposta a fazer o que for preciso para salvar seu paciente.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O MENSAGEIRO DO ULTIMO DIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6316fd1dee349fd1f6af7cc786e377cc14feef8c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3tjlM3bEiQODqdMFmz9U1utIqPw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No rastro de uma garota desaparecida, um ex-polícia descobre com um grupo secreto que tenta convocar uma entidade sobrenatural aterradora.</info>
+</item>
+
 
 
 
