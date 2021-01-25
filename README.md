@@ -121,6 +121,30 @@ FILMES 2021
 <info>No campo britânico, a família Harver sai em uma viagem idílica para acampar durante o verão, onde eles podem enterrar tensões do passado e desfrutar de algum vínculo familiar. Mas quando seu acampamento é sabotado por um intruso invisível durante a noite, eles, desesperados por ajuda, chegam até fazenda antiga e assustadora onde o fazendeiro vingativo Hunt Hansen e seu filho horrivelmente deformado não estão cultivando animais… Enjaulados e esperando que seus membros sejam Cortados, cozidos e comidos um de cada vez, a família Harver deve superar suas diferenças e se unir para escaparem vivos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CABANA DA POSSESSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52cabe0419e098d923e7032cb09542ba82f38bfa</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/byNUpSJROMwBetra4bLaq0Yffe4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O que deveria ser um fim de semana relaxante para quatro amigos rapidamente se transforma em uma luta pela sobrevivência no meio do deserto da Carolina do Norte.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TERRA SELVAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42f72182ebd0496985678a6b70f28433cc081918</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gh2tQjqQxMEUm4ikL6sA4VI4eDt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um brigão de bar e seu irmão viajam pelo país para uma última luta, mas ao longo do caminho são expostas as rachaduras entre eles.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ASSASSINOS SÁDICOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e9162e3af13d8f71a3442b11c3112353c2dff84</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xhz4MtfEIFnx9yh1pqIYuGEcSxm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>ma família de açougueiros sádicos vive no interior dos EUA e, do frio profundo do inverno aos dias infernais de verão, qualquer um que cruzar seu caminho é carne morta.</info>
+</item>
+
 
 
 
