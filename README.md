@@ -145,6 +145,14 @@ FILMES 2021
 <info>ma família de açougueiros sádicos vive no interior dos EUA e, do frio profundo do inverno aos dias infernais de verão, qualquer um que cruzar seu caminho é carne morta.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ESTRANHO PASSAGEIRO - SPUTNIK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4afb857892f959652919b07ed2f0bab32a3c20b1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tBi5xW9Rd0YoGB0aAggV0EN5LDP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O único sobrevivente de um misterioso acidente espacial não voltou para casa sozinho — escondendo-se em seu corpo está uma perigosa criatura. Sua única esperança é uma doutora disposta a fazer o que for preciso para salvar seu paciente.</info>
+</item>
+
 
 
 
