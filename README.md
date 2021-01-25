@@ -113,6 +113,14 @@ FILMES 2021
 <info> Sito e Ana são um casal feliz. Durante uma briga, Ana segue Sito até o elevador. Eles discutem na descida, mas quando chegam ao saguão, o elevador retorna ao 10º andar e começa tudo novamente. Eles estão presos em um loop temporal. Sito sabe, mas Ana não. Então, ele precisa convencê-la do que está acontecendo. Para conseguirem sair, eles precisarão solucionar seus problemas de relacionamento</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O MASSACRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74873bb65cb22930bdc7d2d5f34be764fc99c09f</link>
+<thumbnail>https://ottvsimg.ottvs.com.br/cov/acg.062290/0062290_200.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No campo britânico, a família Harver sai em uma viagem idílica para acampar durante o verão, onde eles podem enterrar tensões do passado e desfrutar de algum vínculo familiar. Mas quando seu acampamento é sabotado por um intruso invisível durante a noite, eles, desesperados por ajuda, chegam até fazenda antiga e assustadora onde o fazendeiro vingativo Hunt Hansen e seu filho horrivelmente deformado não estão cultivando animais… Enjaulados e esperando que seus membros sejam Cortados, cozidos e comidos um de cada vez, a família Harver deve superar suas diferenças e se unir para escaparem vivos.</info>
+</item>
+
 
 
 
