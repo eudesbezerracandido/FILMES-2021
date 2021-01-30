@@ -185,6 +185,24 @@ FILMES 2021
 <info>O veterano policial Brett Ridgeman (Mel Gibson) e seu parceiro mais jovem e volátil, Anthony Lurasetti (Vince Vaughn), são suspensos quando um vídeo de suas táticas de trabalho brutais vira notícia. Sem dinheiro e sem opções, eles decidem entrar para o mundo do crime. Porém, o que eles encontram na criminalidade é algo muito mais obscuro do que esperavam.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] THE PALE HORSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:adc640cd537937be57260333831625fa9109aead</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/x2wu80dxUAHVmksi33rST1AbkWE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um padre assassinado de maneira brutal. Pessoas que adoecem misteriosamente. Mulheres que dizem ter poderes paranormais. Esses são alguns dos enigmas que assombram um vilarejo na zona rural inglesa. A chave deste segredo está relacionada a uma lista de nomes. Para desvendar essa trama, um escritor em busca de inspiração conta com a ajuda de seus amigos, entre eles, a famosa autora de romances de mistério Ariadne Oliver, numa aventura que pode ser fatal.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A ESCAVAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf2f1c7c784365a5f8fc6cfb0e36412e6560bdef </link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ov6ES8aMntZJ6bbhOhhSwNoZbVf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Baseado no livro de John Preston, o filme narrará a história por trás da escavação de Sutton Hoo, imenso parque arqueológico no Leste da Inglaterra onde, em 1938, foram descobertas duas necrópoles dos séculos VI e VII. Um navio intacto foi encontrado no local, que é onde acredita-se ter sido sepultado o Rei Redvaldo da Ânglia Oriental.</info>
+</item>
+
+
+
 
 
 
