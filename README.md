@@ -201,6 +201,24 @@ FILMES 2021
 <info>Baseado no livro de John Preston, o filme narrará a história por trás da escavação de Sutton Hoo, imenso parque arqueológico no Leste da Inglaterra onde, em 1938, foram descobertas duas necrópoles dos séculos VI e VII. Um navio intacto foi encontrado no local, que é onde acredita-se ter sido sepultado o Rei Redvaldo da Ânglia Oriental.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] EM BUSCA DE OHANA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tTWl37oAYRXS3D5mEHmjveXXyrN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dois irmãos do Brooklyn cujo verão em uma cidade rural de Oahu dá uma reviravolta emocionante quando um diário apontando para um tesouro perdido os coloca em uma aventura, levando-os a se reconectar com sua herança havaiana.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PALMER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae9fb02301be2287aac03cf4049506b33e9e7848</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um ex-presidiário retorna à sua cidade natal e forma um laço improvável com um menino abandonado por sua mãe viciada em drogas.</info>
+</item>
+
+
+
 
 
 
