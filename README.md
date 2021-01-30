@@ -169,6 +169,24 @@ FILMES 2021
 <info>Uma antiga ordem de experientes lutadores de Jiu Jitsu enfrenta temíveis invasores alienígenas em uma batalha pela Terra a cada seis anos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O CORREDOR DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f87fe1dfc40e9d53c1eb41c795f1e459bf4f8f0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4KvLL9Xaq8o5PTLugzYZk8qrbFL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Junho de 1994. Três corpos crivados de balas são encontrados em uma área tranquila de Miami. A polícia encontra imagens contendo o rosto desfocado de um dos agressores. Um policial vê Pablo Ibar e pensa que ele é o homem do vídeo. Pablo jura que não tem nada a ver com o assassinato, mas é julgado e condenado à morte. É a história da batalha de 25 anos de um homem para provar sua inocência.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] JUSTIÇA BRUTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ad5e2aea2fd9dbb6e1380c0bb0e47b7e1aed2e7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fbZi8jRG0tZTdXx3GH6CZthkFzc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O veterano policial Brett Ridgeman (Mel Gibson) e seu parceiro mais jovem e volátil, Anthony Lurasetti (Vince Vaughn), são suspensos quando um vídeo de suas táticas de trabalho brutais vira notícia. Sem dinheiro e sem opções, eles decidem entrar para o mundo do crime. Porém, o que eles encontram na criminalidade é algo muito mais obscuro do que esperavam.</info>
+</item>
+
+
+
 
 
 
