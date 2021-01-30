@@ -226,6 +226,15 @@ FILMES 2021
 </info>
 </item>
 
+<item>
+<title>[COLOR silver][B] PROFESSOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:601b813c47f6e50259ff492738e82126b764076d</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTM0N2ExOTQtYWM2Yy00Mzc0LWFlNDUtMzJmODRiMmE2NjY4XkEyXkFqcGdeQXVyMjE0MDM0Njc@._V1_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando Kevin, o professor de educação cívica de 26 anos, expressa abertamente sua posição sobre a igualdade no casamento na escola, ele provoca uma tempestade. O fato de ele estar loucamente apaixonado por um homem HIV positivo não agrada muito todas as pessoas ao seu redor. Quando surge um boato sobre seu status de HIV, ele é forçado a fazer escolhas que ninguém deveria fazer.</info>
+</item>
+
+
 
 
 
