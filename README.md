@@ -266,6 +266,15 @@ FILMES 2021
 <info>Para impedir seus pesadelos, um garoto rouba um apanhador de sonhos de um vizinho misterioso, forçando sua família a resgatá-lo de uma entidade.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] TERRA DOS BRAVOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f99e361c90a16e24409310e582030071613ac167 </link>
+<thumbnail>https://www.themoviedb.org/movie/634524-badland?language=pt-BR</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O detetive Matthias Breecher é contratado para rastrear o pior dos criminosos de guerra confederados. Enquanto ele percorre o Velho Oeste em busca de justiça, sua determinação é testada quando ele conhece uma pioneira mulher que é muito mais do que parece.</info>
+</item>
+
+
 
 
 
