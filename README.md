@@ -250,6 +250,15 @@ FILMES 2021
 <info>Um dentista solitário da Flórida tem os seus dias preenchidos por trabalho e pelo seu jogo de golfe diário. Quando é confrontado por uma figura do passado, que traz a notícia de que tem uma filha adulta que vive no Brooklyn, ele começa a sair da sua zona de conforto.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SOMBRAS DO TERROR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85e02fd7a6a85d8c5d1fbf60aea7a062cf4800f6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k3pSd1JzV3oIFkgcnYm68Thw4VH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Stan (Jay Jay Warren) é um adolescente órfão que vive com seu avô abusivo e protetor de seu único amigo, Dommer (Cody Kroster), vítima constante nas mãos dos bullies. Quanto Stan descobre que uma criatura se escondeu na casa de ferramentas em seu quintal, ele tenta secretamente enfrentar o demônio sozinho até seu amigo oprimido, descobrir que o "ser" tem plano muito mais sinistro em mente.</info>
+</item>
+
+
 
 
 
