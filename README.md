@@ -234,6 +234,15 @@ FILMES 2021
 <info>Quando Kevin, o professor de educação cívica de 26 anos, expressa abertamente sua posição sobre a igualdade no casamento na escola, ele provoca uma tempestade. O fato de ele estar loucamente apaixonado por um homem HIV positivo não agrada muito todas as pessoas ao seu redor. Quando surge um boato sobre seu status de HIV, ele é forçado a fazer escolhas que ninguém deveria fazer.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]  BILLY  THE KID - O FORA DA LEI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a91391a307d41b74bc331439d9424ac34374f081</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8zWFMU70cFbKZ45QWQnsfxV1RPz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No Velho Oeste, Rio foge com a irmã após matar o próprio pai para defender sua mãe. Seu tio então inicia uma caçada pela dupla, que acaba envolvida no conflito entre o famoso fora da lei Billy The Kid e o respeitado xerife Pat Garrett.</info>
+</item>
+
+
 
 
 
