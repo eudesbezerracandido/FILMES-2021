@@ -242,6 +242,15 @@ FILMES 2021
 <info> No Velho Oeste, Rio foge com a irmã após matar o próprio pai para defender sua mãe. Seu tio então inicia uma caçada pela dupla, que acaba envolvida no conflito entre o famoso fora da lei Billy The Kid e o respeitado xerife Pat Garrett.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] UMA ÚLTIMA VEZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38b652b19ce245e2a1403141330d07bbcbe1595c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ee7j1rBFXnAb7hEJJKSbfSAzWgt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um dentista solitário da Flórida tem os seus dias preenchidos por trabalho e pelo seu jogo de golfe diário. Quando é confrontado por uma figura do passado, que traz a notícia de que tem uma filha adulta que vive no Brooklyn, ele começa a sair da sua zona de conforto.</info>
+</item>
+
+
 
 
 
