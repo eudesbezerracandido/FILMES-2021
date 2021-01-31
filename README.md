@@ -258,6 +258,15 @@ FILMES 2021
 <info> Stan (Jay Jay Warren) é um adolescente órfão que vive com seu avô abusivo e protetor de seu único amigo, Dommer (Cody Kroster), vítima constante nas mãos dos bullies. Quanto Stan descobre que uma criatura se escondeu na casa de ferramentas em seu quintal, ele tenta secretamente enfrentar o demônio sozinho até seu amigo oprimido, descobrir que o "ser" tem plano muito mais sinistro em mente.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] APANHADOR DE PESADELOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ED6E08FA164172D0ABDC170F71BB5AEF22BCD9E6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lEPlsJ8Tko01i1LLBSehVYJcWWU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Para impedir seus pesadelos, um garoto rouba um apanhador de sonhos de um vizinho misterioso, forçando sua família a resgatá-lo de uma entidade.</info>
+</item>
+
+
 
 
 
