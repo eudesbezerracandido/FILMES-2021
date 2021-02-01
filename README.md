@@ -290,6 +290,15 @@ FILMES 2021
 <info> Louise descobre que seu marido é infiel e então parte em uma viagem de fim de semana sozinha para Córsega, surpreendendo toda sua família. Após uma noite de loucuras e diversão, ela acorda e descobre que o homem com quem dormiu está morto. A situação que já era atípica sai ainda mais do controle quando a mãe do falecido aparece coroando Louise como a nora que nunca teve.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] POSTO DE COMBATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a2f3b2df4e66b41f9746788a600872588153f39</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/b1LYcrHuYGUGFZwhOiAitapWHfl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma pequena equipe de soldados dos EUA batalham contra centenas de combatentes do Talibã no Afeganistão.</info>
+</item>
+
+
 
 
 
