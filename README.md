@@ -282,6 +282,15 @@ FILMES 2021
 <info>Otis é uma criança de 12 anos em ascensão na TV, porém, sua vida gira em torno de seu pai, James, um ex-condenado e viciado em drogas em reabilitação. James é um conversador fantástico, mas nada confiável como pai. 10 anos depois, Otis está a caminho de ser um astro da indústria cinematográfica quando é diagnosticado com transtorno de estresse pós-traumático infantil e está tendo dificuldade em se preparar para o maior momento de sua vida, o reencontro com o pai que ele não vê há anos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MINHA QUERIDA NORA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29b732eac81bf5b94b10554f0f10beb384f4a53e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lTNI66alw3kkOdwHMyDSbpc7J5f.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Louise descobre que seu marido é infiel e então parte em uma viagem de fim de semana sozinha para Córsega, surpreendendo toda sua família. Após uma noite de loucuras e diversão, ela acorda e descobre que o homem com quem dormiu está morto. A situação que já era atípica sai ainda mais do controle quando a mãe do falecido aparece coroando Louise como a nora que nunca teve.</info>
+</item>
+
+
 
 
 
