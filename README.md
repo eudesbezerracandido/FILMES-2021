@@ -301,7 +301,7 @@ FILMES 2021
 <item>
 <title>[COLOR silver][B] PÂNICO ABAIXO DE ZERO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84573eb27d5f286c090c0ac6d143bc7e5b23ddc0</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hTFs6T2k0kdQHFcC4gisT0UtNX8.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/s3OYpJj03K1ezepvYVoDAcDoCFe.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Matt e sua mulher, Naomi, acabam presos em seu veiculo após uma tempestade de neve e precisam lutar para sobreviver em meio à temperaturas congelantes e obstáculos imprevistos.</info>
 </item>
