@@ -298,6 +298,24 @@ FILMES 2021
 <info>Uma pequena equipe de soldados dos EUA batalham contra centenas de combatentes do Talibã no Afeganistão.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] PÂNICO ABAIXO DE ZERO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84573eb27d5f286c090c0ac6d143bc7e5b23ddc0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hTFs6T2k0kdQHFcC4gisT0UtNX8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Matt e sua mulher, Naomi, acabam presos em seu veiculo após uma tempestade de neve e precisam lutar para sobreviver em meio à temperaturas congelantes e obstáculos imprevistos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TODOS MEUS AMIGOS ESTÃO MORTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a5d0dea00c869becd97f75d73b6b1da3a561014</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9XuDY3jUDM5LU04xUNeqCWjzWLw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando uma menina recebe seus amigos para espalhar as cinzas de seu pai na velha fazenda da família, coisas estranhas começam a acontecer.</info>
+</item>
+
+
+
 
 
 
