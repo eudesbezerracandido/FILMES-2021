@@ -314,6 +314,15 @@ FILMES 2021
 <info> Quando uma menina recebe seus amigos para espalhar as cinzas de seu pai na velha fazenda da família, coisas estranhas começam a acontecer.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O MEDIADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9dc8e9554d7c5f2593f2e8ed857860028107186a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jl31oYEi9Srf9QGwPQ2C3jz0Y8A.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Carlos, implacável na negociação de contratos, vê seu passado reaparecer na África quando finalmente esperava chegar a um acordo.</info>
+</item>
+
+
 
 
 
