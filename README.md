@@ -362,6 +362,24 @@ FILMES 2021
 <info>Inspirada em fatos reais, a história gira em torno de uma família nos anos 70 que se instala no bairro de Malasaña em Madri, onde sua nova casa se tornará o pior de seus pesadelos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] NOVA ORDEM ESPACIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5bd153d2808a3fda9729c3f602dbdd8b2f96ec1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/f32ne52ClTPFL9Ew2aPUhKoVn9e.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A Trama acompanha a tripulação da nave especial Spaceship Victory, incluindo o piloto Taeho, a capitã Jang, Tiger Park e um robô, anteriormente utilizado como arma de destruição em massa. Taeho faz de tudo para ganhar dinheiro, mas está sempre falido e, com este robô a bordo, sua equipe se vê em um negócio extremamente arriscado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  O DESAPARECIMENTO STILL HERE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bd118abd378710d4b99b8623d57a0f4c57bc384</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/20/07/28/19/49/1614513.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jornalista de Nova York que recebe a história de uma jovem afro-americana desaparecida, arrisca sua carreira e resolve o problema em suas próprias mãos, tentando encontrá-la</info>
+</item>
+
+
+
 
 
 
