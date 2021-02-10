@@ -354,6 +354,15 @@ FILMES 2021
 <info>O cineasta Malcolm (Washington) e sua namorada Marie (Zendaya) voltam para casa, após a festa de lançamento de um filme, para aguardar o iminente sucesso de crítica e financeiro. A noite de repente toma outro rumo quando revelações sobre o relacionamento começam a surgir, testando a força do amor do casal</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O 3 ° ANDAR - TERROR NA RUA MALASANA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a2b359a90c5aac13b2fd490b2a596c06a0c14c17</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/klMBQHG5ThR9TrvdRjqevz54uv5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Inspirada em fatos reais, a história gira em torno de uma família nos anos 70 que se instala no bairro de Malasaña em Madri, onde sua nova casa se tornará o pior de seus pesadelos.</info>
+</item>
+
+
 
 
 
