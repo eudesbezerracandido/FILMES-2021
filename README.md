@@ -331,14 +331,6 @@ FILMES 2021
 </item>
 
 <item>
-<title>[COLOR silver][B] A ESCAVAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf2f1c7c784365a5f8fc6cfb0e36412e6560bdef</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ov6ES8aMntZJ6bbhOhhSwNoZbVf.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Baseado no livro de John Preston, o filme narrará a história por trás da escavação de Sutton Hoo, imenso parque arqueológico no Leste da Inglaterra onde, em 1938, foram descobertas duas necrópoles dos séculos VI e VII. Um navio intacto foi encontrado no local, que é onde acredita-se ter sido sepultado o Rei Redvaldo da Ânglia Oriental</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] A VIDA EM UM ANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7ddbccf503541f39bfb7871cb2445a18776a120</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dfmbwqkalJRfYqFSwNhRn4QYK30.jpg</thumbnail>
