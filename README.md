@@ -322,6 +322,24 @@ FILMES 2021
 <info>Carlos, implacável na negociação de contratos, vê seu passado reaparecer na África quando finalmente esperava chegar a um acordo.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] RELATOS DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f78916b59e0bfd34c87f286ffb0b56af22a9449</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cLqg9BjcecdzYGqURSdWgBUO3rX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No ano de 1870, o Capitão Jefferson Kyle Kidd, um viúvo que já lutou em duas guerras, viaja através do Texas oferecendo notícias do mundo para as pessoas, apesar dos jornais estarem se tornando cada vez mais acessíveis. Ele aceita uma proposta para levar uma menina de 10 anos, Johanna, até seus familiares. Criada pela tribo Kiowa, ela não conhece sua família e tem um comportamento hostil com as pessoas ao seu redor, mas acaba criando um vínculo com Kidd, forçando os dois a lidarem com as difíceis escolhas sobre o futuro.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A ESCAVAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf2f1c7c784365a5f8fc6cfb0e36412e6560bdef</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ov6ES8aMntZJ6bbhOhhSwNoZbVf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Baseado no livro de John Preston, o filme narrará a história por trás da escavação de Sutton Hoo, imenso parque arqueológico no Leste da Inglaterra onde, em 1938, foram descobertas duas necrópoles dos séculos VI e VII. Um navio intacto foi encontrado no local, que é onde acredita-se ter sido sepultado o Rei Redvaldo da Ânglia Oriental</info>
+</item>
+
+
+
 
 
 
