@@ -386,6 +386,14 @@ FILMES 2021
 <info>Um jornalista mulherengo começa a reavaliar suas escolhas quando se apaixona por uma misteriosa modelo com uma vida dupla.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O MAPA DAS PEQUENAS COISAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TYZI4XOZFA5IVAX3IAT22AOZLXDUOPJC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4uWDYzdbyxpX6QOBYx4HoHpksZ8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dois jovens, presos revivendo um mesmo dia, resolvem tirar o melhor da situação e viver o máximo de coisas boas que aconteceram nele, sejam elas pequenas ou grandes</info>
+</item>
+
 
 
 
