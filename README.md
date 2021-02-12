@@ -370,6 +370,22 @@ FILMES 2021
 <info>Um jornalista de Nova York que recebe a história de uma jovem afro-americana desaparecida, arrisca sua carreira e resolve o problema em suas próprias mãos, tentando encontrá-la</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] PONTO VERMELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1df29dd9db8bff7ce16f7c96988dcf7cd1c486c5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cMhoSGFMOOZUyvZYB6Q9AR4t6fV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>David e Nadja são um casal com problemas conjugais. Quando Nadja engravida, eles tentam reavivar seu relacionamento viajando para o norte da Suécia para uma caminhada. Após uma briga com dois caçadores locais, sua viagem romântica se transforma em um pesadelo quando um ponto de laser vermelho aparece em sua tenda, e eles são forçados a fugir para o deserto.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AMOR AO QUADRADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a3b109b280b917882bfb7ab36b7367939316781</link>
+<thumbnail>https://torrentool.org/imagens/amor-ao-quadrado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jornalista mulherengo começa a reavaliar suas escolhas quando se apaixona por uma misteriosa modelo com uma vida dupla.</info>
+</item>
+
 
 
 
