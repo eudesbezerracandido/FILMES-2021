@@ -402,13 +402,7 @@ FILMES 2021
 <info> Djibi é o devotado pai de Sofia, uma criança de 7 anos. Toda noite, enquanto Sofia cai no sono, Djibi a leva para a “Terra da História”, um lugar onde aventuras de contos de fadas ganham vida e onde ele é o heroico Príncipe Encantado. E, à medida que a filha vai crescendo, passa a criar suas próprias histórias, sem Djibi no papel principal do herói. Quando os papéis na vida real e na “Terra da História” começam a mudar, Djibi precisa encontrar uma maneira de permanecer sendo o herói de Sofia para sempre.</info>
 </item>
 
-<item>
-<title>[COLOR silver][B] MONSTER HUNTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:080f8e9a7af6ae1bf9e1746da576ca95c91b86ef</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/2QhhILPAv7MKFd1q57ssQeEV2su.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Em um mundo além do nosso, perigosos e poderosos monstros comandam com sua mortal ferocidade. Quando a Tenente Artemis e seus leais soldados são transportados para lá, ela lidera uma batalha desesperada pela sobrevivência.</info>
-</item>
+
 
 
 
