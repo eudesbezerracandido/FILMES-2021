@@ -395,11 +395,11 @@ FILMES 2021
 </item>
 
 <item>
-<title>[COLOR silver][B] CIDADE SOB AMEAÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fvertentesdocinema.com%2Fcidade-sob-ameaca%2F&psig=AOvVaw3GNgqAbviQN5dhPvscHA4d&ust=1613618512944000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDYz8v77-4CFQAAAAAdAAAAABAJ</thumbnail>
+<thumbnail></thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Um chefe de polícia de uma pequena cidade não carrega uma arma desde que deixou o Texas Rangers, por causa de um trágico tiroteio, ele deve pegar sua arma novamente para lutar com uma gangue de bandidos que invadiu a cidade para realizar um roubo violento.</info>
+<info></info>
 </item>
 
 
