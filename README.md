@@ -402,6 +402,15 @@ FILMES 2021
 <info> Djibi é o devotado pai de Sofia, uma criança de 7 anos. Toda noite, enquanto Sofia cai no sono, Djibi a leva para a “Terra da História”, um lugar onde aventuras de contos de fadas ganham vida e onde ele é o heroico Príncipe Encantado. E, à medida que a filha vai crescendo, passa a criar suas próprias histórias, sem Djibi no papel principal do herói. Quando os papéis na vida real e na “Terra da História” começam a mudar, Djibi precisa encontrar uma maneira de permanecer sendo o herói de Sofia para sempre.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] EU ME IMPORTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b909a59ac76da6e342a8c92ff8ee4039f0a1f4b6</link>
+<thumbnail>https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.adorocinema.com%2Ffilmes%2Ffilme-274143%2F&psig=AOvVaw3dcGLkTCsAS-AQjUAeMl5k&ust=1613859972803000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDKg43_9u4CFQAAAAAdAAAAABAD</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma guardiã legal de idosos (Rosamund Pike) e sua parceira (Eiza Gonzalez) aplicam golpes em clientes da terceira idade. As coisas dão muito errado para elas quando um alvo em potencial (Dianne Wiest) não é o que elas acreditavam ser.</info>
+</item>
+
+
 
 
 
