@@ -418,6 +418,32 @@ FILMES 2021
 <info>Em um mundo além do nosso, perigosos e poderosos monstros comandam com sua mortal ferocidade. Quando a Tenente Artemis e seus leais soldados são transportados para lá, ela lidera uma batalha desesperada pela sobrevivência.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] INSTINTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e828760cf22407c128426b88c218f371d0336e2b</link>
+<thumbnail>https://ondeeubaixo.org/imagens/instinto-instinct-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nicoline, uma psicóloga experiente que trabalha em uma instituição penal, começa um caso com um estuprador em série, que parece estar pronto para retornar à sociedade.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O SEQUESTRO DE EDEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e39db404f7ef62d35f32ac42bc809154e27dce3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/z2BurR1duynNPt3Dt7KUgQvhEHW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um pai resolve buscar justiça com as próprias mãos após sua filha de 7 anos ser sequestrada durante uma invasão domiciliar. Enquanto isso, a detetive que comanda a investigação desenrola o mistério em volta do crime.</info>
+</item>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
