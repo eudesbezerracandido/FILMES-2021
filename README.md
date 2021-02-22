@@ -410,6 +410,20 @@ FILMES 2021
 <info> Uma guardiã legal de idosos (Rosamund Pike) e sua parceira (Eiza Gonzalez) aplicam golpes em clientes da terceira idade. As coisas dão muito errado para elas quando um alvo em potencial (Dianne Wiest) não é o que elas acreditavam ser.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MONSTER HUNTER  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acafe25caeb3dcf08fee90cdfceea808c0c71e44</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iZqjwHAUBZ1CZ1Ux1bZRk1VCdEo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um mundo além do nosso, perigosos e poderosos monstros comandam com sua mortal ferocidade. Quando a Tenente Artemis e seus leais soldados são transportados para lá, ela lidera uma batalha desesperada pela sobrevivência.</info>
+</item>
+
+
+
+
+
+
+
 
 
 
