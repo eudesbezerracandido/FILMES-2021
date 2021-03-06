@@ -482,6 +482,14 @@ FILMES 2021
 <info>O príncipe Akeem retorna aos EUA após descobrir que tem um filho na América, seu herdeiro no trono.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] LEGADO EXPLOSIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba0d05c0645da49c261c91b8bc7d97b971376428</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/twYROzuKox3JfvB9JagOXCr8UIQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Tom (Liam Neeson) é conhecido como uma lenda entre os criminosos, mas tudo muda quando ele se apaixona por Annie (Kate Walsh) e decide deixar seu legado no crime para trás. Disposto a mudar de vida, Tom aceita se entregar para a polícia em troca de uma sentença reduzida, mas ele não imaginava que seria enganado por agentes corruptos do FBI que o obrigarão a fazer justiça com as próprias mãos.</info>
+</item>
+
 
 
 
