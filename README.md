@@ -485,7 +485,7 @@ FILMES 2021
 <item>
 <title>[COLOR silver][B] LEGADO EXPLOSIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba0d05c0645da49c261c91b8bc7d97b971376428</link>
-<thumbnail>https://www.themoviedb.org/movie/553604-the-honest-thief?language=pt-BR</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/twYROzuKox3JfvB9JagOXCr8UIQ.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Tom (Liam Neeson) é conhecido como uma lenda entre os criminosos, mas tudo muda quando ele se apaixona por Annie (Kate Walsh) e decide deixar seu legado no crime para trás. Disposto a mudar de vida, Tom aceita se entregar para a polícia em troca de uma sentença reduzida, mas ele não imaginava que seria enganado por agentes corruptos do FBI que o obrigarão a fazer justiça com as próprias mãos.</info>
 </item>
@@ -493,14 +493,14 @@ FILMES 2021
 <item>
 <title>[COLOR silver][B] O FALSIFICADOR MÓRMON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:030e420fe052d05d4516290cabbfdb7606af2f21</link>
-<thumbnail>https://www.themoviedb.org/tv/119337-murder-among-the-mormons?language=pt-BR</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/pmoi9rbtAmcqQOLFN1LbsAHIjyO.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O Falsificador Mórmon é o primeiro retrato completo de um dos crimes mais chocantes que já aconteceram na comunidade mórmon e da mente criminosa por trás de tudo. A minissérie documental em três partes tem direção de Jared Hess (Napoleon Dynamite) e Tyler Measom (An Honest Liar), e investiga três atentados a bomba que mataram duas pessoas e alarmaram Salt Lake City em 1985. Após os crimes, a comunidade ficou ainda mais surpresa quando uma coleção de cartas e diários mórmons antigos foram encontrados destruídos no carro da terceira vítima, um renomado colecionador de documentos raros chamado Mark Hofmann, incluindo a Carta da Salamandra, cujo conteúdo poderia abalar as fundações do mormonismo. E enquanto Hofmann lutava pela vida, os investigadores corriam para descobrir a verdade.<item>
 </item>
   
 <title>[COLOR silver][B] PSYCH 2 - LASSIE ESTA DE VOLTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FOMHIOQ2VUHUDUVIXOQUEIMGTQ6QYMLQ</link>
-<thumbnail>https://www.themoviedb.org/movie/582218-psych-the-movie-2?language=pt-BR</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/p0wb4v02VrqWICwmHhk7yrn7T4B.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Shawn e Gus retornam à Santa Barbara para ajudarem seu antigo chefe de polícia, mas logo se veem como uma dupla indesejada quando secretamente resolvem um caso que possa envolver forças sobrenaturais.</item>
 </item>
