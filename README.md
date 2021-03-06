@@ -450,6 +450,14 @@ FILMES 2021
 <info> Klara é intérprete no exército francês. Depois de conhecer os horrores da guerra na Síria é transferida para Nice, dentro da Operação Sentinela. Lá, com sua mãe e irmã tenta, se reconstruir.Mas uma noite, depois de sair para uma boate, sua irmã é encontrada meio morta na praia. Ela foi estuprada e espancada. Klara fará tudo para encontrar os agressores e vingar sua irmã. Essa caçada implacável a levará aos passos de Yvan Kadnikov, filho de um poderoso oligarca russo da Côte d'Azur.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] NEVENKA - QUEBRANDO O SILÊNCIO/DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7785e3d7e94fd37668d4f66ebf1417960046bf6f</link>
+<thumbnail>https://www.themoviedb.org/tv/120040-nevenka-breaking-the-silence?language=pt-BR</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>evenka Fernández fala pela primeira vez sobre a denúncia do assédio sexual que sofreu em 2000 e descreve como foi enfrentar seu agressor em uma sociedade machista. Este é o depoimento do primeiro “Me Too” da Espanha: Nevenka Fernández fala pela primeira vez em 20 anos sobre o inferno pelo qual passou em 2000 ao denunciar o assédio sexual que sofreu, enfrentando não apenas seu agressor como a sociedade machista.</info>
+</item>
+
 
 
 
