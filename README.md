@@ -460,7 +460,7 @@ FILMES 2021
 
 <item>
 <title>[COLOR silver][B] FREAKY- NO CORPO DE UM ASSASSINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:O73O5UCFGSJ77XNLAZHPRWRQB4AFDXF5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xhfZOx56e44QAKvPqqhj6REk8nH.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Quando um punhal místico faz com que Millie (Kathryn Newton) e um serial killer (Vince Vaughn) troquem de corpo, a jovem descobre que possui apenas 24 horas para ter seu corpo de volta antes que a troca se torne permanente e ela fique presa na forma de um maníaco de meia-idade para sempre. O grande problema é que, agora, ela parece uma psicopata imponente que é alvo de uma caçada humana por toda a cidade, enquanto o psicopata se parece com ela e planeja libertar seu apetite por carnificina.</info>
