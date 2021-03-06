@@ -458,6 +458,14 @@ FILMES 2021
 <info>evenka Fernández fala pela primeira vez sobre a denúncia do assédio sexual que sofreu em 2000 e descreve como foi enfrentar seu agressor em uma sociedade machista. Este é o depoimento do primeiro “Me Too” da Espanha: Nevenka Fernández fala pela primeira vez em 20 anos sobre o inferno pelo qual passou em 2000 ao denunciar o assédio sexual que sofreu, enfrentando não apenas seu agressor como a sociedade machista.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] FREAKY- NO CORPO DE UM ASSASSINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xhfZOx56e44QAKvPqqhj6REk8nH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando um punhal místico faz com que Millie (Kathryn Newton) e um serial killer (Vince Vaughn) troquem de corpo, a jovem descobre que possui apenas 24 horas para ter seu corpo de volta antes que a troca se torne permanente e ela fique presa na forma de um maníaco de meia-idade para sempre. O grande problema é que, agora, ela parece uma psicopata imponente que é alvo de uma caçada humana por toda a cidade, enquanto o psicopata se parece com ela e planeja libertar seu apetite por carnificina.</info>
+</item>
+
 
 
 
