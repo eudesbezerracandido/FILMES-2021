@@ -485,7 +485,7 @@ FILMES 2021
 <item>
 <title>[COLOR silver][B] LEGADO EXPLOSIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba0d05c0645da49c261c91b8bc7d97b971376428</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/twYROzuKox3JfvB9JagOXCr8UIQ.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/movie/553604-the-honest-thief?language=pt-BR</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Tom (Liam Neeson) é conhecido como uma lenda entre os criminosos, mas tudo muda quando ele se apaixona por Annie (Kate Walsh) e decide deixar seu legado no crime para trás. Disposto a mudar de vida, Tom aceita se entregar para a polícia em troca de uma sentença reduzida, mas ele não imaginava que seria enganado por agentes corruptos do FBI que o obrigarão a fazer justiça com as próprias mãos.</info>
 </item>
