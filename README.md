@@ -466,6 +466,14 @@ FILMES 2021
 <info>Quando um punhal místico faz com que Millie (Kathryn Newton) e um serial killer (Vince Vaughn) troquem de corpo, a jovem descobre que possui apenas 24 horas para ter seu corpo de volta antes que a troca se torne permanente e ela fique presa na forma de um maníaco de meia-idade para sempre. O grande problema é que, agora, ela parece uma psicopata imponente que é alvo de uma caçada humana por toda a cidade, enquanto o psicopata se parece com ela e planeja libertar seu apetite por carnificina.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MOXIE - QUANDO AS GAROTAS VÃO A LUTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c76c5c9b7ff413620a00d0e56a591e582aa6df8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aLBo1Ca9PggcWY98ItW5ZkdxTuA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma menina de 16 anos de idade de uma pequena cidade do Texas, inspirada pelo passado da sua mãe, começa uma revolução feminista em sua escola.</info>
+</item>
+
 
 
 
