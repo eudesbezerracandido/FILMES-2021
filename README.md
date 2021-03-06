@@ -474,6 +474,14 @@ FILMES 2021
 <info>Uma menina de 16 anos de idade de uma pequena cidade do Texas, inspirada pelo passado da sua mãe, começa uma revolução feminista em sua escola.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] UM PRINCIPE EM NOVA YORK 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83dab3a81af82e3f7141ed9404c4b384ef8c46cf</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mpXRG5zPUT18IeYvCoC4zOscked.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O príncipe Akeem retorna aos EUA após descobrir que tem um filho na América, seu herdeiro no trono.</info>
+</item>
+
 
 
 
