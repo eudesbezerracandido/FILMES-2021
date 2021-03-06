@@ -434,6 +434,22 @@ FILMES 2021
 <info>Um pai resolve buscar justiça com as próprias mãos após sua filha de 7 anos ser sequestrada durante uma invasão domiciliar. Enquanto isso, a detetive que comanda a investigação desenrola o mistério em volta do crime.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DON OSCAR  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JW7GSASXD3NQSZHM4LHUECHHOFOAIR4I</link>
+<thumbnail>https://viatorrents.com/imagens/don-oscar-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um traficante em decadência se recusa a pagar uma dívida para um novato, e só um dinheiro escondido pode salvá-lo. Mas adivinha o que o jardineiro acabou de encontrar?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A SENTINELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:I42C4YBTFUW5HVHCTBZP7T6NQV72FIHF&dn=COMOEUBAIXO.COM..MKV.A%20Sentinela%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/56Z9eh4k9pzR6Yhy201nq2Qoa0n.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Klara é intérprete no exército francês. Depois de conhecer os horrores da guerra na Síria é transferida para Nice, dentro da Operação Sentinela. Lá, com sua mãe e irmã tenta, se reconstruir.Mas uma noite, depois de sair para uma boate, sua irmã é encontrada meio morta na praia. Ela foi estuprada e espancada. Klara fará tudo para encontrar os agressores e vingar sua irmã. Essa caçada implacável a levará aos passos de Yvan Kadnikov, filho de um poderoso oligarca russo da Côte d'Azur.</info>
+</item>
+
 
 
 
