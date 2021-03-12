@@ -505,6 +505,15 @@ FILMES 2021
 <info>Shawn e Gus retornam à Santa Barbara para ajudarem seu antigo chefe de polícia, mas logo se veem como uma dupla indesejada quando secretamente resolvem um caso que possa envolver forças sobrenaturais.</item>
 </item>
 
+<item>
+<title>[COLOR silver][B] O RECEPCIONISTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04112a001e08c4b466392470f6ba70dd76c40fdb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8Mr1efvuQKAtUN8sSiBM0uJbO8e.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Bart Bromley (Tye Sheridan) é um inteligente funcionário noturno de um hotel que está no espectro do autismo, e que utiliza câmeras para gravar os hóspedes numa tentativa de estudar o comportamento humano e melhorar suas habilidades sociais. No entanto, quando uma mulher é assassinada no hotel, Bromley se torna o principal suspeito. Durante as investigações ele se aproxima de uma hóspede chamada Andrea (Ana de Armas), e percebe que precisa capturar o assassino para que ela não se torne sua próxima vítima.</info>
+</item>
+
+
 
 
 
