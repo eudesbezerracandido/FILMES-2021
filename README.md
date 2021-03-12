@@ -513,6 +513,15 @@ FILMES 2021
 <info>Bart Bromley (Tye Sheridan) é um inteligente funcionário noturno de um hotel que está no espectro do autismo, e que utiliza câmeras para gravar os hóspedes numa tentativa de estudar o comportamento humano e melhorar suas habilidades sociais. No entanto, quando uma mulher é assassinada no hotel, Bromley se torna o principal suspeito. Durante as investigações ele se aproxima de uma hóspede chamada Andrea (Ana de Armas), e percebe que precisa capturar o assassino para que ela não se torne sua próxima vítima.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] AFTER - DEPOIS DA VERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EG54DOI6OZKFRX6LEET7OG72HX3PENQH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aduKXG7H0z0osY8KNQjcLB3cWO5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após descobrir sobre a aposta, Tessa (Josephine Langford) tenta esquecer Hardin (Hero Fiennes Tiffin), o jovem caótico e revoltado que partiu seu coração. Porém, ela está prestes a descobrir que alguns amores não podem ser superados. Hardin sabe que cometeu o pior erro de sua vida ao ter magoado a jovem tão profundamente, mas vai lutar com toda a sua força para reconquistar o grande amor da sua vida.</info>
+</item>
+
+
 
 
 
