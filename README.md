@@ -537,6 +537,14 @@ FILMES 2021
 <info> Nas ruas de Istambul, Mehmet, um catador de papel, decide ajudar um garoto e acaba tendo que confrontar os traumas da própria infância.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CHERRY - INOCÊNCIA PERDIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7JHBWYNURYD4LBPFANVOTETIUJGJOKID</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qbSsR0IfnxdXZqfRMpH2PgLAbPV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma história sobre amor, guerra, assaltos a banco e heroína. Um jovem de uma família rica se casa com a namorada de sua cidade natal antes de se juntar ao Exército e embarcar para o Iraque. Ele não está preparado para a terrível realidade que o aguarda, e a natureza rude de seus colegas soldados que fumam, tomam analgésicos, assistem pornografia e se machucam horrivelmente com regularidade. Baseado no romance "Cherry", de Nico Walker.</info>
+</item>
+
 
 
 
