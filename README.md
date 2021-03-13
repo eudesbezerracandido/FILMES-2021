@@ -553,6 +553,15 @@ FILMES 2021
 <info>Acostumados a sempre dizer NÃO em casa, Allison e Carlos decidem dizer SIM aos seus três filhos durante 24 horas - por um dia inteiro, são as crianças quem ditam as regras! Eles nunca imaginaram que terminariam envolvidos em um turbilhão de aventuras por Los Angeles, Estados Unidos, nem que a família estaria mais unida do que nunca.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] BACKY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1b92dd0edd941f95a77cbde6d9540772c927604</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9wqKF883Kn9c0SZV4ZmkIkFhBLh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Becky é um próximo filme de ação e suspense americano, dirigido por Jonathan Milott e Cary Murnion, a partir de um roteiro de Nick Morris, Lane Skye e Ruckus Skye. É estrelado por Lulu Wilson, Kevin James e Joel McHale.
+Becky, uma rebelde de 13 anos, é levada para um refúgio de fim de semana em uma casa no lago por seu pai em um esforço para se reconectar após a morte de sua mãe. A viagem piora quando um grupo de condenados em fuga, liderados pelo impiedoso Dominick, invade a casa do lago. Becky decide resolver o problema com as próprias mãos.</info>
+</item>
+
 
 
 
