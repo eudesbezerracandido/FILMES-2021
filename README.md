@@ -562,6 +562,14 @@ FILMES 2021
 Becky, uma rebelde de 13 anos, é levada para um refúgio de fim de semana em uma casa no lago por seu pai em um esforço para se reconectar após a morte de sua mãe. A viagem piora quando um grupo de condenados em fuga, liderados pelo impiedoso Dominick, invade a casa do lago. Becky decide resolver o problema com as próprias mãos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A VIÚVA DAS SOMBRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56a755bfb767e605b1ab8793f9f268bdf6ba0d78</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pHUgvdIK9QuGGSKyemfo7wGVeOx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em uma área densamente arborizada ao norte de São Petersburgo, as pessoas estão desaparecidas há três décadas. Os poucos cadáveres encontrados estavam nus. Em 14 de outubro de 2017, uma equipe de voluntários saiu para a floresta em busca de um adolescente desaparecido. Logo, toda a comunicação com eles foi perdida. Os habitantes locais acreditam que foram levados pelo mesmo espírito das trevas que levou os outros. Eles chamam de ‘Limping Widow’.</info>
+</item>
+
 
 
 
