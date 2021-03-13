@@ -545,6 +545,14 @@ FILMES 2021
 <info> Uma história sobre amor, guerra, assaltos a banco e heroína. Um jovem de uma família rica se casa com a namorada de sua cidade natal antes de se juntar ao Exército e embarcar para o Iraque. Ele não está preparado para a terrível realidade que o aguarda, e a natureza rude de seus colegas soldados que fumam, tomam analgésicos, assistem pornografia e se machucam horrivelmente com regularidade. Baseado no romance "Cherry", de Nico Walker.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DIA DO SIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a238523e5dc55c56c3371b84003aa6e13dd138d7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wiluKb3NgB6QmuN8hWLKIUxBxxU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Acostumados a sempre dizer NÃO em casa, Allison e Carlos decidem dizer SIM aos seus três filhos durante 24 horas - por um dia inteiro, são as crianças quem ditam as regras! Eles nunca imaginaram que terminariam envolvidos em um turbilhão de aventuras por Los Angeles, Estados Unidos, nem que a família estaria mais unida do que nunca.</info>
+</item>
+
 
 
 
