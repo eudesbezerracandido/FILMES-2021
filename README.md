@@ -570,6 +570,14 @@ Becky, uma rebelde de 13 anos, é levada para um refúgio de fim de semana em um
 <info> Em uma área densamente arborizada ao norte de São Petersburgo, as pessoas estão desaparecidas há três décadas. Os poucos cadáveres encontrados estavam nus. Em 14 de outubro de 2017, uma equipe de voluntários saiu para a floresta em busca de um adolescente desaparecido. Logo, toda a comunicação com eles foi perdida. Os habitantes locais acreditam que foram levados pelo mesmo espírito das trevas que levou os outros. Eles chamam de ‘Limping Widow’.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A GAROTA DO TREM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:937e13d0148cca89aa73252ebcaec05d052b7cc9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sQGWOCFsYBGOwt9hQY7BT5m8rnl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mulher divorciada fica obcecada por um casal aparentemente perfeito. Quando testemunha algo chocante, acaba se envolvendo em um complexo caso de assassinato.</info>
+</item>
+
 
 
 
