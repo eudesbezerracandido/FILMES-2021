@@ -529,6 +529,16 @@ FILMES 2021
 <info>Uma aventura fantástica onde um jovem descobre que tem poderes divinos baseados na antiga mitologia norueguesa. Um mochileiro viajando pela Noruega acaba preso pela morte de um garoto local. Durante sua detenção, uma psicóloga tenta entender o que aconteceu. Lentamente, o jovem começa a perceber que seu caminho está emaranhado com a mitologia nórdica.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]  FILHOS DE ISTAMBUL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:399d9a2c2fd4afb033e6ebd339acd4a501d70697</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5Dh2dds2dNsPnBPOmCJymQElJay.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nas ruas de Istambul, Mehmet, um catador de papel, decide ajudar um garoto e acaba tendo que confrontar os traumas da própria infância.</info>
+</item>
+
+
+
 
 
 
