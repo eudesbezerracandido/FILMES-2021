@@ -521,6 +521,14 @@ FILMES 2021
 <info>Após descobrir sobre a aposta, Tessa (Josephine Langford) tenta esquecer Hardin (Hero Fiennes Tiffin), o jovem caótico e revoltado que partiu seu coração. Porém, ela está prestes a descobrir que alguns amores não podem ser superados. Hardin sabe que cometeu o pior erro de sua vida ao ter magoado a jovem tão profundamente, mas vai lutar com toda a sua força para reconquistar o grande amor da sua vida.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fda5121e58d1585dd927fbe6e08885e4b68353e6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/duy0t3Ciqr5Zbec3OXaIgC6cEAe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma aventura fantástica onde um jovem descobre que tem poderes divinos baseados na antiga mitologia norueguesa. Um mochileiro viajando pela Noruega acaba preso pela morte de um garoto local. Durante sua detenção, uma psicóloga tenta entender o que aconteceu. Lentamente, o jovem começa a perceber que seu caminho está emaranhado com a mitologia nórdica.</info>
+</item>
+
 
 
 
