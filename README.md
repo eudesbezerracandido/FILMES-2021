@@ -594,6 +594,15 @@ Becky, uma rebelde de 13 anos, é levada para um refúgio de fim de semana em um
 <info>Em meio à vida simples de pescadores e os ritos bascos das mulheres em suas celebrações, a chegada de um emissário do rei com a acusação de bruxaria irá sentenciar o destino de um grupo de mulheres.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O MISTÉRIO DE BLOCK ISLAND [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:931740eaf9b20994ad1bebff0776af35f64cbdcc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g9m1iWhDtZHfvmQb7lwTe8AERpW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O comportamento do pescador Tom Lynch é misteriosamente influenciado por algo escondido na costa de Block Island. Após sofrer uma série de explosões violentas, ele coloca sua família em perigo.</info>
+</item>
+
+
 
 
 
