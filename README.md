@@ -602,6 +602,16 @@ Becky, uma rebelde de 13 anos, é levada para um refúgio de fim de semana em um
 <info> O comportamento do pescador Tom Lynch é misteriosamente influenciado por algo escondido na costa de Block Island. Após sofrer uma série de explosões violentas, ele coloca sua família em perigo.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] NOVA ORDEM ESPACIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5bd153d2808a3fda9729c3f602dbdd8b2f96ec1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hJgEf18Sw8iwtQCzCSIQqGOLaq6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Perseguindo detritos espaciais e sonhos distantes no ano de 2092, quatro desajustados descobrem segredos explosivos durante a tentativa de comércio de um humanoide.‎
+Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como satélites descartados e espaçonaves desertas. A tripulação do The Victory viaja pelo espaço procurando o lixo com que pode ganhar dinheiro, enquanto também compete com navios coletores de lixo de outros países e usa a rapidez de suas embarcações para derrotar seus rivais.</info>
+</item>
+
+
 
 
 
