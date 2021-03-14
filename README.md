@@ -578,6 +578,28 @@ Becky, uma rebelde de 13 anos, é levada para um refúgio de fim de semana em um
 <info>Uma mulher divorciada fica obcecada por um casal aparentemente perfeito. Quando testemunha algo chocante, acaba se envolvendo em um complexo caso de assassinato.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A ARTE DE SER ADULTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CDLY7CMRQVI6QLBPDL52O55GYCTWBCBG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3IZ7QZzC41M7N7LDOcZSUwsNzCL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Scott (Pete Davidson) tem sido um caso de desenvolvimento aprisionado desde que seu pai bombeiro morreu quando tinha sete anos. Conforme sua irmã mais nova (Maude Apatow) vai para a faculdade, Scott, agora com seus vinte e poucos anos, passa os dias fumando maconha, passeando com seus amigos e ficando com sua melhor amiga (Bel Powley). Mas quando sua mãe (Marisa Tomei) começa a namorar um outro bombeiro (Bill Burr) sem papas na língua, uma série de eventos se desencadeia, obrigando Scott a lidar com o luto e tentar seguir em frente com a vida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SILENCIADAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e188b6b5df4a313880a288bf69dae9d9d2d3af6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4ZmlEn9fBR6syM5JNmiUoiYhXov.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em meio à vida simples de pescadores e os ritos bascos das mulheres em suas celebrações, a chegada de um emissário do rei com a acusação de bruxaria irá sentenciar o destino de um grupo de mulheres.</info>
+</item>
+
+
+
+
+
+
+
 
 
 
