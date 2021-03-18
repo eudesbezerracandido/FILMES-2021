@@ -607,8 +607,16 @@ Becky, uma rebelde de 13 anos, é levada para um refúgio de fim de semana em um
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5bd153d2808a3fda9729c3f602dbdd8b2f96ec1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hJgEf18Sw8iwtQCzCSIQqGOLaq6.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Perseguindo detritos espaciais e sonhos distantes no ano de 2092, quatro desajustados descobrem segredos explosivos durante a tentativa de comércio de um humanoide.‎
+<info>Perseguindo detritos espaciais e sonhos distantes no ano de 2092, quatro desajustados descobrem segredos explosivos durante a tentativa de comércio de um humanoide.
 Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como satélites descartados e espaçonaves desertas. A tripulação do The Victory viaja pelo espaço procurando o lixo com que pode ganhar dinheiro, enquanto também compete com navios coletores de lixo de outros países e usa a rapidez de suas embarcações para derrotar seus rivais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LIGA DA JUSTIÇA - SNYDER CUT ( VERSÃO NÃO PUBLICADA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02c4214302c84a1dae1b0aa8fb90a338ee189a41</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yox4nyshPZkAwRchjat37fmVhQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A versão definitiva do diretor de Zack Snyder da Liga da Justiça. Determinado a garantir que o sacrifício final do Superman não fosse em vão, Bruce Wayne alinha forças com Diana Prince com planos de recrutar uma equipe de metahumanos para proteger o mundo de uma ameaça de proporções catastróficas que se aproxima.</info>
 </item>
 
 
