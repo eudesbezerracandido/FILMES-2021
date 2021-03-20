@@ -619,6 +619,33 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>A versão definitiva do diretor de Zack Snyder da Liga da Justiça. Determinado a garantir que o sacrifício final do Superman não fosse em vão, Bruce Wayne alinha forças com Diana Prince com planos de recrutar uma equipe de metahumanos para proteger o mundo de uma ameaça de proporções catastróficas que se aproxima.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] FÚRIA INCONTROLAVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53454013b5a482c6b698e9f872d7ad1e931b46d9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kDt37orVVcJ4tbB2azkMc4nqn1U.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Rachel está atrasada para o trabalho e cruza o caminho de um motorista lento no semáforo. Após um ataque de raiva do estranho, uma discussão normal de um dia no trânsito acaba se tornando uma perseguição sem limites, com o objetivo de mostrar para Rachel e sua família as consequências de um dia ruim.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] POR TRÁS DA INOCÊNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c8cc2b235db614bec33e3a7edb5c6ddca9a5e04</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8dsNZdatWpv3nKuhbhbdqIy7czd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma romancista de best-seller (Kristin Davis) contrata uma jovem inocente (Greer Grammer) para cuidar de seus filhos gêmeos. À medida que a romancista se entrega perigosamente ao seu novo best-seller, a linha entre a vida sobre a qual ela está escrevendo e a que ela está realmente vivendo fica obscurecida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SEM FILHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:767e7939a6fde7ca91ad05c655eb587396ce41c5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/so9Ho8rBjQ8Zn3cVgwoQO03OOKp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Gabriel está separado há quatro anos. Desde então Sofia, filha de oito anos, é o centro de sua vida. Se recusou a tentar um novo relacionamento, Gabriel coloca toda sua energia em sua filha e sua obra. Então aparece Vicky, amor platônico da adolescência, e agora transformada em uma mulher bonita, independente e auto-confiante. Só que Vicky não quer saber de filhos e então que a história se desenvolve.</info>
+</item>
+
+
+
+
 
 
 
