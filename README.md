@@ -643,6 +643,14 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> Gabriel está separado há quatro anos. Desde então Sofia, filha de oito anos, é o centro de sua vida. Se recusou a tentar um novo relacionamento, Gabriel coloca toda sua energia em sua filha e sua obra. Então aparece Vicky, amor platônico da adolescência, e agora transformada em uma mulher bonita, independente e auto-confiante. Só que Vicky não quer saber de filhos e então que a história se desenvolve.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] AMEAÇA NO ESPAÇO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BPY43AJ4LV27GUBXNIZS7MEEADYWETXZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nv4QdbPFKg98gbaG0nj4Mhjcks.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jovem clandestino está a bordo de uma arca interestelar para a Nova Terra. Com a ajuda de um experiente companheiro de tripulação, ele deve superar um terror cósmico malévolo com a intenção de usar a nave espacial como arma.</info>
+</item>
+
 
 
 
