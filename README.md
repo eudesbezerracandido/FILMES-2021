@@ -651,6 +651,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Um jovem clandestino está a bordo de uma arca interestelar para a Nova Terra. Com a ajuda de um experiente companheiro de tripulação, ele deve superar um terror cósmico malévolo com a intenção de usar a nave espacial como arma.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O JARDIM SECRETO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee80790f9d26034349f222f625c3528e1902d0f1</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91eOi4DaN0L.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Mary Lennox (Dixie Egerickx) é uma menina de 10 anos que acabou de perder os pais e é mandada para a Inglaterra para morar com o tio Archibald Craven (Colin Firth). Na mansão do tio ela começa a desvendar mistérios da família com a ajuda do seu primo (Edan Hayhurst).</info>
+</item>
+
+
 
 
 
