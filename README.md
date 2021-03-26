@@ -659,6 +659,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> Mary Lennox (Dixie Egerickx) é uma menina de 10 anos que acabou de perder os pais e é mandada para a Inglaterra para morar com o tio Archibald Craven (Colin Firth). Na mansão do tio ela começa a desvendar mistérios da família com a ajuda do seu primo (Edan Hayhurst).</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] PINÓQUIO - PINOCCHIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a55b9dade2f8fcf8635ad45bf52943c7b2f2ee8c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lzqJcPaZA9G8C6eS4Hch475Ng3A.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando o marceneiro Geppetto (Roberto Benigni) vê uma estrela cadente, ele deseja que o boneco que acabou de terminar, Pinóquio (Federico Ielapi), possa se tornar um garoto de verdade. À noite, a Fada Azul concede o desejo de Geppetto e pede ao Grilo Falante que sirva como a consciência do garoto de madeira. Mas o ingênuo e confiante Pinóquio tem uma limitação: Quando mente, seu nariz cresce.</info>
+</item>
+
+
 
 
 
