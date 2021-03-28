@@ -667,6 +667,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Quando o marceneiro Geppetto (Roberto Benigni) vê uma estrela cadente, ele deseja que o boneco que acabou de terminar, Pinóquio (Federico Ielapi), possa se tornar um garoto de verdade. À noite, a Fada Azul concede o desejo de Geppetto e pede ao Grilo Falante que sirva como a consciência do garoto de madeira. Mas o ingênuo e confiante Pinóquio tem uma limitação: Quando mente, seu nariz cresce.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] BAD TRIP [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b4151a4e49a1a99d00560dbe496ddf1957756a6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/A1Gy5HX3DKGaNW1Ay30NTIVJqJ6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nesta comédia de câmera escondida, dois amigos pegam a estrada para Nova York e, no caminho, fazem pegadinhas hilárias com pessoa reais.</info>
+</item>
+
+
 
 
 
