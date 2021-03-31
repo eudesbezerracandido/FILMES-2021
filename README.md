@@ -683,6 +683,22 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Em uma expedição pelo desconhecido deserto americano, o lendário explorador Hugh Glass (Leonardo DiCaprio) é brutalmente atacado por um urso e deixado como morto pelos membros de sua própria equipe de caça. Em uma luta para sobreviver, Glass resiste à dor inimaginável, bem como à traição de seu confidente, John Fitzgerald (Tom Hardy). Guiado pela força de vontade e pelo amor de sua família, Glass deve navegar um inverno brutal em uma incessante busca por sobrevivência e redenção.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DEIXE-O PARTIR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50a87525421cc23e9adcb43aa228cf2a4b777a8b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cjeMm5GOymDlnruhf7s1YpvMI0h.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>George e sua esposa Margaret perdem o filho, e deixam seu rancho em Montana para resgatar o neto das garras de uma família perigosa que vive em Dakota, chefiada pela matriarca Blanche Weboy. Quando descobrem que os Weboys não têm intenção de deixar a criança ir embora, George e Margaret não têm escolha a não ser lutar pela família.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] GODZILLA  VS  KONG  ( DUBLAGEM NÃO OFICIAL ) FEITA POR FÃ  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7EA3DA9B80991E5B851249CE4D4D9EC371E7CC6A</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6Fevu8QNJ3ceECggODNPjppYbe0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Numa era onde monstros caminham pela Terra, a luta da humanidade por sua sobrevivência põe Godzilla e Kong em uma colisão colossal que trará duas das mais poderosas forças da natureza, batalhando uma contra outra. Enquanto a Monarch embarca numa periculosa missão em território inexplorado para desvendar as origens dos Titãs, uma conspiração humana ameaça extinguir todas as criaturas, boas ou ruins, da face do planeta para sempre. Dublagem não oficial, essa é uma dublagem feita por fãs, se preferir aguarde o lançamento da versão brasileira oficial.</info>
+</item>
+
 
 
 
