@@ -692,12 +692,13 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 </item>
 
 <item>
-<title>[COLOR silver][B] GODZILLA  VS  KONG  ( DUBLAGEM NÃO OFICIAL ) FEITA POR FÃ  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2fedc3b8c118d9f3c302561dae5680c66a4b066</link>
+<title>[COLOR silver][B] KONG  VS  GODZILLA -  [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
+<link>https://archive.org/download/godzilla-vs-kong_202103/Godzilla%20vs%20%20Kong.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6Fevu8QNJ3ceECggODNPjppYbe0.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Numa era onde monstros caminham pela Terra, a luta da humanidade por sua sobrevivência põe Godzilla e Kong em uma colisão colossal que trará duas das mais poderosas forças da natureza, batalhando uma contra outra. Enquanto a Monarch embarca numa periculosa missão em território inexplorado para desvendar as origens dos Titãs, uma conspiração humana ameaça extinguir todas as criaturas, boas ou ruins, da face do planeta para sempre. Dublagem não oficial, essa é uma dublagem feita por fãs, se preferir aguarde o lançamento da versão brasileira oficial.</info>
 </item>
+
 
 
 
