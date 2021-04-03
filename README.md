@@ -697,7 +697,27 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <thumbnail>https://www.themoviedb.org/t/p/original/6Fevu8QNJ3ceECggODNPjppYbe0.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Numa era onde monstros caminham pela Terra, a luta da humanidade por sua sobrevivência põe Godzilla e Kong em uma colisão colossal que trará duas das mais poderosas forças da natureza, batalhando uma contra outra. Enquanto a Monarch embarca numa periculosa missão em território inexplorado para desvendar as origens dos Titãs, uma conspiração humana ameaça extinguir todas as criaturas, boas ou ruins, da face do planeta para sempre. Dublagem não oficial, essa é uma dublagem feita por fãs, se preferir aguarde o lançamento da versão brasileira oficial.</info>
-</item>   
+</item> 
+
+<item>
+<title>[COLOR silver][B] AK-47 A  ARMA QUE MUDOU O MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A3UY4CKDF2ZYBZF4FKH75PS6JJL4MJ2C</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4djODIhP8TZtjkG6w2xZjOuLk6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O comandante de tanque Kalashnikov está gravemente ferido em batalha em 1941. O acidente o deixa incapacitado e incapaz de retornar à frente. Enquanto se recupera no hospital, ele começa a criar os esboços iniciais do que se tornará uma das armas mais lendárias do mundo. Um inventor autodidata, Mikhail Kalashnikov, tem apenas 29 anos quando desenvolve o agora icônico rifle de assalto o AK-47.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FUJA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c13f2d1770d08ea23373ac85c64829c6466ab8f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3PFEWKFqfZZoxDpJNceL6XKzsGk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Diane (Sarah Paulson) criou sua filha, que usa cadeira de rodas, mantendo-a totalmente isolada do mundo exterior. Mas quando Chloe (Kiera Allen) descobre os segredos sinistros de sua mãe, tudo que ela acreditava ser verdade começa a desmoronar.</info>
+</item>
+
+
+
+
 
 
 
