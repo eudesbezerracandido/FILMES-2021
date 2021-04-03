@@ -715,6 +715,34 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Diane (Sarah Paulson) criou sua filha, que usa cadeira de rodas, mantendo-a totalmente isolada do mundo exterior. Mas quando Chloe (Kiera Allen) descobre os segredos sinistros de sua mãe, tudo que ela acreditava ser verdade começa a desmoronar.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] OS SEGREDOS DE MADAME  CLAUDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88409c96007b49b6e8c8f6d67c4478b0f954c581</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wce7KTNGvhYfJqIgtxMhPWrllzg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>aris, final dos anos 1960. Madame Claude está à frente de um florescente negócio dedicado à prostituição que lhe dá poder sobre o mundo político e criminal francês. Mas o fim de seu império está mais próximo do que ela pensa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ALMA DE COWLBOY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89fe17d508d4feacd0ff86a66279d7cb0a9a0a72</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7OBNEWwkFhsArvWJwgeL9BFmU7c.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Cole, de 15 anos, é forçado a viver com seu distante pai, Harp, no norte da Filadélfia, onde, apesar da pobreza e violência ao seu redor, descobre o mundo redentor dos caubóis urbanos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] APENAS DIGA SIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:513f03ce0e90137890ada0720fab9211975da9d1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rHfYTIPjSiameKP8zJCQscEJ5wo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A romântica incurável Lotte vê sua vida desfeita quando seus planos para um casamento perfeito se desfazem - assim que sua irmã egocêntrica fica noiva.</info>
+</item>
+
+
+
+
+
 
 
 
