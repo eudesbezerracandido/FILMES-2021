@@ -747,6 +747,24 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>A vida de Ángel muda para sempre quando conhece Estrella em uma boate. Depois de um desentendimento com Poli, o namorado possessivo da garota, Poli descobre que Ángel tem talento para se meter em problemas e, o mais importante, para sair deles também. Por esse motivo, ele o encoraja a se juntar a uma gangue de ladrões. Ángel logo começa a escalar uma hierarquia que gira em torno de dinheiro sujo, acordos obscuros e advogados corruptos, o que o levará a ser encurralado por Duque, um detetive incansável que não descansará até que ele ponha um fim à sua vida de crime.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] NÓS BRAÇOS DE UM ASSASSINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4080c8c25e5b06672c88a86c0504f313b02d44e1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iqRUOtbDunNq7gTux3zXz25Krwp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sarai aos 14 anos foi levada para viver no México em um quartel de drogas. Anos se passaram e quando um misterioso americano aparece no complexo que vive, ela vê nele sua chance de escapar, entretanto nada acontece como o esperado e ela acaba virando vítima em seu próprio jogo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DIFICIL DE MATAR - HARD KILL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:773e457822d4837563f08f25888787f005557d2f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aohWBXqvFv69yhtASWQxncn7auU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história segue um bilionário de tecnologia que contrata uma equipe de destemidos mercenários para proteger uma peça de tecnologia que, se exposta, pode destruir o mundo.</info>
+</item>
+
+
+
 
 
 
