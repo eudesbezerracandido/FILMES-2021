@@ -739,6 +739,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>A romântica incurável Lotte vê sua vida desfeita quando seus planos para um casamento perfeito se desfazem - assim que sua irmã egocêntrica fica noiva.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ATÉ O CÉU  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc1e9d3ef5aa213436dccb55270f0b77f401944e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4wBsYozsXBlG7Lx4NO7ycDWnnUs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A vida de Ángel muda para sempre quando conhece Estrella em uma boate. Depois de um desentendimento com Poli, o namorado possessivo da garota, Poli descobre que Ángel tem talento para se meter em problemas e, o mais importante, para sair deles também. Por esse motivo, ele o encoraja a se juntar a uma gangue de ladrões. Ángel logo começa a escalar uma hierarquia que gira em torno de dinheiro sujo, acordos obscuros e advogados corruptos, o que o levará a ser encurralado por Duque, um detetive incansável que não descansará até que ele ponha um fim à sua vida de crime.</info>
+</item>
+
+
 
 
 
