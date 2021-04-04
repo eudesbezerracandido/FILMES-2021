@@ -763,6 +763,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>A história segue um bilionário de tecnologia que contrata uma equipe de destemidos mercenários para proteger uma peça de tecnologia que, se exposta, pode destruir o mundo.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] VOÇÊ DEVERIA TER PARTIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24cdbca04c3366f49adfe3f8f1b0a8b6e0aad55c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jmgg6wuEUjcnDeTrq5dlupKObkH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Tentando superar o estresse e o ciúme pela esposa atriz muitos anos mais jovem, Theo resolve passar uma temporada com ela e a filha num casarão alugado na zona rural da Inglaterra. Mas estranhos fenômenos começam a assombrar a família.</info>
+</item>
+
+
 
 
 
