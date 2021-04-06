@@ -771,6 +771,14 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Tentando superar o estresse e o ciúme pela esposa atriz muitos anos mais jovem, Theo resolve passar uma temporada com ela e a filha num casarão alugado na zona rural da Inglaterra. Mas estranhos fenômenos começam a assombrar a família.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O LEGIONÁRIO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dab9cd2698fe28b6a61bd4a09bce1dae1fe1eb8d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/spcpJtT7Ac3YAHy9a36uP3B0Yhd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O reinado de Nero. A invasão de Pártia foi um fiasco. Duas legiões romanas foram colocadas em pé ainda nas montanhas nevadas da Armênia, e os homens estão morrendo lentamente no frio. O resto do exército romano está na Síria, a apenas duas semanas de distância, mas as montanhas estão repletas de patrulhas partas. A Noreno, um meio romano, é confiada a missão de atravessar as montanhas para pedir ajuda. No entanto, ele pode não ser a melhor opção, ele é um corredor experiente, mas despreza Roma.</info>
+</item>
+
 
 
 
