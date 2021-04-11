@@ -827,6 +827,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Tae-gu tenta por em ordem sua vida por causa de sua irmã e sobrinho doentes. Então, um dia, sua irmã e seu sobrinho são mortos em um acidente por alguém que mirou em Tae-gu. Ele decide se vingar.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CHORÃO - MARGINAL ALADO  DOC. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7e578f763534d479c1c05563f4a437fb4ee0a23</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gogfKsMhf4q8iOO8awqi9YWkt4g.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Filme sobre a vida do vocalista do Charlie Brown Jr. estreia durante a Mostra Internacional de Cinema de São Paulo de 2019. Criado a partir de imagens de arquivo de familiares e emissoras de TV, além de depoimentos de pessoas próximas.</info>
+</item>
+
+
+
 
 
 
