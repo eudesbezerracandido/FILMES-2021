@@ -843,6 +843,17 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Dois pilotos iranianos estão em uma missão especial para resgatar o povo de uma pequena cidade síria que está cercada por terroristas do Estado Islâmico. Mas eles terão que enfrentar muitos desafios antes de conseguir cumprir a missão.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MEU  PAI  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6072440afaf785cacd4f7025a59f47a2141a26a6</link>
+<thumbnail>https://archive.org/download/2700323/2700323.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Anthony tem 80 anos. Ele mora sozinho em Londres e recusa as enfermeiras que sua filha tenta impor a ele. No entanto, a ajuda está se tornando mais urgente, pois ela decidiu se mudar para Paris e ele está cada vez pior. Enquanto ele tenta entender suas mudanças, começa a duvidar de seus entes queridos, de sua própria mente e da própria realidade.</info>
+</item>
+
+
+
+
 
 
 
