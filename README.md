@@ -779,6 +779,40 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>O reinado de Nero. A invasão de Pártia foi um fiasco. Duas legiões romanas foram colocadas em pé ainda nas montanhas nevadas da Armênia, e os homens estão morrendo lentamente no frio. O resto do exército romano está na Síria, a apenas duas semanas de distância, mas as montanhas estão repletas de patrulhas partas. A Noreno, um meio romano, é confiada a missão de atravessar as montanhas para pedir ajuda. No entanto, ele pode não ser a melhor opção, ele é um corredor experiente, mas despreza Roma.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O PROTOCOLO DE AUSCHIWITZ  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:a9991b6193de0d2d6879bf9ed8e6a2aaf1c4300f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uTvodu8Jqq8C5uiEXbsFmto4GJI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Esta é a história real de Freddy e Walter dois jovens judeus eslovacos, que foram deportados para Auschwitz em 1942. Em 10 de abril de 1944, após um planejamento meticuloso e com a ajuda e a resiliência de seus internos, eles conseguiram escapar. Enquanto os presos, que eles haviam deixado para trás, corajosamente mantiveram sua posição contra os oficiais nazistas, os dois homens são movidos pela esperança de que suas evidências possam salvar vidas. Emaciados e feridos, eles voltam pelas montanhas para a Eslováquia. Com a ajuda de encontros casuais, eles finalmente conseguem cruzar a fronteira e encontrar a resistência e a Cruz Vermelha. Eles compilam um relatório detalhado sobre o genocídio sistemático no campo. No entanto, com a propaganda nazista e ligações internacionais ainda em vigor, seu relato parece ser muito angustiante para acreditar.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SILK ROAD  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:198037fef625fd169886f478067b53f301e2f8ca</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6KxiEWyIDpz1ikmD7nv3GTX4Uoj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O filosófico Ross Ulbricht, na casa dos vinte e poucos anos, cria o Silk Road, um site dark net que vende drogas, enquanto o agente da DEA Rick Bowden se disfarça para derrubá-lo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A MÁSCARA DE FERRO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f29c309a409f9109196397178102b6ee6d52ddd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/f4TV8H3kQQdzXtAXPRDCzLILKIy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um viajante Inglês que vai para a China no século 18, a fim de produzir mapas do Extremo Oriente da Rússia, se reunirá com mágicos incorporados em diversos elementos naturais e até mesmo o rei de todos os dragões, Loon Wang.</info>
+</item>
+
+
+
+
+
+ 
+
+
+
+
+
 
 
 
