@@ -803,6 +803,34 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Um viajante Inglês que vai para a China no século 18, a fim de produzir mapas do Extremo Oriente da Rússia, se reunirá com mágicos incorporados em diversos elementos naturais e até mesmo o rei de todos os dragões, Loon Wang.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O LAGO DA MORTE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6a7622b09dbeddd64ac20e9b1c54b98749c7b68</link>
+<thumbnail>https://ia801408.us.archive.org/23/items/lakeofdeath-sofa-20210121-3443-poster-pt-br/LAKEOFDEATH_SOFA_20210121_3443_Poster_pt-BR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após a misteriosa morte de seu irmão gêmeo, uma jovem viaja com amigos até uma cabana perto do lago onde tudo aconteceu. Rapidamente, eles percebem que lugar tem outros visitantes misteriosos. Inspirado no clássico filme de terror de 1958. Lilian e alguns amigos viajam até uma remota cabana do lago, onde seu irmão gêmeo morreu um ano atrás, e com sua chegada coisas estranhas começam a acontecer.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ESQUADRÃO TROVÃO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HU5GRPYUKKG2HFB4A6LTMTGXLPTJ5C45</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/Aej7rR73kpAKce6XXBLeqijAwPD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Duas mulheres comuns adquirem super-poderes inesperadamente, e passam a fazer parte de um mundo novo de super-heróis.</info>
+</item>
+
+
+
+
+
+
+
+    
+
+  
+
+
+
 
 
 
