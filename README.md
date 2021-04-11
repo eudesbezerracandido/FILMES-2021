@@ -819,6 +819,17 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Duas mulheres comuns adquirem super-poderes inesperadamente, e passam a fazer parte de um mundo novo de super-heróis.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] NOITE NO PARAISO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37386b47d0b3e80a468b0e9687dece178b596a91</link>
+<thumbnail>https://archive.org/download/noite-no-paraiso-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd/noite-no-paraiso-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Tae-gu tenta por em ordem sua vida por causa de sua irmã e sobrinho doentes. Então, um dia, sua irmã e seu sobrinho são mortos em um acidente por alguém que mirou em Tae-gu. Ele decide se vingar.</info>
+</item>
+
+
+
+
 
 
 
