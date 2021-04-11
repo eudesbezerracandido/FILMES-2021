@@ -835,6 +835,17 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> Filme sobre a vida do vocalista do Charlie Brown Jr. estreia durante a Mostra Internacional de Cinema de São Paulo de 2019. Criado a partir de imagens de arquivo de familiares e emissoras de TV, além de depoimentos de pessoas próximas.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] TERROR NA SIRIA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef58d24b6d03d9670580eb00144ed8c8ab89cf11</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dby3MpllNvWjOqccys01214xl2n.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois pilotos iranianos estão em uma missão especial para resgatar o povo de uma pequena cidade síria que está cercada por terroristas do Estado Islâmico. Mas eles terão que enfrentar muitos desafios antes de conseguir cumprir a missão.</info>
+</item>
+
+
+
+
 
 
 
