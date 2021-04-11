@@ -851,6 +851,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Anthony tem 80 anos. Ele mora sozinho em Londres e recusa as enfermeiras que sua filha tenta impor a ele. No entanto, a ajuda está se tornando mais urgente, pois ela decidiu se mudar para Paris e ele está cada vez pior. Enquanto ele tenta entender suas mudanças, começa a duvidar de seus entes queridos, de sua própria mente e da própria realidade.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ASSALTO AO BANCO DA ESPANHA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= magnet:?xt=urn:btih:cc8b1206cdbcc858872d41b743b244cac55a6566</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AhRSv4npEaE8ZvuJh4CmQpsXDZg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um talentoso estudante de engenharia idealiza um plano para invadir um dos bancos mais impenetráveis e perigosos do mundo, durante a final da Copa do Mundo de 2010. Um lendário tesouro perdido será depositado no cofre do banco por apenas 10 dias. Mas ninguém jamais conseguiu invadir o banco, e seu sistema de segurança inclui um rio subterrâneo que inunda a sala de segurança, caso alguém consiga violá-la.</info>
+</item>
+
+
+
 
 
 
