@@ -867,6 +867,14 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>No filme Jogos Virtuais: O Início Torrent – WEB-DL 1080p Dual Áudio, Cenk é um jovem gamer extremamente habilidoso, mas precisa trabalhar para ajudar sua família. Até que um dia, ele é descoberto por um time profissional. Agora ele precisará enfrentar todos os desafios para jogar nas finais do torneio.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MORTAL KOMBAT - ( LEG.FIXO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11D8A5F056BB3E9EAFBDB2EA55F4C0718E166B36</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w8BVC3qrCWCiTHRz4Rft12dtQF0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O lutador de MMA Cole Young (Lewis Tan), acostumado a ser pago para perder lutas, não imagina que vem uma de linhagem rara — nem que esse é o motivo para ele estar sendo caçado por guerreiros de outro mundo enviados pelo Imperador Shang Tsung. Para proteger sua família, ele embarca numa violenta jornada onde treinará para enfrentar os maiores campeões de combate do universo.</info>
+</item>
+
 
 
 
