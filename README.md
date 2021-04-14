@@ -891,6 +891,14 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Em um cenário pós-apocalíptico onde monstros gigantes dominaram a Terra fazendo com que o restante da humanidade se esconda em colônias subterrâneas, um jovem decide arriscar tudo para ir em busca de sua paixão de escola, fazendo no caminho amizade com um cachorro heroico e uma dupla inusitada de sobreviventes.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] PORQUE VOCÊ ME MATOU? [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd7b44d4f1d49a9754233cb8edefce508e2da3b1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u2eBUmtBLTzb0M2BDxuNqB9trlz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A linha entre justiça e vingança é tênue para uma família que busca o mínimo de conforto para a morte da filha de 24 anos. Em sua jornada muito difícil de luto, eles usam as redes sociais para tentar encontrar as pessoas horríveis que mataram a jovem. A família não pretende descansar até conseguir respostas sobre o crime.</info>
+</item>
+
 
 
 
