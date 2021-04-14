@@ -868,7 +868,7 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 </item>
 
 <item>
-<title>[COLOR silver][B] MORTAL KOMBAT - ( LEG.FIXO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] MORTAL KOMBAT - ( HDCAM LEGENDADO & DUBLADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11D8A5F056BB3E9EAFBDB2EA55F4C0718E166B36$nome=MORTAL KOMBAT LEG.</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b692b06fb982439c68aab244ee19a862a19bbfbe$nome=MORTAL KOMBAT DUBLADO NÃO OFICIAL</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/w8BVC3qrCWCiTHRz4Rft12dtQF0.jpg</thumbnail>
