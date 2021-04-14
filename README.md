@@ -881,7 +881,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <thumbnail>https://www.themoviedb.org/t/p/original/w8BVC3qrCWCiTHRz4Rft12dtQF0.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> O lutador de MMA Cole Young (Lewis Tan), acostumado a ser pago para perder lutas, não imagina que vem uma de linhagem rara — nem que esse é o motivo para ele estar sendo caçado por guerreiros de outro mundo enviados pelo Imperador Shang Tsung. Para proteger sua família, ele embarca numa violenta jornada onde treinará para enfrentar os maiores campeões de combate do universo.</info>
-</item>     
+</item> 
+
+<item>
+<title>[COLOR silver][B] AMOR E MOSTROS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0018a90961da8a63b712b19dfbbd1a4ef0bda158</link>
+<thumbnail>https://archive.org/download/5061463/5061463.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um cenário pós-apocalíptico onde monstros gigantes dominaram a Terra fazendo com que o restante da humanidade se esconda em colônias subterrâneas, um jovem decide arriscar tudo para ir em busca de sua paixão de escola, fazendo no caminho amizade com um cachorro heroico e uma dupla inusitada de sobreviventes.</info>
+</item>
 
 
 
