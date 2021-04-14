@@ -868,9 +868,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 </item>
 
 <item>
-<title>[COLOR silver][B] MORTAL KOMBAT - ( HDCAM LEGENDADO & DUBLADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11D8A5F056BB3E9EAFBDB2EA55F4C0718E166B36$nome=LEGENDADO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b692b06fb982439c68aab244ee19a862a19bbfbe$nome=DUBLADO</link>
+<title>[COLOR silver][B] MORTAL KOMBAT - ( HDCAM LEGENDADO  ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11D8A5F056BB3E9EAFBDB2EA55F4C0718E166B36</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w8BVC3qrCWCiTHRz4Rft12dtQF0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O lutador de MMA Cole Young (Lewis Tan), acostumado a ser pago para perder lutas, não imagina que vem uma de linhagem rara — nem que esse é o motivo para ele estar sendo caçado por guerreiros de outro mundo enviados pelo Imperador Shang Tsung. Para proteger sua família, ele embarca numa violenta jornada onde treinará para enfrentar os maiores campeões de combate do universo.</info>
+</item> 
+
+<item>
+<title>[COLOR silver][B] MORTAL KOMBAT - ( HDCAM DUBLADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b692b06fb982439c68aab244ee19a862a19bbfbe</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/w8BVC3qrCWCiTHRz4Rft12dtQF0.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> O lutador de MMA Cole Young (Lewis Tan), acostumado a ser pago para perder lutas, não imagina que vem uma de linhagem rara — nem que esse é o motivo para ele estar sendo caçado por guerreiros de outro mundo enviados pelo Imperador Shang Tsung. Para proteger sua família, ele embarca numa violenta jornada onde treinará para enfrentar os maiores campeões de combate do universo.</info>
