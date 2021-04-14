@@ -892,7 +892,7 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 </item>
 
 <item>
-<title>[COLOR silver][B] PORQUE VOCÊ ME MATOU? [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] PORQUE VOCÊ ME MATOU? ( DOCUMENTÁRIO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd7b44d4f1d49a9754233cb8edefce508e2da3b1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/u2eBUmtBLTzb0M2BDxuNqB9trlz.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
