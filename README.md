@@ -931,6 +931,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Um documentário que analisa os fatos marcantes e os protagonistas que transformaram os videogames em uma indústria multimilionária.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ESPERANDO OS BARBÁROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PO7Z76LFT6PUMFXPFTH6Q4OJECXETMEU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ehMGK1Ygp1mafJrQ3s6yGNJe6TY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+
 
 
 
