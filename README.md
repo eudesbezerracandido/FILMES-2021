@@ -899,6 +899,43 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>A linha entre justiça e vingança é tênue para uma família que busca o mínimo de conforto para a morte da filha de 24 anos. Em sua jornada muito difícil de luto, eles usam as redes sociais para tentar encontrar as pessoas horríveis que mataram a jovem. A família não pretende descansar até conseguir respostas sobre o crime.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] RADIOACTIVE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82973416a0bf49310496279b1f9f22b648dfba0b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/akHIQu8W3rOgT28r25ggXaKcQIr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história das paixões científicas e românticas de Marie (Rosamund Pike) e Pierre Curie (Sam Riley), assim como as reverberações de suas descobertas no século 20.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TUDO POR ELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd056e16072b92ab0c7df99bff1f69cfb8537902 </link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oMqHXzjCxqmZRL1DHUqBwaR7yRQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Rei ajuda a mulher dos seus sonhos a escapar do marido violento. Durante a fuga, os sentimentos das duas pegam fogo. Baseado no mangá ''Gunjo'' de Ching Nakamura.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MINHA ZOE,MINHA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89b79774d84ab308df8a3d9dc7dd0becb3529a74</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nLhNcVOXWfYLP6XpUSPvtVdU4UP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Isabelle, uma geneticista que se recupera de um péssimo casamento, cria sua filha Zoe junto com seu ex-marido. Zoe significa tudo para sua mãe. Uma tragédia atinge a família.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A REVOLUÇÃO DOS GAMES - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bbd4d857be16e0677b91a903cfc3915a540b1a5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lOAu6vIAQad94uc1IU4kHC52DXm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um documentário que analisa os fatos marcantes e os protagonistas que transformaram os videogames em uma indústria multimilionária.</info>
+</item>
+
+
+
+
+
+
 
 
 
