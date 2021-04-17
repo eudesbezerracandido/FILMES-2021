@@ -939,6 +939,36 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info></info>
 </item>
 
+<item>
+<title>[COLOR silver][B] 2067 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32d9bdb5d6162e4cd6b3b1a39b0f8c20687808c6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7D430eqZj8y3oVkLFfsWXGRcpEG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No ano de 2067, a Terra foi devastada pelas mudanças climáticas e a humanidade é forçada a viver de oxigênio artificial. Uma doença causada pelo O2 sintético está matando a população mundial e a única esperança de cura vem na forma de uma mensagem do futuro: Enviem Ethan Whyte. Ethan, um trabalhador de um túnel subterrâneo, é repentinamente lançado em um novo mundo aterrorizante cheio de perigos desconhecidos enquanto ele deve lutar para salvar a raça humana.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TWISTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c723074587811bd185b966f4d01a8cd6d014130</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/29dCusd9PwHrbDqzxNG35WcpZpS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma adaptação moderna de Oliver Twist onde um jovem trabalhador finalmente encontra um verdadeiro sentido de família em um estranho grupo de párias talentosos que usam suas habilidades únicas para derrubar os criminosos ricos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SINCRÔNICO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa8ac9e2359e830edb645f95f29f62ca0126aa17</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sGJfkoYhe1DJeUhhlYbAIKwHsnO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> As vidas de dois paramédicos de Nova Orleans são destruídas depois de uma série de mortes horríveis, ligadas a uma droga com efeitos bizarros e sobrenaturais.</info>
+</item>
+
+
+
+
+
+
+
 
 
 
