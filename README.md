@@ -987,6 +987,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Quatro histórias exploram como eventos inesperados podem afetar sentimentos adormecidos e impactar relações desgastadas.</info>
 </item>  
 
+<item>
+<title>[COLOR silver][B] O ATIRADOR - O FIM DE UM ASSASSINO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2b9c6657f4d88eda964e400aa0be9e6fba347b5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/v6joFIShgkQ40Tti3DagEbdvHwp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O lendário atirador de elite Thomas Beckett e seu filho, o atirador de operações especiais Brandon Beckett, estão fugindo da CIA, mercenários russos e um assassino atirador treinado da Yakuza.</info>
+</item>
+
+
+
 
 
 
