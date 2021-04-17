@@ -966,7 +966,7 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <item>
 <title>[COLOR silver][B] O GÂNGSTER, O POLICIAL E O DIABO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78143e074f23a06750ff24dab22d473793328c53</link>
-<thumbnail>https://www.themoviedb.org/movie/602315-the-gangster-the-cop-the-devil?language=pt-BR</thumbnail>
+<thumbnail>https://archive.org/download/o-gangster-o-policial-e-o-diabo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd/o-gangster-o-policial-e-o-diabo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Jang Dong-Soo (Ma Dong-Seok) é um chefe de gangue em Cheonan. Ele se torna o alvo do serial killer Kang Kyung-Ho (Kim Sung-Kyu). Jang Dong-Soo sobrevive e ele é a única pessoa que sobreviveu de um ataque de Kang Kyung-Ho. O detetive Jung Tae-Seok (Kim Moo-Yul) detesta membros do crime organizado, mas trabalha com Jang Dong-Soo para capturar o serial killer Kang Kyung-Ho.</info>
 </item>
