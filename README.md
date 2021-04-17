@@ -985,7 +985,7 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <thumbnail>https://www.themoviedb.org/t/p/original/5KHjF8H2bqvQdmvkmeAlFjKXkmB.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Quatro histórias exploram como eventos inesperados podem afetar sentimentos adormecidos e impactar relações desgastadas.</info>
-</item>
+</item> 
 
 
 
