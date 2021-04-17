@@ -963,6 +963,34 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> As vidas de dois paramédicos de Nova Orleans são destruídas depois de uma série de mortes horríveis, ligadas a uma droga com efeitos bizarros e sobrenaturais.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O GÂNGSTER, O POLICIAL E O DIABO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78143e074f23a06750ff24dab22d473793328c53</link>
+<thumbnail>https://www.themoviedb.org/movie/602315-the-gangster-the-cop-the-devil?language=pt-BR</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jang Dong-Soo (Ma Dong-Seok) é um chefe de gangue em Cheonan. Ele se torna o alvo do serial killer Kang Kyung-Ho (Kim Sung-Kyu). Jang Dong-Soo sobrevive e ele é a única pessoa que sobreviveu de um ataque de Kang Kyung-Ho. O detetive Jung Tae-Seok (Kim Moo-Yul) detesta membros do crime organizado, mas trabalha com Jang Dong-Soo para capturar o serial killer Kang Kyung-Ho.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NA BATIDA DO CORAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e6a6792df2021dd283612a12eced516332d26f7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rMezVjxjNu7lb7AShUqx6Y1uPqM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Katya (Alexandra Pfeifer) é um jovem sonhadora que treina para ser uma grande bailarina clássica. No entanto, ela acaba descobrindo o hip-hop e se apaixona pelo novo ritmo, além de conhecer Marlon (Yalany Marschner) um garoto encantador. Agora Katya precisará decidir entre seguir os planos de seus pais ou se jogar na nova paixão artística</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] HISTÓRIAS EM COMUM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c9a2752646dc3d9a2eb9fa39a627f3fe2721b05</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5KHjF8H2bqvQdmvkmeAlFjKXkmB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quatro histórias exploram como eventos inesperados podem afetar sentimentos adormecidos e impactar relações desgastadas.</info>
+</item>
+
+
+
+
+
 
 
 
