@@ -995,6 +995,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>O lendário atirador de elite Thomas Beckett e seu filho, o atirador de operações especiais Brandon Beckett, estão fugindo da CIA, mercenários russos e um assassino atirador treinado da Yakuza.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SOUVENIR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a27bab5ebd30e661075deb2050b5c0a6bba75419</link>
+<thumbnail>https://archive.org/download/souvenir-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd/souvenir-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma jovem desesperada e solitária aluga seu útero para engravidar de um casal de estranhos. Porém, um acidente acontece e ela toma medidas extremas para cumprir sua parte do acordo.</info>
+</item>
+
+
+
 
 
 
