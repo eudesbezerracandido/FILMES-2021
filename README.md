@@ -1003,6 +1003,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> Uma jovem desesperada e solitária aluga seu útero para engravidar de um casal de estranhos. Porém, um acidente acontece e ela toma medidas extremas para cumprir sua parte do acordo.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] TENHO MEDO TOUREIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf476a55b3abd93f2bfa0bf110b149733fde027c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rr79BAaLLt6ElEGQx3IHkEhKiYR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Adaptação para o cinema do livro de Pedro Lemebel, talvez o escritor mais polêmico e transgressor que surgiu nos últimos anos do Chile sob Augusto Pinochet. Ambientado na primavera de 1986, com o controle perdedor de Pinochet do Chile, conta a história de La Loca del Frente, uma travesti envelhecido, solitário, loquaz e fisicamente miserável que mora em um bairro pobre de Santiago, ouvindo boleros para afogar o barulho de tiros e policiais lá fora. O romance narra paralelamente a história de amor entre La Loca e um membro da resistência armada a Pinochet que está preparando o ataque de verdade (vida real) de 1986 ao ditador, ao mesmo tempo em que relata o casamento sem alma de Pinochet.</info>
+</item>
+
+
+
 
 
 
