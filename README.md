@@ -1011,6 +1011,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Adaptação para o cinema do livro de Pedro Lemebel, talvez o escritor mais polêmico e transgressor que surgiu nos últimos anos do Chile sob Augusto Pinochet. Ambientado na primavera de 1986, com o controle perdedor de Pinochet do Chile, conta a história de La Loca del Frente, uma travesti envelhecido, solitário, loquaz e fisicamente miserável que mora em um bairro pobre de Santiago, ouvindo boleros para afogar o barulho de tiros e policiais lá fora. O romance narra paralelamente a história de amor entre La Loca e um membro da resistência armada a Pinochet que está preparando o ataque de verdade (vida real) de 1986 ao ditador, ao mesmo tempo em que relata o casamento sem alma de Pinochet.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A DESPEDIDA - BLACKBIRD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6XXCEULJOFFWHD5W22HT7ESNXHX7BOWD</link>
+<thumbnail>https://1.bp.blogspot.com/-IVJQwRKwpVE/X5sQeawVsWI/AAAAAAAABZs/PMUyzq5rKmAvkSiZEGST0w9EbbGD6N3jgCLcBGAsYHQ/s2048/blackbird.webp</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Com as vencedoras de Oscar Susan Sarandon e Kate Winslet. Neste retrato otimista da morte, uma mãe reúne sua família para alguns dias na praia após encerrar sua batalha com uma doença. Mas nem todos estão tão tranquilos com a despedida.</info>
+</item>
+
+
 
 
 
