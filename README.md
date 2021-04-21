@@ -1027,6 +1027,33 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Diane (Sarah Paulson) criou sua filha, que usa cadeira de rodas, mantendo-a totalmente isolada do mundo exterior. Mas quando Chloe (Kiera Allen) descobre os segredos sinistros de sua mãe, tudo que ela acreditava ser verdade começa a desmoronar.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] INVERNO EM NOVA YORK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c544202a663b1f6d0d158b2a429baf5b7a9f2e8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wNqdAA8nog9S8B48unPzIO3oGyr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando quatro pessoas que estão passando pelo pior período de suas vidas encontram-se por uma ocasião do destino, elas acham o amor e a ternura onde menos esperavam encontrar. Juntos, os quatro desconhecidos aprendem a superar os problemas através da empatia ao próximo e do compartilhamento de alegrias e tristezas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ÚLTIMAS NOTICIAIS DE YUDA CONTRY  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c44156245f3b19c2e590aa1296abfd64cec07c62</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5ESkoaHgq6vHOY8tSjPbTbT0XpV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sue Bottoms (Allison Janney) pega o marido na cama com outra mulher, o que faz com que ele morra de ataque cardíaco. Ela enterra o corpo dele e aproveita o crescente status de celebridade que vem de ter um marido desaparecido. Mas Sue rapidamente se vê perdendo a cabeça, se esquivando de policiais e criminosos, enquanto tenta manter a mentira de sua meia-irmã Nancy (Mila Kunis), uma âncora de notícias local que está desesperada por uma história, e uma determinada detetive local (Regina Hall).</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NOMADLAND  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7170b8c4dcd47173859b3abd68e2c2e67e67a51</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pLwarSuyUjw6vF0U6JhlHzAa1Gp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Fern (Frances McDormand) é uma mulher de 60 anos, que depois de perder tudo na Grande Recessão embarca em uma jornada pelo oeste americano, vivendo como uma nômade dos tempos modernos.</info>
+</item>
+
+
+
+
 
 
 
