@@ -1059,6 +1059,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Numa missão com destino a Marte, a tripulação sofre um acidente longe demais da Terra. Com recursos diminuindo rapidamente, a pesquisadora da nave (Anna Kendrick) surge como a única voz que vai contra a sua comandante (Toni Collette) e o biólogo da nave (Daniel Dae Kim), que já decidiram a favor de um desfecho sombrio.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A ÚLTIMA NOTA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:697c00478ff9fa5eca40c40fc47c346d367ccb71</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hyuW6OVIvRhHClAdGkdycc7uis7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um famoso pianista (Patrick Stewart) no crepúsculo de sua carreira retorna ao palco após uma longa ausência e encontra-se lutando com um caso severo de medo de palco. Ele conhece uma crítica de música de espírito livre (Katie Holmes) que logo se torna o seu amparo à medida que seu estado mental se deteriora, mas ela morre tragicamente quando a felicidade parece estar à mão. Ele viaja para um lugar misterioso nos Alpes suíços para cumprir uma promessa feita a ela, e involuntariamente, embarca numa jornada espiritual que o transformará.</info>
+</item>
+
+
 
 
 
