@@ -1084,8 +1084,9 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 </item>
 
 <item>
-<title>[COLOR silver][B] MORTAL KOMBAT 2021 ARCHIVE LEG. [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
-<link>https://archive.org/download/mortal-kombat-2021_20210424_1336/MORTAL%20KOMBAT2021.mkv</link>
+<title>[COLOR silver][B] MORTAL KOMBAT 2021 ARCHIVE LEGENDADO & DUBLADO NÃO OFICIAL [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
+<link>https://archive.org/download/mortal-kombat-2021_20210424_1336/MORTAL%20KOMBAT2021.mkv$nome=MORTAL KOMBAT LEGENDADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B692B06FB982439C68AAB244EE19A862A19BBFBE$nome=MORTAL KOMBAT DUBLADO NÃO OFICIAL</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/71z7cXagPriquYJWDLIQ5WhElPV.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Nova aventura baseada no videogame Mortal Kombat. Na história, um jovem que nunca treinou artes marciais acaba envolvido em um gigantesco torneio de luta envolvendo guerreiros da Terra e lutadores e outras dimensões.</info>
