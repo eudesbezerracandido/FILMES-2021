@@ -1083,6 +1083,14 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Dois ex-amantes se encontram antes do casamento numa ilha tropical com seus amigos. Como os únicos passageiros de um avião monomotor sobrevoando as águas azuis do Oceano Índico, uma faísca logo reacende - mas quando o piloto sofre um ataque cardíaco, o casal precisa lutar por suas vidas para ficar no ar e encontrar seu caminho de volta à terra.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MORTAL KOMBAT 2021 ARCHIVE [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
+<link>https://archive.org/download/mortal-kombat-2021_20210424_1336/MORTAL%20KOMBAT2021.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/71z7cXagPriquYJWDLIQ5WhElPV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nova aventura baseada no videogame Mortal Kombat. Na história, um jovem que nunca treinou artes marciais acaba envolvido em um gigantesco torneio de luta envolvendo guerreiros da Terra e lutadores e outras dimensões.</info>
+</item>
+
 
 
 
