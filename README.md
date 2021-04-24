@@ -1051,6 +1051,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Fern (Frances McDormand) é uma mulher de 60 anos, que depois de perder tudo na Grande Recessão embarca em uma jornada pelo oeste americano, vivendo como uma nômade dos tempos modernos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] PASSAGEIRO ACIDENTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BHO72GQD5ICIIERMVZOMGPDXSDNBHGJI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/n91IdvTOxogvs08HN0mYK7nY5T7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Numa missão com destino a Marte, a tripulação sofre um acidente longe demais da Terra. Com recursos diminuindo rapidamente, a pesquisadora da nave (Anna Kendrick) surge como a única voz que vai contra a sua comandante (Toni Collette) e o biólogo da nave (Daniel Dae Kim), que já decidiram a favor de um desfecho sombrio.</info>
+</item>
+
+
 
 
 
