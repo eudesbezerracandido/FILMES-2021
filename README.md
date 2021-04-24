@@ -1084,7 +1084,7 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 </item>
 
 <item>
-<title>[COLOR silver][B] MORTAL KOMBAT 2021 ARCHIVE [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
+<title>[COLOR silver][B] MORTAL KOMBAT 2021 ARCHIVE LEG. [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
 <link>https://archive.org/download/mortal-kombat-2021_20210424_1336/MORTAL%20KOMBAT2021.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/71z7cXagPriquYJWDLIQ5WhElPV.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
