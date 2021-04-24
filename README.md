@@ -1067,6 +1067,24 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Um famoso pianista (Patrick Stewart) no crepúsculo de sua carreira retorna ao palco após uma longa ausência e encontra-se lutando com um caso severo de medo de palco. Ele conhece uma crítica de música de espírito livre (Katie Holmes) que logo se torna o seu amparo à medida que seu estado mental se deteriora, mas ela morre tragicamente quando a felicidade parece estar à mão. Ele viaja para um lugar misterioso nos Alpes suíços para cumprir uma promessa feita a ela, e involuntariamente, embarca numa jornada espiritual que o transformará.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A HORA DO DESCARREGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fca664f282f2329c7e3cd9a94b9ba64979e8a768</link>
+<thumbnail>https://imgs.netcine.biz/wp-content/uploads/2021/04/cxd2as1dyaO9845ic5PhC2l1EVZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois amigos transmitem um falso webshow de exorcismos, mas quando a atriz se torna misteriosamente possuída por um demônio real, eles tem que correr contra o tempo para se livrar da entidade demoníaca que começa a revelar seus maiores segredos para o público.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DIGA-ME QUANDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb1dbed5e6bde555772401f9b523ccb58a37a30e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/brrueWMNGQjz2sFXS2RXPa2frUf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O workaholic Will dá uma pausa na vida em Los Angeles para realizar o último desejo do avô: visitar os lugares mais famosos da Cidade do México e se apaixonar.</info>
+</item>
+
+
+
 
 
 
