@@ -868,14 +868,6 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 </item>
 
 <item>
-<title>[COLOR silver][B] MORTAL KOMBAT - ( LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3200D5130C5DE82FFEF18E632EA0DAD056C59FF8</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/leww8cvxMmnX83xi3E027F7Zlc5.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> O lutador de MMA Cole Young (Lewis Tan), acostumado a ser pago para perder lutas, não imagina que vem uma de linhagem rara — nem que esse é o motivo para ele estar sendo caçado por guerreiros de outro mundo enviados pelo Imperador Shang Tsung. Para proteger sua família, ele embarca numa violenta jornada onde treinará para enfrentar os maiores campeões de combate do universo.</info>
-</item> 
-
-<item>
 <title>[COLOR silver][B] AMOR E MOSTROS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0018a90961da8a63b712b19dfbbd1a4ef0bda158</link>
 <thumbnail>https://archive.org/download/5061463/5061463.jpg</thumbnail>
@@ -1091,6 +1083,33 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Nova aventura baseada no videogame Mortal Kombat. Na história, um jovem que nunca treinou artes marciais acaba envolvido em um gigantesco torneio de luta envolvendo guerreiros da Terra e lutadores e outras dimensões.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] TEIA DE CORRUPÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:679998c2a9fcc3db08e9c48b234cf69f991ee1ad</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jg1w7AVT0RtsGWn9uvETVefy50H.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em Londres, o lutador de boxe Liam McDonagh sai da prisão com um único desejo: reatar o laço com seu filho e levar uma vida tranquila. Mas, quando descobre que seu irmão mais novo, Sean, está envolvido com criminosos de alto escalão, ele não vê alternativa a não ser arriscar-se novamente no ardiloso submundo do crime.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NO MATARÁS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5ed141cae450d6f5aa7db576abb16b324f7c9b4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nyu5ze6jlO2BksTu0npMK1NxO3l.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um homem de boa índole tem um inesperado confronto mortal. Os instintos entram em ação para limpar a bagunça causada em nome da autodefesa, mas é realmente possível se livrar depois de matar alguém?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SOZINHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cfc012a72a5e16cfe066cc8331986469c99e16f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1uM44zocn4f6Gm4lYFFgxpsZNX1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma viúva ainda em luto deixa sua cidade natal em uma tentativa de lidar com a perda do marido. Ela então é raptada por um homem misterioso e trancada em uma cabana no Pacífico, mas consegue escapar, fugir para a floresta, enquanto é caçada por seu algoz.</info>
+</item>
+
+
+
 
 
 
