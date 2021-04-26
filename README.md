@@ -1108,6 +1108,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Uma viúva ainda em luto deixa sua cidade natal em uma tentativa de lidar com a perda do marido. Ela então é raptada por um homem misterioso e trancada em uma cabana no Pacífico, mas consegue escapar, fugir para a floresta, enquanto é caçada por seu algoz.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ESTADOS UNIDOS VS BILLIE HOLIDAY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:S6D6FAKYNWSMUHKV7XGSH537W5TE3HH2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2zMgNepldhcB2oMHZDJFhyiaqu2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Durante o auge de sua carreira, a famosa cantora de jazz Billie Holiday (Andra Day) se torna alvo do Departamento Federal de Narcóticos com uma operação secreta liderada pelo Agente Federal Jimmy Fletcher (Trevante Rhodes), com quem ela teve um caso tumultuado no passado.</info>
+</item>
+
+
 
 
 
