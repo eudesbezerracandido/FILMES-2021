@@ -1135,7 +1135,7 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <item>
 <title>[COLOR silver][B] LUTA DE GAROTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ae294fbd35069c75d426b6039fbc6415b865e22</link>
-<thumbnail>https://torrentool.org/imagens/luta-de-garotas-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/4ZocdxnOO6q2UbdKye2wgofLFhB.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Quando Anna Wyncomb (Malin Akerman) é apresentada a um submundo de luta feminina para lidar com toda a bagunça que está a sua vida, ela percebe que está mais conectada à história do clube do que imaginava, redescobrindo a si mesma, sua força interior e seu verdadeiro propósito.</info>
 </item>
