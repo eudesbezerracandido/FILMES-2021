@@ -1164,6 +1164,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> Na obra, somos apresentados a John Kelly, um ex-soldado da marinha que ingressa na CIA. Logo, ele muda seu nome para John Clark e se transforma em uma lenda ao se infiltrar em uma gangue para se vingar sem remorsos, como diz o título, a mulher que amava, assassinada pelos traficantes alvos de sua investigação.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O INFORMANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03e2ffcb31327c889aa717baee094db9cdacc0c5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8NhA8MQFwBcfV2v7neorbOBq5sQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Piet Hoffman recebe a missão do FBI para ajudar a polícia sueca e entrar como prisioneiro em uma das mais notórias prisões do país, a fim de se infiltrar na máfia polonesa. Mas depois de alguns imprevistos e a morte de um policial, ele é abandonado na missão, podendo ser exposto pelo detetive do caso.</info>
+</item>
+
+
 
 
 
