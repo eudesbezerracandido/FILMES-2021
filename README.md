@@ -1148,6 +1148,24 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Dreamland se passa na década de 1930 e acompanha o período de devastação durante as chamadas Dust Bowls, as recorrentes tempestades de areia que ocorreram nos Estados Unidos. O desastre ambiental, causado pela exploração inadequada do solo, piorou a crise econômica do país que enfrentava a Grande Depressão e causou quase uma década de seca em determinadas regiões.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] RONDA NOTURNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OUD23B43PAVZNWGHPK5O5N373TL2XSMB</link>
+<thumbnail>https://ia601506.us.archive.org/22/items/download_202105/download.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Virginie, Erik e Aristide, três policiais de Paris, são forçados a aceitar uma missão incomum: levar um estranho de volta à fronteira. No caminho para o aeroporto, Virginie entende que o prisioneiro corre o risco de morrer se voltar ao seu país. Diante desse insuportável caso de consciência, ela tenta convencer seus colegas a deixá-lo escapar.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SEM REMORSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e0f71242d2aa553938915d6245cab9401620cc1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uHEZ4ZMziIjlAgCTQAEh9ROvtj0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Na obra, somos apresentados a John Kelly, um ex-soldado da marinha que ingressa na CIA. Logo, ele muda seu nome para John Clark e se transforma em uma lenda ao se infiltrar em uma gangue para se vingar sem remorsos, como diz o título, a mulher que amava, assassinada pelos traficantes alvos de sua investigação.</info>
+</item>
+
+
+
 
 
 
