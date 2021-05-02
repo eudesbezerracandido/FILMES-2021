@@ -1116,6 +1116,33 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> Durante o auge de sua carreira, a famosa cantora de jazz Billie Holiday (Andra Day) se torna alvo do Departamento Federal de Narcóticos com uma operação secreta liderada pelo Agente Federal Jimmy Fletcher (Trevante Rhodes), com quem ela teve um caso tumultuado no passado.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] VOZES E VULTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b154ef2375012b73f55e0a7317c252d18e1b579d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bsxQvbWiBa13Vsas5Sj0JhR73QF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um jovem casal se muda para uma fazenda numa cidadezinha próxima de Nova York. O novo lar é amaldiçoado pelo assassinato de seus antigos donos, e enquanto seus segredos são revelados, o próprio casamento dos novos donos também escancara suas brechas obscuras.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NÃO FECHE OS OLHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KKPU4DEQ5Y7IRIARP4VDJH4JRRXD4YL3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k2rDGHK5qDTemDare180EJxspe5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma adolescente fugida de casa toma parte num estudo do sono que se torna uma terrível descida às profundezas de sua mente e um exame assustador do poder dos sonhos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LUTA DE GAROTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ae294fbd35069c75d426b6039fbc6415b865e22</link>
+<thumbnail>https://torrentool.org/imagens/luta-de-garotas-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando Anna Wyncomb (Malin Akerman) é apresentada a um submundo de luta feminina para lidar com toda a bagunça que está a sua vida, ela percebe que está mais conectada à história do clube do que imaginava, redescobrindo a si mesma, sua força interior e seu verdadeiro propósito.</info>
+</item>
+
+
+
+
 
 
 
