@@ -1140,6 +1140,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Quando Anna Wyncomb (Malin Akerman) é apresentada a um submundo de luta feminina para lidar com toda a bagunça que está a sua vida, ela percebe que está mais conectada à história do clube do que imaginava, redescobrindo a si mesma, sua força interior e seu verdadeiro propósito.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DREAMLAND - SONHOS E ILUSÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15a96824529c75f49aeea272027c1a0a70760fd9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dreamland se passa na década de 1930 e acompanha o período de devastação durante as chamadas Dust Bowls, as recorrentes tempestades de areia que ocorreram nos Estados Unidos. O desastre ambiental, causado pela exploração inadequada do solo, piorou a crise econômica do país que enfrentava a Grande Depressão e causou quase uma década de seca em determinadas regiões.</info>
+</item>
+
+
 
 
 
