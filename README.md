@@ -1188,6 +1188,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> Um comissário de polícia aposentado chantageia sua cuidadora sequestrando sua filha, a forçando em ajudá-lo a enganar sua equipe de detetives corrupta em uma tentativa de limpar a cidade.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O FILHO DO NOIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47882f527c1f8c08eb526d336dfb49f284bd3244</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a17UKYn85aKAp3sx7mirlHMfSp5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nick Pearson está à beira de seu casamento e se surpreende ao descobrir que tem um filho de 13 anos que veio buscá-lo através da ajuda de um vidente. O problema é que Nick não suporta filhos e quer enviar o menino de volta para viver com sua mãe biológica, exceto que ninguém tem ideia de quem poderia ser.</info>
+</item>
+
+
+
 
 
 
