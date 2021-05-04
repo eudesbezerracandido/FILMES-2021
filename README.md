@@ -1172,6 +1172,26 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Piet Hoffman recebe a missão do FBI para ajudar a polícia sueca e entrar como prisioneiro em uma das mais notórias prisões do país, a fim de se infiltrar na máfia polonesa. Mas depois de alguns imprevistos e a morte de um policial, ele é abandonado na missão, podendo ser exposto pelo detetive do caso.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SEM RASTROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HUTTF74PB5OODA2TCTX3TZVLMXKJLSLO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yiWtHzEnMlStSknYpG0vKP5K0gZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois que uma menina desaparece de um parque de trailers, o pai da menina e a mãe fazem justiça com as próprias mãos. À medida que se aprofundam na busca, uma revelação trágica é descoberta, aprofundando o mistério do desaparecimento da menina.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VANQUISH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TVGKC3VS6P5GKNMWWKE2EK5IGMR3TOXD</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AoWY1gkcNzabh229Icboa1Ff0BM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um comissário de polícia aposentado chantageia sua cuidadora sequestrando sua filha, a forçando em ajudá-lo a enganar sua equipe de detetives corrupta em uma tentativa de limpar a cidade.</info>
+</item>
+
+
+
+
+
 
 
 
