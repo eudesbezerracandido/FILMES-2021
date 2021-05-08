@@ -1196,6 +1196,30 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Nick Pearson está à beira de seu casamento e se surpreende ao descobrir que tem um filho de 13 anos que veio buscá-lo através da ajuda de um vidente. O problema é que Nick não suporta filhos e quer enviar o menino de volta para viver com sua mãe biológica, exceto que ninguém tem ideia de quem poderia ser.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MOSTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:070ba211f862678e700bad30699c16ccbf9627e2</link>
+<thumbnail>https://archive.org/download/monstro-filme-com-drama-racial-chocante-na-netflix-analise-sem-spoiler-lai-durso/monstro-filme-com-drama-racial-chocante-na-netflix-analise-sem-spoiler-lai-durso.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Monstro conta a história de Steve Harmon (Kelvin Harrison Jr.), um aluno de 17 anos que é acusado de homicídio doloso. O filme mostra a dramática trajetória desse inteligente e simpático estudante do Harlem, que frequenta uma escola de elite, em uma batalha judicial complexa que pode deixá-lo para o resto da vida na prisão</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PASSAGEIRO ACIDENTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BHO72GQD5ICIIERMVZOMGPDXSDNBHGJI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/n91IdvTOxogvs08HN0mYK7nY5T7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Numa missão com destino a Marte, a tripulação sofre um acidente longe demais da Terra. Com recursos diminuindo rapidamente, a pesquisadora da nave (Anna Kendrick) surge como a única voz que vai contra a sua comandante (Toni Collette) e o biólogo da nave (Daniel Dae Kim), que já decidiram a favor de um desfecho sombrio.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] E AMANHÃ...O MUNDO TODO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4ea7cb2bae2e7b5e64df2c7f701db170709456e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1fmCF4UaTd9YL81L3MUX7e6XpV0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
 
 
 
