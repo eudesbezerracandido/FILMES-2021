@@ -1220,6 +1220,24 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info></info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ATAQUE FATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06ba19f291ffbeae501ee6506964382934218992</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mAfQWKpALGe91Nn12lBeBoTGgsC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um banho de sangue entre policiais e bandidos ultraviolentos deixa vítimas de ambos os lados. Com 20 anos de avanço, Madam Fong (Jade Leung, Gato Preto) lidera um novo esquadrão em busca de jovens anarquistas imprudentes que aterrorizam Macau. Uma aparição daquele dia fatal cai na briga, trazendo todo o círculo completo para um confronto final serpentino e explosivo. Com as guerreiras modernas malvadas na vanguarda, o diretor Jacky Lee exala sem esforço os estilos hiperbólicos da ação clássica de Hong Kong, trazendo de volta o sub-gênero irreprimível "meninas com armas" com força bombástica total.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PATRICIA-UMA PAIXÃO ESCONDIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3255e50c59904abf8b39edd595a690bb963cdb5f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tWVppr1BlawmBWrlOOGIfr0ujH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Patricia é uma terapeuta de casais de sucesso. O seu próprio casamento está a atravessar um período difícil. Mas quando conhecer um estudante, Pablo, ela transformará as suas próprias crenças sobre sexo.</info>
+</item>
+
+
+
 
 
 
