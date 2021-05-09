@@ -18,8 +18,8 @@ FILMES 2021
 </item>
 
 <item>
-<title>[COLOR silver][B] SHADOW IN THE CLOUD ( LEG.) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:964e7145b26986571d53f3961fbff613e258586e</link>
+<title>[COLOR silver][B] UMA SOMBRA NA NUVEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb1e52f5ac3739f7680e64c33f4b2d218ea95a78</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/agcXUhAfEfGFU1W0A17cGyPZXqV.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Uma piloto embarca em uma fortaleza voadora B-17 que transporta itens secretos. Enquanto tenta lidar com o machismo da equipe formada inteiramente por homens, a militar começa a perceber que algo estranho está acontecendo na aeronave. Além de uma emboscada dos japoneses, o esquadrão militar também tem que combater um inimigo misterioso presente dentro do próprio avião.</info>
