@@ -1230,11 +1230,22 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 
 <item>
 <title>[COLOR silver][B] PATRICIA-UMA PAIXÃO ESCONDIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3255e50c59904abf8b39edd595a690bb963cdb5f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tWVppr1BlawmBWrlOOGIfr0ujH.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Patricia é uma terapeuta de casais de sucesso. O seu próprio casamento está a atravessar um período difícil. Mas quando conhecer um estudante, Pablo, ela transformará as suas próprias crenças sobre sexo.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] MUNDO EM CAOS- LEG. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AFB099E76EBE6602A6ACDDA374737B9F227603EA$nome=MUNDO EM CAOS-LEGENDADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4B81F88521841FC9410C4B058006D6E7AC1CCD94$nome=MUNDO EM CAOS-DUBLADO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7poSpsfrnhxjVN2uRmemd76ASvS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um futuro não muito distante, em um mundo onde as mulheres desapareceram e os homens foram afetados pelo “ruído” – uma força que deixa seus pensamentos audíveis – Todd Hewitt encontra Viola, uma jovem misteriosa que aterrissou em seu planeta. Com Viola correndo perigo, Todd jura protegê-la e colocá-la fora de perigo. Para salvá-la, Todd terá que controlar seu “ruído”, descobrir sua própria força e desvendar todos os segredos sombrios que seu planeta e sua comunidade guardam.</info>
+</item>
+
 
 
 
