@@ -1245,6 +1245,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Em um futuro não muito distante, em um mundo onde as mulheres desapareceram e os homens foram afetados pelo “ruído” – uma força que deixa seus pensamentos audíveis – Todd Hewitt encontra Viola, uma jovem misteriosa que aterrissou em seu planeta. Com Viola correndo perigo, Todd jura protegê-la e colocá-la fora de perigo. Para salvá-la, Todd terá que controlar seu “ruído”, descobrir sua própria força e desvendar todos os segredos sombrios que seu planeta e sua comunidade guardam.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]OS PROPRIETÁRIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CNBOBADXS5RBTZURLOXGF3EUDEK6NQ3U</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7gDGiQ3HX1vro4ypvWXeEzMGjXH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois amigos se encontram para planejar um roubo a uma grande propriedade, mas o assalto dá errado quando a família retorna e os surpreende.</info>
+</item>
+
+
 
 
 
