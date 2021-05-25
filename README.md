@@ -1253,6 +1253,26 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Dois amigos se encontram para planejar um roubo a uma grande propriedade, mas o assalto dá errado quando a família retorna e os surpreende.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O REBANHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BIYLOMBZ752HP4ZTD2XCLSSVOPEUF2V2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2ZZeSKqhbteQ7lDZnse9DmpIQDC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Selah (Raffey Cassidy) é uma jovem nascida em um culto repressivo conhecido como "rebanho". Todas as mulheres e crianças vivem em um complexo rural e são liderados por um homem, conhecido apenas como "Pastor". Selah recebe a grande honra de participar do ritual sagrado do nascimento dos cordeiros, do qual o rebanho depende para sobreviver. Durante a cerimônia, ela passa por uma experiência chocante. A adolescente começa a ter visões estranhas que a fazem questionar sua própria realidade, e tudo o que o Pastor a ensinou.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O MAURITANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eiUnQ2YXcxSGdCLrN8tQEhLirZq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Mohamedou Ould Slahi (Tahar Rahim) é capturado pelo governo americano e jogado na prisão sem acusação oficial ou julgamento. Ele encontra aliança na advogada de defesa Nancy Hollander (Jodie Foster) e sua assistente Teri Duncan (Shailene Woodley). Juntos, eles enfrentam diversos obstáculos numa desesperada luta por justiça. Com a ajuda do promotor militar Ten. Stuart Couch (Benedict Cumberbatch), eles acabam descobrindo uma conspiração chocante e maior do que eles imaginavam.</info>
+</item>
+
+
+
+
+
 
 
 
