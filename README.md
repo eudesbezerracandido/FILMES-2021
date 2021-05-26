@@ -1278,12 +1278,21 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 </item>
 
 <item>
-<title>[COLOR silver][B] RELIQUIA MACABRA[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] RELIQUIA MACABRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AF5GMVKOEN5VQW4B7SUTEE4QQFC3BIQD</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3wZ0gxLqsPleneFSTZILmM3BE8Q.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Quando Edna desaparece, sua filha Kay e neta Sam são forçadas a voltar para a decadente casa da família para encontrar pistas de seu paradeiro em meio a confusão causada pela sua demência. No entanto, aos poucos elas começam a desconfiar que não é apenas a doença que está causando essas atitudes, mas talvez uma presença traiçoeira que pretende tomar controle dela.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] ROGAI POR NÓS - HDTV CAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85555936A2B1F411935AA0D4A95A3ED4BAA24577</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zduyzcjyahZtP4fGZE6789h04IM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Conheça Alice, uma jovem com deficiência auditiva que, após uma suposta visita da Virgem Maria, é inexplicavelmente capaz de ouvir, falar e curar os enfermos. À medida que a notícia se espalha e pessoas de perto e de longe se reúnem para testemunhar seus milagres, um jornalista decadente (Jeffrey Dean Morgan), que espera reviver sua carreira, visita a pequena cidade da Nova Inglaterra para investigar o fenômeno. Quando eventos terríveis começam a acontecer por toda parte, ele começa a questionar se esses fenômenos são obras da Virgem Maria ou algo muito mais sinistro.</info>
+</item>
+
 
 
 
