@@ -1269,6 +1269,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> Mohamedou Ould Slahi (Tahar Rahim) é capturado pelo governo americano e jogado na prisão sem acusação oficial ou julgamento. Ele encontra aliança na advogada de defesa Nancy Hollander (Jodie Foster) e sua assistente Teri Duncan (Shailene Woodley). Juntos, eles enfrentam diversos obstáculos numa desesperada luta por justiça. Com a ajuda do promotor militar Ten. Stuart Couch (Benedict Cumberbatch), eles acabam descobrindo uma conspiração chocante e maior do que eles imaginavam.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ARMY OF THE DEAD - INVASÃO EM LAS VEGAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcd64d5325eb57a09f67497d294a6b72f4a2c7c4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kn72J6BFcN71VYOl8sTVeo7x9ph.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um grupo de mercenários decidem se arriscar para realizar o maior assalto da história ao se aventurar numa zona em quarentena em Las Vegas, durante um apocalipse zumbi.</info>
+</item>
+
+
 
 
 
