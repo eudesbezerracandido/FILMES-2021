@@ -1277,6 +1277,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Um grupo de mercenários decidem se arriscar para realizar o maior assalto da história ao se aventurar numa zona em quarentena em Las Vegas, durante um apocalipse zumbi.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] RELIQUIA MACABRA[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AF5GMVKOEN5VQW4B7SUTEE4QQFC3BIQD</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3wZ0gxLqsPleneFSTZILmM3BE8Q.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando Edna desaparece, sua filha Kay e neta Sam são forçadas a voltar para a decadente casa da família para encontrar pistas de seu paradeiro em meio a confusão causada pela sua demência. No entanto, aos poucos elas começam a desconfiar que não é apenas a doença que está causando essas atitudes, mas talvez uma presença traiçoeira que pretende tomar controle dela.</info>
+</item>
+
+
 
 
 
