@@ -1293,6 +1293,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> Conheça Alice, uma jovem com deficiência auditiva que, após uma suposta visita da Virgem Maria, é inexplicavelmente capaz de ouvir, falar e curar os enfermos. À medida que a notícia se espalha e pessoas de perto e de longe se reúnem para testemunhar seus milagres, um jornalista decadente (Jeffrey Dean Morgan), que espera reviver sua carreira, visita a pequena cidade da Nova Inglaterra para investigar o fenômeno. Quando eventos terríveis começam a acontecer por toda parte, ele começa a questionar se esses fenômenos são obras da Virgem Maria ou algo muito mais sinistro.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - ATENTADOS EM LONDRES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a683ef4f20a4a75305a57b65b845e1782571403</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xqwmWg0eH4qxkelrx9bNJahW6rU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Este documentário retrata os ataques terroristas ocorridos em 1999 em Londres contra comunidades de minoria social e a corrida para encontrar o extremista responsável.</info>
+</item>
+
+
 
 
 
