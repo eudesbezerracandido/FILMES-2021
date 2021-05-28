@@ -1301,6 +1301,24 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Este documentário retrata os ataques terroristas ocorridos em 1999 em Londres contra comunidades de minoria social e a corrida para encontrar o extremista responsável.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CRUELLA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0657a6a19541a05cacecf638445b55663acd19d7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ljPHd7WiPVKmuXi1hgQUpZQslbC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na Londres dos anos 70, a jovem fashion designer Estella de Vil (Emma Stone) se torna obcecada por peles de cachorro, especialmente de dálmatas, até que aos poucos se torna uma lenda assustadora e implacável, conhecida como Cruella.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MILAGRE AZUL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3175a57bd26b4a7f14066b6d1dbfc33fa63956e3</link>
+<thumbnail>https://archive.org/download/milagre-azul-filmestorrent-vip/Milagre-Azul-filmestorrent-vip.png</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um grupo de crianças orfãs correm o risco de ficar sem um lugar para morar quando sua instituição é ameaçada de fechar por falta de verba. Então, elas e o diretor se juntam a um rabugento marinheiro para entrar em uma copetição de pesca. Se ganharem, podem usar o prêmio para salvar o orfanato.Baseado na incrível história real.</info>
+</item>
+
+
+
 
 
 
