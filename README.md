@@ -1333,6 +1333,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Depois de acordar convencida que irá morrer amanhã, Amy vê sua vida desmoronar completamente. Na medida que suas desilusões de uma possível morte começam a infectar aqueles ao seu redor, Amy e seus amigos entram em uma espiral fora do controle que os levam à loucura.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] UM LUGAR SILÊNCIOSO 2 LEG.HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcabb6914f0808e4ea5e326205b6e7def54d33de</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k3vv9vVwDjGvsNbr6C5HvZp8mea.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Logo após os acontecimentos mortais, até mesmo dentro de casa, a família Abbott precisa agora encarar o terror mundo afora, continuando a lutar para sobreviver em silêncio. Obrigados a se aventurar pelo desconhecido, eles rapidamente percebem que as criaturas que caçam pelo som não são as únicas ameaças que os observam pelo caminho de areia.</info>
+</item>
+
+
 
 
 
