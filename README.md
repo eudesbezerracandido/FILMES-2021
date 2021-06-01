@@ -1325,6 +1325,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> Após se mudar de Manhattan para um pequeno vilarejo, um casal se depara não apenas com o passado sinistro de sua nova residência, mas também com o lado sombrio de seu casamento. Baseado no aclamado romance de Elizabeth Brundage.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ELA MORRE AMANHÃ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f196fa17c8ce4d3c6a5e2e88f746745d86c830fd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wpTcJeKdUdmZl2j6q93LOTBaoVt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de acordar convencida que irá morrer amanhã, Amy vê sua vida desmoronar completamente. Na medida que suas desilusões de uma possível morte começam a infectar aqueles ao seu redor, Amy e seus amigos entram em uma espiral fora do controle que os levam à loucura.</info>
+</item>
+
+
 
 
 
