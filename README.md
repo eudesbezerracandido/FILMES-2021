@@ -1341,6 +1341,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Logo após os acontecimentos mortais, até mesmo dentro de casa, a família Abbott precisa agora encarar o terror mundo afora, continuando a lutar para sobreviver em silêncio. Obrigados a se aventurar pelo desconhecido, eles rapidamente percebem que as criaturas que caçam pelo som não são as únicas ameaças que os observam pelo caminho de areia.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ESPIRAL - O LEGADO DE JOGOS MORTAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e9ba949db78d275d1d10a1cfe1be1991d9f3c76</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zq2NV2twhwIzsLg6jHFypzcgHB5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sob o comando do veterano da polícia Marcus, o detetive Ezekiel "Zeke" Banks se une ao seu parceiro novato Willem para desvendar uma série de assassinatos terríveis que estão acontecendo na cidade. Durante as investigações, Zeke acaba se envolvendo no mórbido jogo do assassino.</info>
+</item>
+
+
+
 
 
 
