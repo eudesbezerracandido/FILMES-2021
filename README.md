@@ -1349,6 +1349,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Sob o comando do veterano da polícia Marcus, o detetive Ezekiel "Zeke" Banks se une ao seu parceiro novato Willem para desvendar uma série de assassinatos terríveis que estão acontecendo na cidade. Durante as investigações, Zeke acaba se envolvendo no mórbido jogo do assassino.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O CONVIDADO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cade5ee6646ab1fc7e220b65adf4e5c8564b9668</link>
+<thumbnail>https://archive.org/download/CONVIDADO/CONVIDADO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um misterioso jovem britânico e muçulmano embarca em uma jornada de auto conhecimento, viajando através da Índia e do Paquistão.</info>
+</item>
+
+
+
 
 
 
