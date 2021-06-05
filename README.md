@@ -1405,6 +1405,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Depois de testemunhar uma assombração em seu hospital, dois médicos ficam perigosamente obcecados em obter provas científicas de que fantasmas existem.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DANCING QUEENS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:560b76fe233ad3a9ef980aeba8b11b3723c44ce6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xq2pkQZV5Yt1METvy5S0QjmCpsn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dylan Petterson (Molly Nutley) é uma jovem de 23 anos que cresceu em uma pequena ilha do arquipélago sueco. No entanto, ela sempre amou dançar e nutriu o grande sonho de ser artista. Por isso, Dylan decide sair em busca de novas oportunidades e se disfarça de homem para conseguir um emprego em um clube de drag queens. Mas logo a verdade aparecerá e ela encontrará sua grande chance de subir nos palcos.</info>
+</item>
+
+
+
 
 
 
