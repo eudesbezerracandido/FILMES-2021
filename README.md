@@ -1381,6 +1381,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>As amigas Shanthi e Jennifer planejam uma viagem a quatro para reacender a chama do casamento. Só que elas não imaginam as surpresas que as aguardam.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A DISCURSSÃO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V24QSQWLPG4NKHY4XT34S5QDM3L55X6W</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/BOFJrBQ5YjYFCBG3wbRjNlme3o.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história gira em torno de Jack (Dan Fogler) e sua namorada Lisa (Emma Bell), que discutem em uma festa de coquetel, até chegar ao fim das festividades. Eles e seus convidados decidem, então, recriar a noite toda para determinar quem estava certo na discussão.</info>
+</item>
+
+
+
 
 
 
