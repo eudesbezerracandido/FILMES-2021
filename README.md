@@ -1413,6 +1413,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> Dylan Petterson (Molly Nutley) é uma jovem de 23 anos que cresceu em uma pequena ilha do arquipélago sueco. No entanto, ela sempre amou dançar e nutriu o grande sonho de ser artista. Por isso, Dylan decide sair em busca de novas oportunidades e se disfarça de homem para conseguir um emprego em um clube de drag queens. Mas logo a verdade aparecerá e ela encontrará sua grande chance de subir nos palcos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] NADANDO PELO OURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d250e4b3a9fbf779433f6d32aa8209a530995d5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nGqALAf7hxAcjqW5BsfHH9rXDOB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando o pai de Claire Carpenter a envia para a Austrália para treinar um time de natação masculino de elite, Claire se vê cara a cara com a rival de longa data Mikayla Michaels, e a notícia de que o acampamento será fechado se o time perder o próximo encontro. Para salvar o acampamento, Claire deve superar um medo secreto, colocar de lado suas diferenças com Mikayla e redescobrir sua paixão.</info>
+</item>
+
+
+
 
 
 
