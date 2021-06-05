@@ -1365,6 +1365,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Neste eletrizante suspense, um matador de aluguel aposentado decide se vingar do próprio irmão. Dois anos após o assassinato do pai e do filho, um matador de aluguel aposentado bola um plano para se vingar daquele que cometeu os crimes: seu próprio irmão.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SWEET E SOUR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3c4f285b946d91ae0a4f998aadfb3c05ca778a7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hY5PxMK1FwcWq0lz8dc1pJ3vdtZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Foi amor à primeira vista, mas alguns se separam quando se preparam para novos empregos.</info>
+</item>
+
+
+
 
 
 
