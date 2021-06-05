@@ -1382,12 +1382,32 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 </item>
 
 <item>
-<title>[COLOR silver][B] A DISCURSSÃO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] A DISCURSSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V24QSQWLPG4NKHY4XT34S5QDM3L55X6W</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/BOFJrBQ5YjYFCBG3wbRjNlme3o.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A história gira em torno de Jack (Dan Fogler) e sua namorada Lisa (Emma Bell), que discutem em uma festa de coquetel, até chegar ao fim das festividades. Eles e seus convidados decidem, então, recriar a noite toda para determinar quem estava certo na discussão.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] POSTAIS MORTIFEROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FTNHJNTTCOF2SERVCVHHFRHBLBRNC4KO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fCPKSh1yguLOL6AmWbYrCKhdcce.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um nova-iorquino tem sua vida conturbada quando descobre que sua filha recém-casada foi brutalmente assassinada. Como ele esmiuça o caso, crimes semelhantes são relatados por toda a Europa com cada morte acompanhada por um cartão postal enviado a um jornalista local. Como ele segue a trilha das pistas, uma jovem repórter recebe o próximo cartão postal.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] GHOST LAB [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad3ff2bb86db9e399d7fc2c5c6b226928c7247e7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5eLNJYehI3VwIe5S7Yz3uxVWVOa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de testemunhar uma assombração em seu hospital, dois médicos ficam perigosamente obcecados em obter provas científicas de que fantasmas existem.</info>
+</item>
+
+
+
+
 
 
 
