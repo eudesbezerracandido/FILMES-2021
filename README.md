@@ -1357,6 +1357,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Um misterioso jovem britânico e muçulmano embarca em uma jornada de auto conhecimento, viajando através da Índia e do Paquistão.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] XTREMO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b139bea0d9b0d0bc712658a5bb12ddb62e891ab</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hZ5B9ApAslx5XWEouXKgCB9xHF0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Neste eletrizante suspense, um matador de aluguel aposentado decide se vingar do próprio irmão. Dois anos após o assassinato do pai e do filho, um matador de aluguel aposentado bola um plano para se vingar daquele que cometeu os crimes: seu próprio irmão.</info>
+</item>
+
+
+
 
 
 
