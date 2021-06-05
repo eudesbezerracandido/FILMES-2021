@@ -1373,6 +1373,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Foi amor à primeira vista, mas alguns se separam quando se preparam para novos empregos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] KANDASAMYS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65f4839632785b63c8bf9343711e98faebf3cd56</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1tpuwM9fZFcMNkkGU0WwqPAEaFz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>As amigas Shanthi e Jennifer planejam uma viagem a quatro para reacender a chama do casamento. Só que elas não imaginam as surpresas que as aguardam.</info>
+</item>
+
+
+
 
 
 
