@@ -1342,8 +1342,8 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 </item>
 
 <item>
-<title>[COLOR silver][B] ESPIRAL - O LEGADO DE JOGOS MORTAIS LEG. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c3d743317c054c43f325455b72352b3ced1fd9f</link>
+<title>[COLOR silver][B] ESPIRAL - O LEGADO DE JOGOS MORTAIS DUB. NÃO OFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:026C723034A0B511BB2BF13FCC7B42811C4B6E64</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zq2NV2twhwIzsLg6jHFypzcgHB5.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Sob o comando do veterano da polícia Marcus, o detetive Ezekiel "Zeke" Banks se une ao seu parceiro novato Willem para desvendar uma série de assassinatos terríveis que estão acontecendo na cidade. Durante as investigações, Zeke acaba se envolvendo no mórbido jogo do assassino.</info>
