@@ -30,7 +30,7 @@ FILMES 2021
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a283fce04a78ff8771b166498265c81053b07be</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/e8wlyVoXqyFYqg7FVUOCDL9dOA2.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> O carcereiro Samuel Tillery trabalha como guarda dos prisioneiros mais perigosos do Missouri enquanto eles esperam o julgamento. Quando a população se revolta, Samuel é levado ao limite para defender aquilo em que acredita.</info>
+<info> O carcereiro Samuel Tillery trabalha como guarda dos prisioneiros mais perigosos do Missouri enquanto eles esperam o julgamento. Quando a população se revolta, Samuel é levado ao limite para defender aquilo em que acredita.</info> 
 </item>
 
 <item>
