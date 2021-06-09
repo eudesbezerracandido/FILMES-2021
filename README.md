@@ -1421,6 +1421,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Quando o pai de Claire Carpenter a envia para a Austrália para treinar um time de natação masculino de elite, Claire se vê cara a cara com a rival de longa data Mikayla Michaels, e a notícia de que o acampamento será fechado se o time perder o próximo encontro. Para salvar o acampamento, Claire deve superar um medo secreto, colocar de lado suas diferenças com Mikayla e redescobrir sua paixão.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] NASCIDO PARA VENCER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fcac32530474996e186f1653eb8a315f7a2cee31</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4i3j5sX9RDj9AywcAEk7SHQPkuO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ambientado em 1990, o filme segue Mickey Kelley, um dos primeiros black belts americanos do jiu-jitsu brasileiro, que se afasta de tudo que ama e em um torneio de MMA não sancionado, onde seus sonhos de prover sua família vêm para uma parada com uma decisão de fração de segundo. Sua vida sai dos trilhos até anos depois ele recebe uma chance de redenção.</info>
+</item>
+
+
 
 
 
