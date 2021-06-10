@@ -1461,6 +1461,17 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Após um misterioso evento global extinguir a habilidade de dormir da humanidade, uma ex-soldado (Gina Rodriguez) descobre que sua filha é a chave para cura. A questão é: será que ela consegue levá-la a tempo de salvar o mundo antes que ela mesma perca a sanidade? </info>
 </item>
 
+<item>
+<title>[COLOR silver][B] INVOCAÇÃO DO MAL  3 HDTV CINEMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fe865c9f0309dd5f50aed4bf4b2fe5e20e6889b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9kuOPRV1LLZ5A0rCSobA82HZog9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Revela uma história arrepiante de terror, assassinato e um mal desconhecido que chocou até os investigadores paranormais da vida real, Ed e Lorraine Warren. Um dos casos mais intrigantes de seus arquivos, começa com uma luta pela alma de um garoto, depois os leva além de tudo o que já haviam visto antes, para marcar a primeira vez na história dos EUA um suspeito de assassinato alega possessão demoníaca como defesa.</info>
+</item>
+
+
+
+
 
 
 
