@@ -1454,14 +1454,6 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 </item>
 
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
-</item>
-
-<item>
 <title>[COLOR silver][B] AWAKE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e31af29444170fa986ec43d6aab427b94fcdfe77</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uZkNbB8isWXHMDNoIbqXvmslBMC.jpg</thumbnail>
