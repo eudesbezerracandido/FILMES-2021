@@ -1418,7 +1418,7 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d250e4b3a9fbf779433f6d32aa8209a530995d5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nGqALAf7hxAcjqW5BsfHH9rXDOB.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Quando o pai de Claire Carpenter a envia para a Austrália para treinar um time de natação masculino de elite, Claire se vê cara a cara com a rival de longa data Mikayla Michaels, e a notícia de que o acampamento será fechado se o time perder o próximo encontro. Para salvar o acampamento, Claire deve superar um medo secreto, colocar de lado suas diferenças com Mikayla e redescobrir sua paixão.</info>
+<info>Quando o pai de Claire Carpenter a envia para a Austrália para treinar um time de natação masculino de elite, Claire se vê cara a cara com a rival de longa data Mikayla Michaels, e a notícia de que o acampamento será fechado se o time perder o próximo encontro. Para salvar o acampamento, Claire deve superar um medo secreto, colocar de lado suas diferenças com Mikayla e redescobrir sua paixão.</info> 
 </item>
 
 <item>
