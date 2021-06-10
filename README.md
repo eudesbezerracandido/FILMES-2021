@@ -1429,6 +1429,61 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Ambientado em 1990, o filme segue Mickey Kelley, um dos primeiros black belts americanos do jiu-jitsu brasileiro, que se afasta de tudo que ama e em um torneio de MMA não sancionado, onde seus sonhos de prover sua família vêm para uma parada com uma decisão de fração de segundo. Sua vida sai dos trilhos até anos depois ele recebe uma chance de redenção.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SEQUESTRO INTERNACIONAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:938cd8c0a086a73ef0880f14ea86a2490f9b5ed6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jay8E3DtnFgVfeDInMOOHxVUfn3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um americano é sequestrado depois que um amigo o convida para ir ao Cairo para falar sobre os recentes levantes de militantes. Sua esposa vai para a cidade após ouvir a notícia, determinada a trazê-lo de volta. </info>
+</item>
+
+<item>
+<title>[COLOR silver][B] OS PEQUENOS VESTIGIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e74708478402569485cff5302b650ac264e4a1ca</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/98UFAKFPUOIzF91Q0j0W7vR4ikV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Deke (Denzel Washington), um xerife do condado de Kern se alia ao detetive do Departamento do condado de Los Angeles, Baxter, para pegar um serial killer astuto. O nariz de Deke para as “pequenas coisas” mostra-se assustadoramente preciso, mas sua disposição em contornar as regras, acaba envolvendo Baxter em um dilema que abala a alma. Todo o tempo, Deke luta com um segredo sombrio de seu passado. </info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A PRESENÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fdaee2b8c00a5746c3d5527b43adf80d40ba2de</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w06CakAbJi8Im5L12MM6DHmrHPS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jovem cientista trabalha para a NASA, ele é abduzido por extraterrestres. Quando ninguém acredita em sua história, ele fica obcecado em encontrar provas que o levem a uma jornada de descoberta.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AWAKE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e31af29444170fa986ec43d6aab427b94fcdfe77</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uZkNbB8isWXHMDNoIbqXvmslBMC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após um misterioso evento global extinguir a habilidade de dormir da humanidade, uma ex-soldado (Gina Rodriguez) descobre que sua filha é a chave para cura. A questão é: será que ela consegue levá-la a tempo de salvar o mundo antes que ela mesma perca a sanidade? </info>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
