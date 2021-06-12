@@ -1469,6 +1469,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Revela uma história arrepiante de terror, assassinato e um mal desconhecido que chocou até os investigadores paranormais da vida real, Ed e Lorraine Warren. Um dos casos mais intrigantes de seus arquivos, começa com uma luta pela alma de um garoto, depois os leva além de tudo o que já haviam visto antes, para marcar a primeira vez na história dos EUA um suspeito de assassinato alega possessão demoníaca como defesa.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] UMA SKATISTA RADICAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2c4d67cbe69a4430d91ca019667285ce7edd9b1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ktEHgKnmjqvw5X0taOCgKyYYvQd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Prerna, uma adolescente que mora na região rural da Índia, entra no mundo do skate, mas não vai ser fácil seguir seus sonhos e competir no campeonato nacional. </info>
+</item>
+
+
+
 
 
 
