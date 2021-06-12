@@ -1485,6 +1485,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Uma adolescente volta para casa do acampamento e descobre que sua mãe tem um novo namorado, com quem ela pretende se casar. Um homem cujo charme, inteligência e beleza o fazem parecer nada humano. </info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DEEP WATER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b250bebd975e71f332f97e1ec90a2f561405595f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6WmHTpRCY0yKRgtxVvmT4B3g1eE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Três mulheres complexas e vibrantes lutam para manter a cabeça acima da água. Com crianças da mesma idade, elas se encontram nos portões da escola enquanto seus dramas pessoais se desenrolam. Lisa, uma mãe de três filhos tenta conciliar sua agitada vida familiar com a administração de um negócio. Roz é uma fisioterapeuta endividada. Kate é uma mãe rica e atraente de dois filhos que toma uma decisão espontânea de mudança de vida.</info>
+</item>
+
+
+
 
 
 
