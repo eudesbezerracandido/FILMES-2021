@@ -1477,6 +1477,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Prerna, uma adolescente que mora na região rural da Índia, entra no mundo do skate, mas não vai ser fácil seguir seus sonhos e competir no campeonato nacional. </info>
 </item>
 
+<item>
+<title>[COLOR silver][B] PERFEIÇÃO INSONDÁVEL[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a1b2a1bcc7e2f2918709092bff12347844db432</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hSKTSIUNb4XXkwcNJkhgXwqr27w.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma adolescente volta para casa do acampamento e descobre que sua mãe tem um novo namorado, com quem ela pretende se casar. Um homem cujo charme, inteligência e beleza o fazem parecer nada humano. </info>
+</item>
+
+
+
 
 
 
