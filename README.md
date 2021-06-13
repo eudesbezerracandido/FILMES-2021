@@ -1493,6 +1493,18 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Três mulheres complexas e vibrantes lutam para manter a cabeça acima da água. Com crianças da mesma idade, elas se encontram nos portões da escola enquanto seus dramas pessoais se desenrolam. Lisa, uma mãe de três filhos tenta conciliar sua agitada vida familiar com a administração de um negócio. Roz é uma fisioterapeuta endividada. Kate é uma mãe rica e atraente de dois filhos que toma uma decisão espontânea de mudança de vida.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DOR E GLÓRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6abd726c60e676eabbf8b1bacb779bfc5a6b0efa</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bScM0AHRktwfMxmt7lP6IjV7KPR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Salvador Mallo (Antonio Banderas) é um melancólico cineasta em declínio que se vê obrigado a pensar sobre as escolhas que fez na vida quando seu passado retorna. Entre lembranças e reencontros, ele reflete sobre sua infância na década de 1960, seu processo de imigração para a Espanha, seu primeiro amor maduro e sua relação com a escrita e com o cinema.</info>
+</item>
+
+
+
+
+
 
 
 
