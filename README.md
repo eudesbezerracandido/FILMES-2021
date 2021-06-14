@@ -1501,6 +1501,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Salvador Mallo (Antonio Banderas) é um melancólico cineasta em declínio que se vê obrigado a pensar sobre as escolhas que fez na vida quando seu passado retorna. Entre lembranças e reencontros, ele reflete sobre sua infância na década de 1960, seu processo de imigração para a Espanha, seu primeiro amor maduro e sua relação com a escrita e com o cinema.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CONFINADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11ff6b7ba7d198d8765d4f2213da668eba10b6a2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ltK2lPoF4ULwMysKASYTy4fCRWp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Linda e Paxton costumavam ter um ótimo relacionamento, mas com o casamento desmoronando, eles são forçados a ficarem presos na mesma casa em meio a quarentena do COVID-19. Juntos, eles resolvem arquitetar um assalto que pode, ou não, salvar o relacionamento.</info>
+</item>
+
+
+
 
 
 
