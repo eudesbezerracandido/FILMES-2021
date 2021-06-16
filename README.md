@@ -1509,6 +1509,24 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Linda e Paxton costumavam ter um ótimo relacionamento, mas com o casamento desmoronando, eles são forçados a ficarem presos na mesma casa em meio a quarentena do COVID-19. Juntos, eles resolvem arquitetar um assalto que pode, ou não, salvar o relacionamento.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] UM AMOR APÓS A VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AAY5ISEBQVP2D3JLUTYRSXHOLV6FUFDN</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7mOuZrL4q1swV7sWPzTxZGgNzfK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando Michael morre, ele acredita estar livre das angústias de buscar pelo amor verdadeiro. Mas estava enganado e agora precisará encontrar sua alma gêmea antes de seguir para o próximo plano.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SEGURANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:318b04f15d408beda256599f5846b825ae594c68</link>
+<thumbnail>https://archive.org/download/seguranca-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd/seguranca-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Riaz, de 17 anos, chega da Grã-Bretanha aos Estados Unidos pela primeira vez e é parado no aeroporto por um oficial de Segurança Interna chamado Brian. A experiência mudará a vida de Riaz para sempre. Treze anos depois, um Riaz adulto retorna aos Estados Unidos, caça Brian em sua casa e agora o interroga - é hora de retribuir o favor.</info>
+</item>
+
+
+
 
 
 
