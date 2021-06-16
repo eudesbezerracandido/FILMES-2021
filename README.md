@@ -1525,6 +1525,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Riaz, de 17 anos, chega da Grã-Bretanha aos Estados Unidos pela primeira vez e é parado no aeroporto por um oficial de Segurança Interna chamado Brian. A experiência mudará a vida de Riaz para sempre. Treze anos depois, um Riaz adulto retorna aos Estados Unidos, caça Brian em sua casa e agora o interroga - é hora de retribuir o favor.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CIDADE DE GELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57b5b32813bed72dc5f307e501fb71bf1486ee59</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/om51hNT54XocGVW3qONHXwMFBBW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Na São Petersburgo do início do século 20, o inesperado encontro de um pobre jovem patinador e a filha de um alto oficial do exército russo, levará a uma grande aventura e uma inevitável paixão.</info>
+</item>
+
+
 
 
 
