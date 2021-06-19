@@ -1533,6 +1533,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> Na São Petersburgo do início do século 20, o inesperado encontro de um pobre jovem patinador e a filha de um alto oficial do exército russo, levará a uma grande aventura e uma inevitável paixão.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SAMURAI X - O FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5639441a9268325672cba96b9ff42ecf58563b4c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mzKKUblhyvv7nWyfJCLT69GijOA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Himura Kenshin é um espadachim lendário que parou de matar pessoas com sua espada. Em vez disso, ele usa uma espada de gume cego. Ele tenta viver uma vida pacífica com Kaoru, que dirige uma escola de esgrima em sua aldeia. O passado de Kenshin o alcança causando a destruição do Restaurante Akabeko, que era o lugar favorito de Kenshin para comer. Lá, ele encontra uma nota com a palavra 'Jinchuu' nela... A história será sobre [o arco] “Reflections”, que é a história do “Mistério da Cicatriz Cruzada” de Kenshin e sua batalha contra Enishi, seu “Mortal Inimigo”. Os títulos de cada filme serão lançados no futuro. </info>
+</item>
+
+
+
 
 
 
