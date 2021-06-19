@@ -1541,6 +1541,20 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> Himura Kenshin é um espadachim lendário que parou de matar pessoas com sua espada. Em vez disso, ele usa uma espada de gume cego. Ele tenta viver uma vida pacífica com Kaoru, que dirige uma escola de esgrima em sua aldeia. O passado de Kenshin o alcança causando a destruição do Restaurante Akabeko, que era o lugar favorito de Kenshin para comer. Lá, ele encontra uma nota com a palavra 'Jinchuu' nela... A história será sobre [o arco] “Reflections”, que é a história do “Mistério da Cicatriz Cruzada” de Kenshin e sua batalha contra Enishi, seu “Mortal Inimigo”. Os títulos de cada filme serão lançados no futuro. </info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O GÂNGSTER NÔMADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:874a073e84785a3647a2f879bb232990a8bd3125</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fz8uayGnlxGCW0gkzywnIoixl5V.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando um gângster esperto e despreocupado é recrutado para ajudar um chefão estrangeiro a derrubar um rival, ele acaba sendo pego de surpresa por dilemas morais. </info>
+</item>
+
+
+
+
+
+
+
 
 
 
