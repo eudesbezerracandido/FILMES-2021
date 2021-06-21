@@ -1557,6 +1557,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> Doze estranhos acordam numa clareira. Eles não sabem o motivo de estarem ali, nem como chegaram. Tampouco sabem que foram escolhidos para um único propósito: A Caçada, um serviço de caça humana para elites privilegiadas. </info>
 </item>
 
+<item>
+<title>[COLOR silver][B] EM GUERRA COM O VOVÔ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8788fec2ae2cae80abd12a0f522d0d0ec5833e3f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u0YbQixvFBSmZfk0EjRWDE6wWgq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Peter (Oakes Fegley) ama o seu avô (Robert De Niro), mas também ama o seu quarto. Quando a esposa do avô morre, ele se muda. Sua perna ruim significa que ele não pode ficar no quarto do sótão, por isso é oferecido a ele o quarto amado. O jovem se envolve em uma série de brincadeiras destinadas a expulsar o vovô, mas o velho é muito engenhoso em inventar desculpas para permanecer no quarto.</info>
+</item>
+
+
+
 
 
 
