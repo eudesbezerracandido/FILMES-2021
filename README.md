@@ -1566,6 +1566,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Peter (Oakes Fegley) ama o seu avô (Robert De Niro), mas também ama o seu quarto. Quando a esposa do avô morre, ele se muda. Sua perna ruim significa que ele não pode ficar no quarto do sótão, por isso é oferecido a ele o quarto amado. O jovem se envolve em uma série de brincadeiras destinadas a expulsar o vovô, mas o velho é muito engenhoso em inventar desculpas para permanecer no quarto.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] PATERNIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:438a312abeb837d7b8adb473365c74cc855a417f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/46is3z8ToNs3THEvgRZWuZ9KGz0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a esposa morrer no dia seguinte ao parto, Matt imediatamente decide criar sua filha, sendo um pai absolutamente responsável. Mesmo com a tristeza de perder sua esposa, que também era sua namorada no ensino médio, ele faz um juramento para fornecer apoio completo à filha e assumir todas as responsabilidades que cabem a um pai.</info>
+</item>
+
+
+
 
 
 
