@@ -1590,6 +1590,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> Depois de anos dando prioriedade apenas à carreira, a comediante de stand-up Andrea Singer finalmente encontra o cara perfeito. À primeira vista, ele parece incrível. Mas será que é tudo isso mesmo?</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] NÃO OLHE PARA BERÇO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ac75d38f0a632c29c4f18f9644e0ee7f5c3eae1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gTeSaWKMnsLybsvw2L3W5q4CBDT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A estudante Renae aceita trabalhar como babá e, em um sábado à noite, vai tomar conta do filho de um misterioso casal. O início da noite é calmo, e o bebê dorme. Porém, não demora até que misteriosas circunstâncias comecem a assombrar Renae, que fica em pânico. Os amigos dela aparecem para lhe fazer companhia, mas isso não impede que o horror cresça e eles percebam que não terão paz. Fenômenos indescritivelmente aterrorizantes tomam conta da casa e os quatro amigos terão que lutar por suas vidas.</info>
+</item>
+
+
 
 
 
