@@ -1582,6 +1582,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> A Capitã Rose Corley (Lindsey Morgan), uma humana com poderes extraterrestres, é a única pessoa poderosa o suficiente para destruir os invasores. Quando um vírus ameaça híbridos a serem colocados contra humanos, Corley reúne uma equipe de mercenários para salvar a humanidade.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] À SEGUNDA VISTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5PFGPF3G4DXCDCOOA7JOXYMNPM7X566B</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lCNKgVb0KTm3hVXG3a8rAIoMM9G.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois de anos dando prioriedade apenas à carreira, a comediante de stand-up Andrea Singer finalmente encontra o cara perfeito. À primeira vista, ele parece incrível. Mas será que é tudo isso mesmo?</info>
+</item>
+
+
 
 
 
