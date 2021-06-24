@@ -1598,6 +1598,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> A estudante Renae aceita trabalhar como babá e, em um sábado à noite, vai tomar conta do filho de um misterioso casal. O início da noite é calmo, e o bebê dorme. Porém, não demora até que misteriosas circunstâncias comecem a assombrar Renae, que fica em pânico. Os amigos dela aparecem para lhe fazer companhia, mas isso não impede que o horror cresça e eles percebam que não terão paz. Fenômenos indescritivelmente aterrorizantes tomam conta da casa e os quatro amigos terão que lutar por suas vidas.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] XTREMO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b139bea0d9b0d0bc712658a5bb12ddb62e891ab</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/550LIQnaClYGmHTkFv9tp7BGZlh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dois anos após o assassinato do pai e do filho, um matador de aluguel aposentado bola um plano para se vingar daquele que cometeu os crimes: seu próprio irmão.</info>
+</item>
+
+
 
 
 
