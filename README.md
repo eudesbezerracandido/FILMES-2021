@@ -1574,6 +1574,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Após a esposa morrer no dia seguinte ao parto, Matt imediatamente decide criar sua filha, sendo um pai absolutamente responsável. Mesmo com a tristeza de perder sua esposa, que também era sua namorada no ensino médio, ele faz um juramento para fornecer apoio completo à filha e assumir todas as responsabilidades que cabem a um pai.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SKYLINE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3020481e859038284a4489a8ff4664d678dcaeb1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2W4ZvACURDyhiNnSIaFPHfNbny3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A Capitã Rose Corley (Lindsey Morgan), uma humana com poderes extraterrestres, é a única pessoa poderosa o suficiente para destruir os invasores. Quando um vírus ameaça híbridos a serem colocados contra humanos, Corley reúne uma equipe de mercenários para salvar a humanidade.</info>
+</item>
+
+
 
 
 
