@@ -1607,6 +1607,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 </item>
 
 
+<item>
+<title>[COLOR silver][B] COMPARTILHE OU MORRA - LEG. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2613B81D1B5672F0897740742DAFBC4A26C1BC3F</link>
+<thumbnail>https://ia601408.us.archive.org/8/items/5a-xff-tg-8-ogale-yo-cfte-rk-4vvlv-a-250x-375/5aXffTg8OGAleYoCFTeRK4vvlvA-250x375.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um posto misterioso está circulando nas mídias sociais matando qualquer um que não o compartilhe.</info>
+</item>
+
+
+
 
 
 
