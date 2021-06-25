@@ -1639,6 +1639,39 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Memo mora em uma remota fazenda de ovelhas chilenas, escondendo uma bela voz do mundo exterior. Recluso, ele não consegue parar de pensar no passado.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O MENSAGEIRO DO ULTIMO DIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76006e2a0731b35a6d06378ad4018a8621f8baae</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/Nk4qeNjHvr427RhccYZLSxndGj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um ex-policial atormentado pela morte violenta de sua mulher e seu filho tenta encontrar um grupo de jovens desaparecidos numa pequena cidade, mas descobre que tem uma presença sinistra em torno dele.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] IRMÃES SHEPPARD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84f30e0d6e358e7fdefbb4b5c1922a9a6c9bb4e6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5hyFrcOubBYLfzNgeUQYF2dIZJm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sem ter onde morar, três irmãs com muito talento para o atletismo enfrentam a pobreza e a pressão de uma grande competição juvenil Sem ter onde morar, três irmãs com muito talento para o atletismo enfrentam a pobreza e a pressão de uma grande competição juvenil internacional.internacional.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CHARM CITY KINGS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:J3FC6WLVSAGLTNYT7S7DPG5SJ3JXH5W5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kAc3AMfY29XdqtTqqQScywCZY6e.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Mouse, de quatorze anos, quer desesperadamente se juntar ao Midnight Clique, um grupo infame de motociclistas de Baltimore que dominam as ruas no verão.</info>
+</item>
+
+
+
+
+
+
+
+
+
+
 
 
 
