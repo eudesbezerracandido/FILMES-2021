@@ -1615,6 +1615,36 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Um posto misterioso está circulando nas mídias sociais matando qualquer um que não o compartilhe.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SEM SAIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e182333b8b7ec4cd520dd7990dcdfd42445b9c9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fUCIj47O9v5zktS81hRWktUVnSR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Cole Turner é um vlogger espontâneo, exuberante e confiante que passou a maior parte de sua vida online, escapando de sua infância dolorosa e se esforçando para se lançar ao mais alto nível de influência da mídia social. Juntamente com seus amigos mais próximos, e milhões de seguidores on-line, eles viajam para Moscou para capturar novos conteúdos para seu vlog bem-sucedido. Excitando e engajando sua audiência crescente, o grupo entra em um mundo frio de mistério e excesso a cada passo, obscurecendo as linhas entre jogo e perigo até que todos eles tenham que lutar para sobreviver.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SUPERINTELIGÊNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SIQKNUONNX7UAXNAWYPKI2XIR55Y2WBO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vKNx28UgB64nSEo5gMYOPJyzmTe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma ex-executiva (Melissa McCarthy) tem sua vida virada de cabeça para baixo quando ela é selecionada para observação pela primeira super-inteligência do mundo - uma inteligência artificial que pode ou não dominar o mundo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NINGUÉM SABE QUE ESTOU AQUI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab6a89d70bbd08290e944c05d47d026161cb0d25</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7skWvQPBYJV5YPNHg1cgG15E3Z8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Memo mora em uma remota fazenda de ovelhas chilenas, escondendo uma bela voz do mundo exterior. Recluso, ele não consegue parar de pensar no passado.</info>
+</item>
+
+
+
+
+
+
+
 
 
 
