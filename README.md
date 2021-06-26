@@ -1663,6 +1663,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> Mouse, de quatorze anos, quer desesperadamente se juntar ao Midnight Clique, um grupo infame de motociclistas de Baltimore que dominam as ruas no verão.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] FRIENDS - A REUNIÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d1fbac15f3de41c2fa0d970bf2aaa345e8c8150</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ik6jrK2gt2lFLzcq6lyLEmu9KRg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Os nossos amigos preferidos voltam ao plateau onde tudo começou. Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry, David Schwimmer e convidados especiais reúnem-se para uma celebração espontânea do adorado programa.</info>
+</item>
+
+
+
 
 
 
