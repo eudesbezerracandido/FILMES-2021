@@ -1671,6 +1671,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Os nossos amigos preferidos voltam ao plateau onde tudo começou. Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry, David Schwimmer e convidados especiais reúnem-se para uma celebração espontânea do adorado programa.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ESPÉCIES EM PERIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:caffecf6cabea44de325e3ea9b2345797b75eabb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/irlz2mCcTUZXMLTUGtHTs1JwnFx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Jack Halsey e sua família esperam realizar a viagem dos sonhos ao participar de um safari no Quênia, abaixo do sol escaldante africano. Mas sozinhos no parque selvagem, eles acabam ficando reféns de forças da natureza quando são rodeados por um leopardo e um grupo de hienas famintas.</info>
+</item>
+
+
+
 
 
 
