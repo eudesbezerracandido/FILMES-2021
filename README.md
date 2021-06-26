@@ -1679,6 +1679,36 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> Jack Halsey e sua família esperam realizar a viagem dos sonhos ao participar de um safari no Quênia, abaixo do sol escaldante africano. Mas sozinhos no parque selvagem, eles acabam ficando reféns de forças da natureza quando são rodeados por um leopardo e um grupo de hienas famintas.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] NA MIRA DO PERIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:749cafc72a4813be679b082e40822de3ff08a25b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wAJniojhHa4oVKa9AxdNwvpmS74.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jim Hanson (Liam Neeson), antigo atirador de elite do exército, vive isolado perto da remota fronteira entre os EUA e o México. Mas tudo muda quando testemunha a morte de Rosa, uma emigrante em fuga de um perigoso cartel de droga com o seu filho, Miguel, de apenas 11 anos. Antes de morrer, Rosa implora a Jim que proteja a criança e o deixe em segurança com a família. Para cumprir a promessa, Hanson faz-se à estrada com Miguel, fugindo dos assassinos que o perseguem. Os dois conseguem lentamente ultrapassar as suas diferenças e entre ambos nasce uma amizade improvável.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FILHA DO SOL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76dae8ce455cd16237f77f600ea1b9254b07de5b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/78TBfbAZ0rSsmZeFcVaIaulRNKN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Algures no Curdistão, Bahar, uma jovem advogada, visita a família. Num ataque violento dos extremistas, o marido é assassinato e ela é feita prisioneira, juntamente com o filho e milhares de crianças e mulheres. Uns meses depois de conseguir fugir, Bahar torna-se na líder das “Filhas do Sol”, um batalhão de mulheres que tem como objectivo recuperar a cidade onde foi capturada e salvar o filho. Ao seu lado, Mathilde, uma repórter de guerra veterana, segue o dia-a-dia do batalhão durante os 3 dias do ataque. Nesta situação inimaginável, nasce um laço universal de irmandade, a união das “Filhas do Sol”.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ATLETA  A - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b94d7e88b594fde04d8404f4afc757fd8bd8796</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/afBJ2k0p4ojBFHbMcJY9fZHxjRh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Acompanhe os repórteres que revelaram a história sobre os abusos do médico Larry Nassar e veja o depoimento de ginastas como Maggie Nichols.</info>
+</item>
+
+
+
+
+
+
+
 
 
 
