@@ -1735,6 +1735,14 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>No pequeno bairro calorento de Washington Heights, na periferia de Nova York, um jovem comerciante chamado Usnavi (Anthony Ramos) sonha em voltar para a República Dominicana e reabrir o bar tropical de seu falecido pai. Mas ele é apenas um entre uma grande e unidade comunidade, repleta de sonhos próprios.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] INTERROMPEMOS A PROGRAMAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0bdeac72880d10beb14c6aee42e0beb9267cb8c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lqSjrADn8jqoTNfy33bRfOhNFpm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em 1999, Sebastian se tranca em um estúdio de TV. Ele tem dois reféns, uma arma e uma mensagem importante para o mundo.</info>
+</item>
+
 
 
 
