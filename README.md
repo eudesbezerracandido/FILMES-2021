@@ -1719,6 +1719,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Herschel Greenbaum, um operário que imigra para os Estados Unidos em 1920 com sonhos de construir uma vida melhor para sua amada família. Um dia, enquanto trabalhava no seu trabalho de fábrica, ele cai em um tanque de picles e fica salgando por 100 anos. A salmoura o preserva perfeitamente e quando ele surge nos presentes dias em Brooklyn, ele percebe que não envelheceu nem um dia. Mas quando procura sua família, ele fica horrorizado em saber que seu único parente vivo é seu bisneto, Ben Greenbaum, um educado codificador de computadores o qual Herschel não consegue entender.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DESGRÁVIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7cc2a23241c763cc4e79e69ea9fc34532f9184c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vi6Pc3cqWnNpbEkaeeuzy3Y6LHN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Veronica (Haley Lu Richardson) descobre que está grávida aos 17 anos. Filha de pais conservadores, ela e ex-melhor amiga Bailey (Barbie Ferreira) acabam embarcando numa viagem de carro para o outro lado do país em busca de uma clínica de aborto. Juntas, elas descobrem que um dos fatores mais importantes em suas vidas é quem seus amigos realmente são.</info>
+</item>
+
+
+
 
 
 
