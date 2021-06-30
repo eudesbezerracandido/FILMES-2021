@@ -1727,6 +1727,16 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Veronica (Haley Lu Richardson) descobre que está grávida aos 17 anos. Filha de pais conservadores, ela e ex-melhor amiga Bailey (Barbie Ferreira) acabam embarcando numa viagem de carro para o outro lado do país em busca de uma clínica de aborto. Juntas, elas descobrem que um dos fatores mais importantes em suas vidas é quem seus amigos realmente são.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] EM UM BAIRRO DE NOVA YORK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E11BE568B4C3F0260A6CAB13AE6CD7E1051CE3D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lbf7wmrYRieR8fNFLnGiypMoPm1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No pequeno bairro calorento de Washington Heights, na periferia de Nova York, um jovem comerciante chamado Usnavi (Anthony Ramos) sonha em voltar para a República Dominicana e reabrir o bar tropical de seu falecido pai. Mas ele é apenas um entre uma grande e unidade comunidade, repleta de sonhos próprios.</info>
+</item>
+
+
+
 
 
 
