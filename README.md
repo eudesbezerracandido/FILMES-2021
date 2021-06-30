@@ -1703,6 +1703,24 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Acompanhe os repórteres que revelaram a história sobre os abusos do médico Larry Nassar e veja o depoimento de ginastas como Maggie Nichols.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] AS LEGIÕES EMERGENTES  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07413af806504318752898c6219f167717cce5a3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vgUoejL9fMVfXylBPekyEInOsnQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma história sobre como entrar na idade adulta em tempos difíceis, crescendo para a comunidade.A Grande Guerra é o pano de fundo para a história de amor que se desenrola em primeiro plano: Józek, um desertor do exército czarista que se junta às Legiões emergentes; Ola, uma agente de inteligência da 1ª Brigada e membro da Liga Feminina; e Tadek, seu noivo, um membro da equipe de fuzileiros.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AN AMERICAN PICKLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5060235737f5395e361c1ac1f5dd6cdf9006f25c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nBQkakW2fNOJS1O3p3lwJxpXWX7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Herschel Greenbaum, um operário que imigra para os Estados Unidos em 1920 com sonhos de construir uma vida melhor para sua amada família. Um dia, enquanto trabalhava no seu trabalho de fábrica, ele cai em um tanque de picles e fica salgando por 100 anos. A salmoura o preserva perfeitamente e quando ele surge nos presentes dias em Brooklyn, ele percebe que não envelheceu nem um dia. Mas quando procura sua família, ele fica horrorizado em saber que seu único parente vivo é seu bisneto, Ben Greenbaum, um educado codificador de computadores o qual Herschel não consegue entender.</info>
+</item>
+
+
+
 
 
 
