@@ -1743,6 +1743,17 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> Em 1999, Sebastian se tranca em um estúdio de TV. Ele tem dois reféns, uma arma e uma mensagem importante para o mundo.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] JUDAS E O MESSIAS NEGRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZVQT4RBQ5BTKJA5XJRIESNZ7ELBDQOOO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oA4Hsn1G0sBI8U61BpX05GsrrfF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A história de ascensão e queda de Fred Hampton (Daniel Kaluuya), o ativista dos direitos dos negros e revolucionário líder do partido dos Panteras Negras. Um jovem proeminente na política, ele atrai a atenção do FBI, que com a ajuda de William O’Neal (LaKeith Stanfield) acaba infiltrando os Panteras Negras e causando o assassinato de Hampton.</info>
+</item>
+
+
+
+
 
 
 
