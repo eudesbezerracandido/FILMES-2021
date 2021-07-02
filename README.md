@@ -1775,6 +1775,22 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Detroit, 1955. Um grupo de criminosos menores se reúnem sob circunstâncias misteriosas parar roubar o que eles pensam ser um simples documento. Mas quando o plano dá terrivelmente errado, eles precisam trabalhar juntos para descobrir quem os contratou e qual o seu propósito.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] BELEZA AVASSALADORA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8190873d882bc124b9f10949eb23e5ede7452be1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6YrHAIMp0NLMUv5pECH660de1Bm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Suspeita de ter assassinado o próprio marido, uma mulher revela detalhes de seu casamento conturbado que complicam ainda mais o caso. Um mistério sem explicação. Um assassinato sem provas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A OITAVA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6734478aaf89c995bf7b71c5bd86afd8a261ceba</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hYdRIR49YkRyz1TIMqvS8AzUfsO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Essa batalha de vida ou morte tem apenas um objetivo: impedir que um poderoso demônio desperte e destrua o mundo como conhecemos.</info>
+</item>
+
 
 
 
