@@ -1789,7 +1789,7 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <thumbnail>https://www.themoviedb.org/t/p/original/hYdRIR49YkRyz1TIMqvS8AzUfsO.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Essa batalha de vida ou morte tem apenas um objetivo: impedir que um poderoso demônio desperte e destrua o mundo como conhecemos.</info>
-</item>
+</item> 
 
 
 
