@@ -1789,7 +1789,18 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <thumbnail>https://www.themoviedb.org/t/p/original/hYdRIR49YkRyz1TIMqvS8AzUfsO.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Essa batalha de vida ou morte tem apenas um objetivo: impedir que um poderoso demônio desperte e destrua o mundo como conhecemos.</info>
-</item> 
+</item>
+
+<item>
+<title>[COLOR silver][B] FERRY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0a9266dbd9987fc05c541bc0f46ef4b390d55af</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/srYGZ1rd9rvzwAltcKREUdS1JSQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Antes de construir um império de droga, Ferry Bouman regressa a casa numa missão de vingança em que a sua lealdade é posta à prova e um amor lhe muda a vida.
+Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant por seu chefe Brink para vingar um ataque a sua gangue. Quando ele conhece a adorável Danielle e velhas rixas familiares ressurgem, Brabant começa a perfurar sua</info>
+</item>
+
+
 
 
 
