@@ -1751,6 +1751,14 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> A história de ascensão e queda de Fred Hampton (Daniel Kaluuya), o ativista dos direitos dos negros e revolucionário líder do partido dos Panteras Negras. Um jovem proeminente na política, ele atrai a atenção do FBI, que com a ajuda de William O’Neal (LaKeith Stanfield) acaba infiltrando os Panteras Negras e causando o assassinato de Hampton.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]  A GUERRA DO AMANHÃ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9dbe10e1ca8fa7e8711d7e7e650d5885888083fe</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lWQ3hI78Az2RHfzDpEuvougqUz7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 2051, a humanidade está perdendo uma guerra global contra uma espécie mortal de alienígenas. Para garantir a sobrevivência dos humanos, soldados e civis do presente são transportados para o futuro e se juntam à luta, entre eles Dan Forester, um pai de família determinado a salvar o mundo para sua filha.</info>
+</item>
+
 
 
 
