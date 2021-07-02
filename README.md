@@ -1759,6 +1759,22 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info>Em 2051, a humanidade está perdendo uma guerra global contra uma espécie mortal de alienígenas. Para garantir a sobrevivência dos humanos, soldados e civis do presente são transportados para o futuro e se juntam à luta, entre eles Dan Forester, um pai de família determinado a salvar o mundo para sua filha.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] RUA DO MEDO 1994 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f374e3b2ce287bc1673ed53bac29b23effd338af</link>
+<thumbnail>https://www.themoviedb.org/movie/591273-fear-street-part-one-1994?language=pt-BR</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um pai de família é convocado para lutar numa guerra futurista. Logo, o destino da humanidade depende que ele seja capaz de corrigir os erros que cometeu em sua vida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NENHUM PASSO EM FALSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2d302cd5f08c4e8539ce2a3d1ca7269c2c74c14</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wfbzIfgszbgSnUTdW66jMInZ9Im.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Detroit, 1955. Um grupo de criminosos menores se reúnem sob circunstâncias misteriosas parar roubar o que eles pensam ser um simples documento. Mas quando o plano dá terrivelmente errado, eles precisam trabalhar juntos para descobrir quem os contratou e qual o seu propósito.</info>
+</item>
+
 
 
 
