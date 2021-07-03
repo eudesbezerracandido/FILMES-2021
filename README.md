@@ -1770,7 +1770,7 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <item>
 <title>[COLOR silver][B] NENHUM PASSO EM FALSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2d302cd5f08c4e8539ce2a3d1ca7269c2c74c14</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/wfbzIfgszbgSnUTdW66jMInZ9Im.jpg</thumbnail>
+<thumbnail>themoviedb.org/t/p/original/18Yv4DdEnUL8r1Y2NwCsCOG0n21.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Detroit, 1955. Um grupo de criminosos menores se reúnem sob circunstâncias misteriosas parar roubar o que eles pensam ser um simples documento. Mas quando o plano dá terrivelmente errado, eles precisam trabalhar juntos para descobrir quem os contratou e qual o seu propósito.</info>
 </item>
