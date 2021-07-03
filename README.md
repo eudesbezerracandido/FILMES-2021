@@ -1801,6 +1801,15 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant por seu chefe Brink para vingar um ataque a sua gangue. Quando ele conhece a adorável Danielle e velhas rixas familiares ressurgem, Brabant começa a perfurar sua</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] OXIGÊNIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a68a27f969505190c82bd55bdce3786fb25e623</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/taTams17ciQD5oftC65NNqTa5OT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mulher acorda numa unidade criogénica sem se recordar de quem é. Com o oxigénio a esgotar-se rapidamente, ela tem de recuperar a memória para conseguir sobreviver.</info>
+</item>
+
+
 
 
 
