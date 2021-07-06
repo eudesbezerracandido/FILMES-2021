@@ -1825,6 +1825,16 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info> Emily foge de um relacionamento abusivo voltando para sua cidade natal, apenas para descobrir que tem uma irmã gêmea há muito perdida, mas sua irmã recém-descoberta pode ser uma assassina.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] AMOR NAS ALTURAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L6X2XQNXBYLY2UETZSJZVTRRVQ6YDVVD</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tylTgpAZuptwAAlAxxuKpwDsxF7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Hannah vive na cidade onde acontece a famosa competição de pipas. Ela conhece o jovem Gavin que vai participar do campeonato. E com essa amizade, não são somente as pipas que estão no ar, mas também o clima romântico entre ele</info>
+</item>
+
+
+
 
 
 
