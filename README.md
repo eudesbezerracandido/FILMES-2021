@@ -1833,6 +1833,16 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info> Hannah vive na cidade onde acontece a famosa competição de pipas. Ela conhece o jovem Gavin que vai participar do campeonato. E com essa amizade, não são somente as pipas que estão no ar, mas também o clima romântico entre ele</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] TSUNAMI ZUMBI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75a552c3d95f53229ae7945da372f15bc9f6cdc9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bdlWPVFMsBchv07HxF2khcdCEwZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um pescador enfrenta um oubreak zumbílico que ameaça a vida dos moradores de sua ilha. diretor da franquia Sharknado, Anthony C. Ferrante, novamente se associa ao astro da série Ian Ziering para mais um filme catástrofe inusitado e repleto de ação, Zombie Tidal Wave. Quando um terremoto ao largo da costa de uma pequena ilha causa uma série de tsunamis sobrenaturais, trazendo um enxame de zumbis mortais, o marinheiro veterano Hunter Shaw (Ziering) e um excêntrico grupo de moradores locais se reúnem para sobreviver ao violento ataque e parar a horda de zumbis de alguma forma antes que invadam o continente.</info>
+</item>
+
+
+
 
 
 
