@@ -1809,6 +1809,26 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info>Uma mulher acorda numa unidade criogénica sem se recordar de quem é. Com o oxigénio a esgotar-se rapidamente, ela tem de recuperar a memória para conseguir sobreviver.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A MORTE SALVOU MINHA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4377F245AB553B822678537266757B4566EBC556</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/n2S4AMsZG7PZmSLgDhPCKk5VakT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mulher finge sua própria morte para prender seu marido, depois que ele contrata um assassino para matá-la. Superficialmente, parece que Jade tem de tudo, incluindo uma carreira de marketing de sucesso, um marido admirado e respeitado na comunidade e uma filha que ambos amam. No entanto, a portas fechadas, sua vida está longe de ser perfeita.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A GÊMEA DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9FAF71A00B9337164A0A8D2EBC1EC4A4EAE65824</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xiUdO4gEIA07y6RSQKRWShJcUrh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Emily foge de um relacionamento abusivo voltando para sua cidade natal, apenas para descobrir que tem uma irmã gêmea há muito perdida, mas sua irmã recém-descoberta pode ser uma assassina.</info>
+</item>
+
+
+
+
+
 
 
 
