@@ -1857,6 +1857,14 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info> Stardust fará a crônica da primeira visita do jovem David Bowie aos Estados Unidos em 1971 - uma viagem que inspirou a invenção de seu icônico alter ego Ziggy Stardust.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O MENINO E A GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ZIZLVP6QUBC6SPGVMAYCFKIEITL3UFO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ovyPj16iGWnO9dPWHJDzvz8Q7Qf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O filme é ambientado em Lescun, sul da França, e segue o envolvimento de Jo no contrabando de crianças judias na fronteira com a Espanha. Com Noah Schnapp e Anjelica Huston. Nesta história inspiradora, um garoto começa a viver os horrores da II Guerra e passa a ajudar judeus a fugir dos nazistas pelas montanhas da França até a Espanha. Baseado na obra de Michael Morpurgo (Cavalo de Guerra).</info>
+</item>
+
 
 
 
