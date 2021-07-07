@@ -1841,6 +1841,22 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info>Um pescador enfrenta um oubreak zumbílico que ameaça a vida dos moradores de sua ilha. diretor da franquia Sharknado, Anthony C. Ferrante, novamente se associa ao astro da série Ian Ziering para mais um filme catástrofe inusitado e repleto de ação, Zombie Tidal Wave. Quando um terremoto ao largo da costa de uma pequena ilha causa uma série de tsunamis sobrenaturais, trazendo um enxame de zumbis mortais, o marinheiro veterano Hunter Shaw (Ziering) e um excêntrico grupo de moradores locais se reúnem para sobreviver ao violento ataque e parar a horda de zumbis de alguma forma antes que invadam o continente.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MAJOR GROM-CONTA Dr.PESTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c701b09ac9ca6c731de4be702688d63c7cff7f93</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yBkZlG55CprznYxwUcGY6r3ZXP6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Igor Grom é um policial conhecido por sua natureza ousada e persegue um vigilante mascarado que combate o crime sob a máscara medieval de um médico da peste.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  STARDUST [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2afc30d31e1f286428f86af513a2513ea0a530f1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/woOQx1s4mNVAprRpky3ntRgdlf4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Stardust fará a crônica da primeira visita do jovem David Bowie aos Estados Unidos em 1971 - uma viagem que inspirou a invenção de seu icônico alter ego Ziggy Stardust.</info>
+</item>
+
 
 
 
