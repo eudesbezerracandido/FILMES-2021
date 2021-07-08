@@ -1335,9 +1335,9 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 </item>
 
 <item>
-<title>[COLOR silver][B] DUOLOGIA -  UM LUGAR SILÊNCIOSO/ 2 HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] DUOLOGIA -  UM LUGAR SILÊNCIOSO/ 2 DUBLADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E29692853177FE9B9DD4DB3C047C13A94CCEF429$nome=UM LUGAR SILÊNCIOSO 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4DGRIB7KKUEMYU5Y4GCVQIPTYMV2YGN5$nome=UM LUGAR SILÊNCIOSO 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KW7NGTGYJ2PWW2QUVU4WJ6QHITN7XN42$nome=UM LUGAR SILÊNCIOSO 2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/k3vv9vVwDjGvsNbr6C5HvZp8mea.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Logo após os acontecimentos mortais, até mesmo dentro de casa, a família Abbott precisa agora encarar o terror mundo afora, continuando a lutar para sobreviver em silêncio. Obrigados a se aventurar pelo desconhecido, eles rapidamente percebem que as criaturas que caçam pelo som não são as únicas ameaças que os observam pelo caminho de areia.</info>
