@@ -1873,6 +1873,14 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info>Os mortais Graboids estão de volta, ilegalmente transportados para uma ilha resort onde um playboy rico pretende criar um safári diferente.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] VIÚVA NEGRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LSDQ5MDLYPDTT5NLK7ZHYDL6THSW2SMM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Natasha Romanoff "Viúva Negra" precisa confrontar partes de sua história quando surge uma conspiração perigosa ligada ao seu passado. Perseguida por uma força que não irá parar até derrotá-la, Natasha terá que lidar com sua antiga vida de espiã, e também reencontrar membros de sua família que deixou para trás antes de se tornar parte dos Vingadores.</info>
+</item>
+
 
 
 
