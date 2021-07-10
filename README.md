@@ -1607,7 +1607,6 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <info> Dois anos após o assassinato do pai e do filho, um matador de aluguel aposentado bola um plano para se vingar daquele que cometeu os crimes: seu próprio irmão.</info>
 </item>
 
-
 <item>
 <title>[COLOR silver][B] COMPARTILHE OU MORRA - LEG. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2613B81D1B5672F0897740742DAFBC4A26C1BC3F</link>
@@ -1880,6 +1879,16 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Natasha Romanoff "Viúva Negra" precisa confrontar partes de sua história quando surge uma conspiração perigosa ligada ao seu passado. Perseguida por uma força que não irá parar até derrotá-la, Natasha terá que lidar com sua antiga vida de espiã, e também reencontrar membros de sua família que deixou para trás antes de se tornar parte dos Vingadores.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] RUA DO MEDO PARTE 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RM4ZIYSFIGUWIUOMUER4VZOXZFBXH4A3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gTJWRoEOtwJL4PRBLFIDZpFAj81.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1978, o Acampamento Nightwing é dividido por campistas e monitores vindos de cenários sociais diferentes da cidade, mas quando horrores do passado ganham vida, eles precisam se unir para resolver um terrível mistério antes que seja tarde demais.</info>
+</item>
+
+
 
 
 
