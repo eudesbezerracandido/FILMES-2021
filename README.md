@@ -1889,6 +1889,27 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info>Em 1978, o Acampamento Nightwing é dividido por campistas e monitores vindos de cenários sociais diferentes da cidade, mas quando horrores do passado ganham vida, eles precisam se unir para resolver um terrível mistério antes que seja tarde demais.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O HOMEM ÁGUA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WAKRH7J5OFYI574S453ADYINUFRXRJMS</link>
+<thumbnail>https://ia601402.us.archive.org/25/items/transferir_202107/transferir.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Gunner é um menino precoce que, para salvar sua mãe doente, foge de casa com Jo, para encontrar a lendária figura chamada Homem da Água, que foi dita ter o poder de enganar a morte. Embora extremamente próximo de sua mãe, ele e seu pai, Amos, são forçados a aprender um sobre o outro enquanto Amos vai à procura de seu filho.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A VIDA PODE MUDAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6IKUTWSN3YFF5SCKJ5HFFPBIRNAFSGKQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1F6VdHC16zwEJoEWx2omJ0fzgmA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma advogada viciada em trabalho volta a pequena ilha onde nasceu e viveu na infância para convencer um antigo amigo a assumir a chefia da empresa da família dele. Mas enquanto passam um tempo juntos, relembrando momentos nostálgicos, antigos sentimentos retornam e os dois se veem apaixonados.</info>
+</item>
+
+
+
+
+
+
 
 
 
