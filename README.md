@@ -1921,6 +1921,17 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info> Após os eventos do último filme, Dominic Toretto (Vin Diesel) e sua família precisam enfrentar o seu irmão mais novo Jakob (John Cena), um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher (Charlize Theron).</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] NA MIRA DO PERIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6786b6e232cb9c651bd225b725967ab0ad72f6e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6vcDalR50RWa309vBH1NLmG2rjQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um fazendeiro na fronteira do Arizona se torna o improvável defensor de um jovem mexicano que foge desesperadamente dos assassinos do cartel que o perseguiram até os EUA.</info>
+</item>
+
+
+
+
 
 
 
