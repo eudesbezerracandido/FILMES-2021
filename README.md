@@ -1913,6 +1913,16 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info>Ao descobrirem que tem imunidade diplomática por trabalharem na embaixada internacional na Cidade do México, um grupo de recém-formados começam a viver suas fantasias, fazendo o que quiserem. Mas quando um grupo violento descobre seus macetes, eles começam a ser extorquidos em troca da imunidade.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] VELOZES & FURIOSOS 9 HDCAM DUBLADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE294E82C796E17751FCE89F1D2BC6E8067A23E4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AsjqrHxb8RTSaFLts0MNuPm1Sn6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após os eventos do último filme, Dominic Toretto (Vin Diesel) e sua família precisam enfrentar o seu irmão mais novo Jakob (John Cena), um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher (Charlize Theron).</info>
+</item>
+
+
+
 
 
 
