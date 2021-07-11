@@ -1905,6 +1905,16 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info> Uma advogada viciada em trabalho volta a pequena ilha onde nasceu e viveu na infância para convencer um antigo amigo a assumir a chefia da empresa da família dele. Mas enquanto passam um tempo juntos, relembrando momentos nostálgicos, antigos sentimentos retornam e os dois se veem apaixonados.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MEIOS-IRMÃOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q6HW3MAXY35OMI472H6Y774HJDB2J3UO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ziKSNo9yVx50FYhJg0aPvCAzKbD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ao descobrirem que tem imunidade diplomática por trabalharem na embaixada internacional na Cidade do México, um grupo de recém-formados começam a viver suas fantasias, fazendo o que quiserem. Mas quando um grupo violento descobre seus macetes, eles começam a ser extorquidos em troca da imunidade.</info>
+</item>
+
+
+
 
 
 
