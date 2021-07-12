@@ -1929,6 +1929,14 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info>Um fazendeiro na fronteira do Arizona se torna o improvável defensor de um jovem mexicano que foge desesperadamente dos assassinos do cartel que o perseguiram até os EUA.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COMO VIREI SUPER-HERÓI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7UMPHN25JJLN7NX6O3IIBHGYFZOE6CWP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nM5i9pp24ADppiQ2EQYQXpoDXyl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nessa realidade, os super-heróis estão perfeitamente integrados à sociedade e querem ser famosos a todo custo. Mas uma droga que esbanja super poderes para os mortais comuns se enfurece na cidade. Os tenentes Moreau e Schaltzmann investigam o caso com a ajuda de dois ex-super-heróis, Monte Carlo e Callista.</info>
+</item>
+
 
 
 
