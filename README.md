@@ -1937,6 +1937,16 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info>Nessa realidade, os super-heróis estão perfeitamente integrados à sociedade e querem ser famosos a todo custo. Mas uma droga que esbanja super poderes para os mortais comuns se enfurece na cidade. Os tenentes Moreau e Schaltzmann investigam o caso com a ajuda de dois ex-super-heróis, Monte Carlo e Callista.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MEMÓRIAS DE VERÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6UE47RCVN2Z55BOYPX7RUU6SE4BNFHW7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/s2OLfim4v1WvgTzP0VjuBCISS2L.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nesta história sobre amadurecimento e amores de verão, Deniz quer encontrar sua paixão de infância nas férias, mas acaba envolvido em um triângulo amoroso.</info>
+</item>
+
+
+
 
 
 
