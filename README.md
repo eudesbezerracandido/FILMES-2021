@@ -1945,6 +1945,15 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info>Nesta história sobre amadurecimento e amores de verão, Deniz quer encontrar sua paixão de infância nas férias, mas acaba envolvido em um triângulo amoroso.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] THE WHITE LOTUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4241bd807332c0a1f4975a8b86b4514c753b78c8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4gBYNDdczkFOqjR4dgYamqbp6cS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma sátira social situada em um exclusivo resort no Havaí, acompanhando as férias de vários hóspedes em meio a uma semana de relaxamento e rejuvenescimento no paraíso. Mas à medida que os dias passam, uma complexidade mais obscura emerge de cada um desses viajantes, os empregados alegres do hotel e o próprio local.</info>
+</item>
+
+
 
 
 
