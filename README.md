@@ -1977,6 +1977,15 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info> Antes de Alice ir ao País das Maravilhas, e antes que Peter se tornar Pan, eles eram irmão e irmã. Quando seu irmão mais velho morre em um trágico acidente, cada um procura salvar os pais (Jolie e Oyelowo) do desespero até que finalmente eles são forçados a escolher entre a casa e a imaginação, preparando o palco para as suas viagens icônicas para Wonderland e Neverland.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O RESGATE- O DIA DA REDENÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3D4DUAYPOTCYLQLKVJDFFUBRQHPS5CZC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dPsov8oNjcPmkKf8rxv9PEXy14J.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Com Andy Garcia. Quando sua esposa é sequestrada por terroristas, um condecorado fuzileiro do exército americano embarca em uma arriscada missão para salvá-la antes que seja tarde demais.</info>
+</item>
+
+
 
 
 
