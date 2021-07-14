@@ -1961,6 +1961,16 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info>Um fracassado, cuja vida não é grande coisa, dá de cara com um grupo secreto de autoajuda para assassinos em série. Conseguirá ele combinar inteligência com cinco assassinos e sobreviver?</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O APARTAMENTO DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a019b76eb3e79bd416cbc94eb5f5b0246fb7ae89</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zTANZaCUwG6prdRygximOdWKV6U.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma história de fantasmas que transforma a relação de amor/ódio entre mãe e filha em um horripilante conto de terror. Um belo imóvel, com uma enorme varanda, com vista para o mar e localizado no invejável bairro de Shonan, em Tóquio. Mas algumas coisas são boas demais para ser verdade. O suicídio da irmã mais nova de Mariko, a nova moradora, é o último de uma sequência de mortes da varanda deste apartamento. Mariko não aceita a versão oficial dos fatos, e não acredita que todas as mortes sejam coincidência. Disposta a descobrir a verdade, ela encontrará uma história de violência, abuso e desespero em torno do amor e ódio entre mãe e filha, que nem mesmo a morte trouxe um fim.</info>
+</item>
+
+
+
 
 
 
