@@ -1969,6 +1969,15 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info>Uma história de fantasmas que transforma a relação de amor/ódio entre mãe e filha em um horripilante conto de terror. Um belo imóvel, com uma enorme varanda, com vista para o mar e localizado no invejável bairro de Shonan, em Tóquio. Mas algumas coisas são boas demais para ser verdade. O suicídio da irmã mais nova de Mariko, a nova moradora, é o último de uma sequência de mortes da varanda deste apartamento. Mariko não aceita a versão oficial dos fatos, e não acredita que todas as mortes sejam coincidência. Disposta a descobrir a verdade, ela encontrará uma história de violência, abuso e desespero em torno do amor e ódio entre mãe e filha, que nem mesmo a morte trouxe um fim.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ALICE E PETER-ONDE NASCEM OS SONHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XRDBFYTFQ773D4ZVNPZ3X5CPAQYHSVOL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sCrRwiist9uWQ1TYIkniCnbPUOK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Antes de Alice ir ao País das Maravilhas, e antes que Peter se tornar Pan, eles eram irmão e irmã. Quando seu irmão mais velho morre em um trágico acidente, cada um procura salvar os pais (Jolie e Oyelowo) do desespero até que finalmente eles são forçados a escolher entre a casa e a imaginação, preparando o palco para as suas viagens icônicas para Wonderland e Neverland.</info>
+</item>
+
+
 
 
 
