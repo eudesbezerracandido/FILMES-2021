@@ -1985,6 +1985,16 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info>Com Andy Garcia. Quando sua esposa é sequestrada por terroristas, um condecorado fuzileiro do exército americano embarca em uma arriscada missão para salvá-la antes que seja tarde demais.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] UM CLÁSSICO FILME TERROR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d51643f968adc3fb4bc48e0a9b04638e0c933f8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/d4gomiaeEAVkgofuyCHtzKkuXVS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Cinco viajantes dividindo carona num motorhome para chegar a um destino comum. Durante a viagem, eles sofrem um acidente quando tentam desviar da carcaça de um animal morto na estrada. Ao recobrarem a consciência, eles se encontram no meio do nada. A estrada em que viajavam desaparece e há apenas uma floresta densa e impenetrável e uma casa de madeira no meio de uma clareira, onde acontece um culto macabro.</info>
+</item>
+
+
+
 
 
 
