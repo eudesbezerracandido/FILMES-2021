@@ -1993,6 +1993,15 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info> Cinco viajantes dividindo carona num motorhome para chegar a um destino comum. Durante a viagem, eles sofrem um acidente quando tentam desviar da carcaça de um animal morto na estrada. Ao recobrarem a consciência, eles se encontram no meio do nada. A estrada em que viajavam desaparece e há apenas uma floresta densa e impenetrável e uma casa de madeira no meio de uma clareira, onde acontece um culto macabro.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] UM MILAGRE INESPERADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PYGBTVJVJQU6BIGZYLR775E4I5OD5LG6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jART4wnzFZeZ2fDpPwVvm9qihTA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma mulher com paralisia encontra uma nova esperança cuidando de uma ave ferida. om a indicada ao Oscar Naomi Watts. Após um trágico acidente, uma mulher encontra forças para viver quando sua família resgata e cuida de um pássaro ferido. Baseado numa inspiradora história real.</info>
+</item>
+
+
 
 
 
