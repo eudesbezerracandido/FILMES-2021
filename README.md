@@ -2001,6 +2001,25 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info> Uma mulher com paralisia encontra uma nova esperança cuidando de uma ave ferida. om a indicada ao Oscar Naomi Watts. Após um trágico acidente, uma mulher encontra forças para viver quando sua família resgata e cuida de um pássaro ferido. Baseado numa inspiradora história real.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] RUA DO MEDO - 1666 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b25928e3964c92a4969f59226256ac87cb368301</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1666, uma cidade colonial é aterrorizada por uma histérica caça-às-bruxas com consequências mortais que reverberam nos séculos seguintes. Cabe aos jovens em 1994 tentar descobrir uma maneira de pôr um fim à maldição da cidade, antes que seja tarde demais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SPACE JAM - UM NOVO LEGADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75b5405815b3b3016e0818b00cf78762b2ac4d0b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A estrela da NBA, LeBron James, se une a Pernalonga e ao resto da Looney Tunes para esta tão esperada sequência.</info>
+</item>
+
+
+
+
 
 
 
