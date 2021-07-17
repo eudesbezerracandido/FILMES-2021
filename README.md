@@ -2002,7 +2002,7 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 </item>
 
 <item>
-<title>[COLOR silver][B] RUA DO MEDO - 1666 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] RUA DO MEDO - 1666 PARTE 3 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b25928e3964c92a4969f59226256ac87cb368301</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
