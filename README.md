@@ -2025,6 +2025,16 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info>Quatro estudantes de medicina que sofrem de insônia são atraídos para um experimento que sai do controle. Agora eles precisam escapar antes que seja tarde demais.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COSMOBALL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d390fdeec8b75aaf7dd1294bc5892c247f0f955b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1AkgB1GoseuOB0i14uC185oqmCz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Cosmoball é um jogo intergaláctico hipnotizante do futuro, jogado entre humanos e alienígenas na nave extraterrestre gigante pairando no céu sobre a Terra. Um jovem com um enorme poder de natureza desconhecida se junta à equipe de super-heróis de cabeça quente em troca da cura para a doença mortal de sua mãe. Os Quatro da Terra lutarão não apenas para defender a honra de seu planeta natal no jogo espetacular, mas para enfrentar a ameaça sem precedentes à Galáxia e abraçar seu próprio destino.</info>
+</item>
+
+
+
 
 
 
