@@ -2017,6 +2017,17 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info>A estrela da NBA, LeBron James, se une a Pernalonga e ao resto da Looney Tunes para esta tão esperada sequência.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DEEP [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:916fd122bdc4a9ee5afa12d563dc6a51b023a803</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jhbJCqSUmhFJJYo27DP44kdN6Fb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quatro estudantes de medicina que sofrem de insônia são atraídos para um experimento que sai do controle. Agora eles precisam escapar antes que seja tarde demais.</info>
+</item>
+
+
+
+
 
 
 
