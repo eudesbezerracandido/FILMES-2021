@@ -2033,6 +2033,15 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info> Cosmoball é um jogo intergaláctico hipnotizante do futuro, jogado entre humanos e alienígenas na nave extraterrestre gigante pairando no céu sobre a Terra. Um jovem com um enorme poder de natureza desconhecida se junta à equipe de super-heróis de cabeça quente em troca da cura para a doença mortal de sua mãe. Os Quatro da Terra lutarão não apenas para defender a honra de seu planeta natal no jogo espetacular, mas para enfrentar a ameaça sem precedentes à Galáxia e abraçar seu próprio destino.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A GÊMEA DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xVraarjuYRDdLczaPKtIWbwpfjy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Emily foge de um relacioNamento abusivo voltando para sua cidade natal apenas para descobrir que tem uma irmã gêmea há muito perdida, mas sua irmã recém-descoberta pode ser uma assassina.</info>
+</item>
+
+
 
 
 
