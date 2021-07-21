@@ -1876,6 +1876,7 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <title>[COLOR silver][B] VIÚVA NEGRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LSDQ5MDLYPDTT5NLK7ZHYDL6THSW2SMM$nome=VIÚVA NEGRA DUBLADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ea2e1760aa474d29d111c64fc9025008a1b0ad2$nome=VIÚVA NEGRA LEGENDADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UWCGHN75PQZBBZDCGHWCT7MHBD5IOYX4$nome=VIÚVA NEGRA 4k</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Natasha Romanoff "Viúva Negra" precisa confrontar partes de sua história quando surge uma conspiração perigosa ligada ao seu passado. Perseguida por uma força que não irá parar até derrotá-la, Natasha terá que lidar com sua antiga vida de espiã, e também reencontrar membros de sua família que deixou para trás antes de se tornar parte dos Vingadores.</info>
