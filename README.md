@@ -2042,6 +2042,14 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info> Emily foge de um relacioNamento abusivo voltando para sua cidade natal apenas para descobrir que tem uma irmã gêmea há muito perdida, mas sua irmã recém-descoberta pode ser uma assassina.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ENCAIXE PERFEITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F3E3BQ4PO5AX6LZL6QNSUJ7ZOE3FBIWU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dXAVrQQi0PR4eptYvppdJUk3SAk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em Bali, uma blogueira de moda conhece um talentoso sapateiro que mexe com seu coração e a faz questionar seu noivado arranjado.</info>
+</item>
+
 
 
 
