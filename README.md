@@ -2090,6 +2090,15 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info>Lindy (Kate Beckinsale) é uma segurança durona com um problema de controle de raiva. Depois que o primeiro cara por quem ela se apaixonou é assassinado, ela vai em um ataque de vingança para encontrar o assassino enquanto os policiais a perseguem como o principal suspeito.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O SÉTIMO DIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8882b7cc353d9c571e589d7dcddae48720efa2d3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2NBiv0mpQJppmm5U912XXnokjnN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um exorcista de renome se une a um padre novato para seu primeiro dia de treinamento. À medida que mergulham mais fundo no inferno na Terra, as linhas entre o bem e o mal se esvai, e seus próprios demônios emergem.</info>
+</item>
+
+
 
 
 
