@@ -2050,6 +2050,22 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info> Em Bali, uma blogueira de moda conhece um talentoso sapateiro que mexe com seu coração e a faz questionar seu noivado arranjado.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CÉU VERMELHO-SANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b69a3baad68f2052f76634c9b42030b3a4833069</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pF25UeWH9HFAT0Mq4KjvielccEL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mulher com uma doença misteriosa é forçada a agir quando um grupo de terroristas tenta sequestrar um voo transatlântico. Para proteger seu filho, ela precisará revelar um segredo sombrio e libertar o monstro interior que lutava para esconder.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] KINGDOM-REINO ASHIN DO NORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1bce600245835101503e60fcf518a40ede6e7320</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gDu7P9dGWrNJBP6EIYKCuKLWVYg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um episódio especial sequência da segunda temporada de ''Kingdom'', uma história de fundo sobre a misteriosa personagem que o grupo de Lee Chang encontrou em sua jornada ao norte para descobrir as origens dos infectados. </info>
+</item>
+
 
 
 
