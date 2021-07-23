@@ -2082,6 +2082,15 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info> Ellie (Felicity Jones), uma jovem jornalista da Londres contemporânea, descobre uma série de cartas de amor nos arquivos que contam a história de um caso intensamente romântico, nos anos 1960, entre Jennifer (Shailene Woodley) e Anthony (Callum Turner). Como Ellie é atraída para a história, ela fica obcecada em descobrir as identidades dos amantes e como termina essa história de amor.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] JOLT-FÚRIA FATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gYZAHan5CHPFXORpQMvOjCTug4E.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Lindy (Kate Beckinsale) é uma segurança durona com um problema de controle de raiva. Depois que o primeiro cara por quem ela se apaixonou é assassinado, ela vai em um ataque de vingança para encontrar o assassino enquanto os policiais a perseguem como o principal suspeito.</info>
+</item>
+
+
 
 
 
