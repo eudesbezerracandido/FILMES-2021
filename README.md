@@ -2074,6 +2074,14 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info>No pequeno bairro calorento de Washington Heights, na periferia de Nova York, um jovem comerciante chamado Usnavi (Anthony Ramos) sonha em voltar para a República Dominicana e reabrir o bar tropical de seu falecido pai. Mas ele é apenas um entre uma grande e unidade comunidade, repleta de sonhos próprios.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A ÚLTIMA CARTA DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a6ac6a46c3cc3f80ef397a3d75471f00c54bda5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uvtsPKeWzTLjMQm0cB9qiNcmWnq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ellie (Felicity Jones), uma jovem jornalista da Londres contemporânea, descobre uma série de cartas de amor nos arquivos que contam a história de um caso intensamente romântico, nos anos 1960, entre Jennifer (Shailene Woodley) e Anthony (Callum Turner). Como Ellie é atraída para a história, ela fica obcecada em descobrir as identidades dos amantes e como termina essa história de amor.</info>
+</item>
+
 
 
 
