@@ -2098,6 +2098,25 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info> Um exorcista de renome se une a um padre novato para seu primeiro dia de treinamento. À medida que mergulham mais fundo no inferno na Terra, as linhas entre o bem e o mal se esvai, e seus próprios demônios emergem.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]  DE VOLTA À ITÁLIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:ac22fa2505137f6665519811959f3058d07eca61</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yZhoRQI1QdwlFMP90pV6yG1IILV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Robert (Liam Neeson) é um artista boêmio de Londres que retorna à Itália com seu filho distante Jack (Micheál Richardson) para fazer uma venda rápida da casa que eles herdaram da sua falecida esposa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AR CONDICINADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad0ac03c3f52cc41160fa0dd17705dccb691c159</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9niRVVYhtWyZ7aVbMEt6sxTMyFK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um dia em na capital de Angola, Luanda, ar condicionados começam a cair dos prédios.Esse é um filme sobre as batidas do coração de uma cidade: Os prédios de Luanda (os quais visivelmente carregam muita história) e as pessoas tentando reconstruir suas vidas depois de uma guerra civil.</info>
+</item>
+
+
+
+
 
 
 
