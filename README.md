@@ -2114,6 +2114,16 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info> Um dia em na capital de Angola, Luanda, ar condicionados começam a cair dos prédios.Esse é um filme sobre as batidas do coração de uma cidade: Os prédios de Luanda (os quais visivelmente carregam muita história) e as pessoas tentando reconstruir suas vidas depois de uma guerra civil.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] BELA VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ICFMLWLGCQBB7VPNL7DQVBGFB4TU24R</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/r7FwclLTWB8i6XfBNTtUsyONlgN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Anos atrás Cassie (Carey Mulligan) largou a faculdade de medicina devido a um trauma sofrido por Nina, sua melhor amiga e colega de curso. Agora, trabalhando numa cafeteria durante o dia, a moça dedica as noites de sexta a visitar boates e encurralar rapazes que se aproveitam de sua suposta embriaguez para fazerem o que quiser com ela.</info>
+</item>
+
+
+
 
 
 
