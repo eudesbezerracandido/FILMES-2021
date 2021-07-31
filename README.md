@@ -2178,6 +2178,21 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info>Dois anos após uma pandemia alastrar o planeta, quarentenas foram desligadas e implantadas novamente à medida que o vírus continua a evoluir de formas cada vez mais perigosas. Em meio a esse contexto, um mensageiro chamado Nico, que tem uma imunidade rara, se apaixona pela artista Sara.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MUNDO EM CAOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:CWG63DMNOGMDW4TGEKRY2TCMZQM3Q7FG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oMSumadgRiygK1DUtBurdnZb9Jz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Num futuro pós-apocalíptico, onde a humanidade já começou a colonizar outros planetas, uma infecção rara e perigosa tomou conta do planeta e causou o inimaginável: todas as mulheres foram mortas, e agora os pensamentos de todos os homens tornaram-se audíveis. O jovem Todd (Tom Holland), temendo a destruição total, decide partir fugindo de sua cidade e, durante sua jornada, conhece pela primeira vez na vida uma mulher. Mas quem é ela? E por que não foi morta pelo germe como todas as mulheres? Baseado no romance homônimo de Patrick Ness.</info>
+</item>
+
+
+
+
+
+
+
+
 
 
 
