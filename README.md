@@ -2170,6 +2170,15 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info>Erica (Christina Milian) é uma aspirante a estrela do pop que se vê presa num luxuoso resort como a atração do casamento de seu ex-noivo. Tentando esconder seu antigo relacionamento da atual noiva, Erica acaba redescobrindo seus sentimentos por Jason, apesar das tentativas do irmão dele de impedir.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ISOLADOS - MEDO INVISIVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:GX4LWW6SDLO7BTUNDZHAYYZG2GL7ZIY7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/irojlZd3fTBWgiLyxS7zmElokH7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois anos após uma pandemia alastrar o planeta, quarentenas foram desligadas e implantadas novamente à medida que o vírus continua a evoluir de formas cada vez mais perigosas. Em meio a esse contexto, um mensageiro chamado Nico, que tem uma imunidade rara, se apaixona pela artista Sara.</info>
+</item>
+
+
 
 
 
