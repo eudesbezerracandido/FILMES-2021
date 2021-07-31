@@ -2154,6 +2154,26 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info>O esquadrão de operações especiais “Hell’s Bastards” é enviado para a Europa Oriental no meio de uma guerra civil para recuperar informações. Mas logo após a missão, a unidade fica presa em uma escadaria aterrorizante e interminável. Forçados a subir ou morrer, o grupo logo fica cara a cara com seus pecados passados em uma luta desesperada pela sobrevivência.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SAMURAI X - A ORIGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:4e861c429955886252bb5b9cf5544298b6b47f3e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a7cWay8MBxGbgvFI8HN5FhJsPAX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Himura Kenshin enfrenta o misterioso negociante de armas Enishi. Ele controla o submundo da China. O segredo do "Jujishou" de Kenshin Himura também é revelado. Related ContentRurouni Kenshin: The Final (Japanese prequel)</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FUGINDO DO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:2DZ2O2M6APO624NI46XBTR4GBONHK7HY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6TrkFcgCF8Vznk45rs3qvxxejiV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Erica (Christina Milian) é uma aspirante a estrela do pop que se vê presa num luxuoso resort como a atração do casamento de seu ex-noivo. Tentando esconder seu antigo relacionamento da atual noiva, Erica acaba redescobrindo seus sentimentos por Jason, apesar das tentativas do irmão dele de impedir.</info>
+</item>
+
+
+
+
+
 
 
 
