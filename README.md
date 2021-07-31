@@ -2122,6 +2122,48 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <info>Anos atrás Cassie (Carey Mulligan) largou a faculdade de medicina devido a um trauma sofrido por Nina, sua melhor amiga e colega de curso. Agora, trabalhando numa cafeteria durante o dia, a moça dedica as noites de sexta a visitar boates e encurralar rapazes que se aproveitam de sua suposta embriaguez para fazerem o que quiser com ela.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] JUNGLE CRUISE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:03dde8cd690a7122892153f3273247c7b13b0348</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lU8QROS7XMnSDEnZKDwtG0R8et2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No começo do século XX, na Floresta Amazônica, um capitão de barco (Dwayne Johnson) viaja com a irmã (Emily Blunt) e o irmão (Jack Whitehall) buscando encontrar uma árvore mágica. Atrapalham a jornada animais selvagens e um aventureiro alemão também engajado na procura.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - DUBLÊ DE RISCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:WIAJJ5PGFXN2UIX4OJA7GH5CCG3NF25Q</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1RGlVTa8cczUUfmDJFHX5dzshjY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O documentário acompanha o dublê profissional Eddie Braun enquanto ele tenta uma das acrobacias mais perigosas da história. Pensando na aposentadoria e tendo sobrevivido há mais de três décadas de terríveis acidentes de carro, explosões, quedas e saltos que desafiam a morte, Eddie decide terminar sua carreira recriando o infame salto de foguete do Snake River Canyon, um evento televisivo audacioso que quase matou o homem que inspirou Eddie a se tornar um dublê profissional, Evel Knievel.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ÚLTIMO MERCENÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:d2cd103af5be673655b1ad0d47453f0adbd83b77</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iT9k4FyhjLcfMRH8Qzk3wR99pDC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um misterioso ex-agente do serviço secreto deve retornar urgentemente à França, quando seu filho é falsamente acusado de tráfico de armas e drogas pelo governo, após um erro cometido por um burocrata e uma operação da máfia.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BLACK OPS-OPERAÇÃO SECRETA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:5f77ca114df6e9fa3a89fdb7fb0a9fc4080fd55f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wNPg6RIzY92miYevoIUYTFoJqBA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O esquadrão de operações especiais “Hell’s Bastards” é enviado para a Europa Oriental no meio de uma guerra civil para recuperar informações. Mas logo após a missão, a unidade fica presa em uma escadaria aterrorizante e interminável. Forçados a subir ou morrer, o grupo logo fica cara a cara com seus pecados passados em uma luta desesperada pela sobrevivência.</info>
+</item>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
