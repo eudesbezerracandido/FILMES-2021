@@ -1915,8 +1915,9 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 </item>
 
 <item>
-<title>[COLOR silver][B] VELOZES & FURIOSOS 9 HDCAM DUBLADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE294E82C796E17751FCE89F1D2BC6E8067A23E4</link>
+<title>[COLOR silver][B] VELOZES & FURIOSOS 9 DUBLADO & LEGENDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE294E82C796E17751FCE89F1D2BC6E8067A23E4$nome=VELOZES & FURIOSOS 9 HDCAM DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4617c670978705cb7838c87f5d494257aebd4a6$nome=VELOZES & FURIOSOS 9 LEGENDADO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/AsjqrHxb8RTSaFLts0MNuPm1Sn6.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Após os eventos do último filme, Dominic Toretto (Vin Diesel) e sua família precisam enfrentar o seu irmão mais novo Jakob (John Cena), um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher (Charlize Theron).</info>
@@ -2036,7 +2037,7 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 
 <item>
 <title>[COLOR silver][B] A GÊMEA DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9FAF71A00B9337164A0A8D2EBC1EC4A4EAE65824</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xVraarjuYRDdLczaPKtIWbwpfjy.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Emily foge de um relacioNamento abusivo voltando para sua cidade natal apenas para descobrir que tem uma irmã gêmea há muito perdida, mas sua irmã recém-descoberta pode ser uma assassina.</info>
@@ -2084,7 +2085,7 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 
 <item>
 <title>[COLOR silver][B] JOLT-FÚRIA FATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51f87916489666b7fa824cdf7fd2e22879ba495a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gYZAHan5CHPFXORpQMvOjCTug4E.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Lindy (Kate Beckinsale) é uma segurança durona com um problema de controle de raiva. Depois que o primeiro cara por quem ela se apaixonou é assassinado, ela vai em um ataque de vingança para encontrar o assassino enquanto os policiais a perseguem como o principal suspeito.</info>
@@ -2100,7 +2101,7 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 
 <item>
 <title>[COLOR silver][B]  DE VOLTA À ITÁLIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:ac22fa2505137f6665519811959f3058d07eca61</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac22fa2505137f6665519811959f3058d07eca61</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/yZhoRQI1QdwlFMP90pV6yG1IILV.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Robert (Liam Neeson) é um artista boêmio de Londres que retorna à Itália com seu filho distante Jack (Micheál Richardson) para fazer uma venda rápida da casa que eles herdaram da sua falecida esposa.</info>
@@ -2124,7 +2125,7 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 
 <item>
 <title>[COLOR silver][B] JUNGLE CRUISE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:03dde8cd690a7122892153f3273247c7b13b0348</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03dde8cd690a7122892153f3273247c7b13b0348</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lU8QROS7XMnSDEnZKDwtG0R8et2.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>No começo do século XX, na Floresta Amazônica, um capitão de barco (Dwayne Johnson) viaja com a irmã (Emily Blunt) e o irmão (Jack Whitehall) buscando encontrar uma árvore mágica. Atrapalham a jornada animais selvagens e um aventureiro alemão também engajado na procura.</info>
@@ -2132,7 +2133,7 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - DUBLÊ DE RISCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:WIAJJ5PGFXN2UIX4OJA7GH5CCG3NF25Q</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WIAJJ5PGFXN2UIX4OJA7GH5CCG3NF25Q</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1RGlVTa8cczUUfmDJFHX5dzshjY.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O documentário acompanha o dublê profissional Eddie Braun enquanto ele tenta uma das acrobacias mais perigosas da história. Pensando na aposentadoria e tendo sobrevivido há mais de três décadas de terríveis acidentes de carro, explosões, quedas e saltos que desafiam a morte, Eddie decide terminar sua carreira recriando o infame salto de foguete do Snake River Canyon, um evento televisivo audacioso que quase matou o homem que inspirou Eddie a se tornar um dublê profissional, Evel Knievel.</info>
@@ -2140,7 +2141,7 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 
 <item>
 <title>[COLOR silver][B] ÚLTIMO MERCENÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:d2cd103af5be673655b1ad0d47453f0adbd83b77</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2cd103af5be673655b1ad0d47453f0adbd83b77</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iT9k4FyhjLcfMRH8Qzk3wR99pDC.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um misterioso ex-agente do serviço secreto deve retornar urgentemente à França, quando seu filho é falsamente acusado de tráfico de armas e drogas pelo governo, após um erro cometido por um burocrata e uma operação da máfia.</info>
@@ -2148,15 +2149,15 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 
 <item>
 <title>[COLOR silver][B] BLACK OPS-OPERAÇÃO SECRETA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:5f77ca114df6e9fa3a89fdb7fb0a9fc4080fd55f</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f77ca114df6e9fa3a89fdb7fb0a9fc4080fd55f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wNPg6RIzY92miYevoIUYTFoJqBA.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O esquadrão de operações especiais “Hell’s Bastards” é enviado para a Europa Oriental no meio de uma guerra civil para recuperar informações. Mas logo após a missão, a unidade fica presa em uma escadaria aterrorizante e interminável. Forçados a subir ou morrer, o grupo logo fica cara a cara com seus pecados passados em uma luta desesperada pela sobrevivência.</info>
 </item>
 
 <item>
-<title>[COLOR silver][B] SAMURAI X - A ORIGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:4e861c429955886252bb5b9cf5544298b6b47f3e</link>
+<title>[COLOR silver][B] SAMURAI  X - A ORIGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e861c429955886252bb5b9cf5544298b6b47f3e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/a7cWay8MBxGbgvFI8HN5FhJsPAX.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Himura Kenshin enfrenta o misterioso negociante de armas Enishi. Ele controla o submundo da China. O segredo do "Jujishou" de Kenshin Himura também é revelado. Related ContentRurouni Kenshin: The Final (Japanese prequel)</info>
@@ -2164,7 +2165,7 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 
 <item>
 <title>[COLOR silver][B] FUGINDO DO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:2DZ2O2M6APO624NI46XBTR4GBONHK7HY</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2DZ2O2M6APO624NI46XBTR4GBONHK7HY</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6TrkFcgCF8Vznk45rs3qvxxejiV.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Erica (Christina Milian) é uma aspirante a estrela do pop que se vê presa num luxuoso resort como a atração do casamento de seu ex-noivo. Tentando esconder seu antigo relacionamento da atual noiva, Erica acaba redescobrindo seus sentimentos por Jason, apesar das tentativas do irmão dele de impedir.</info>
@@ -2172,7 +2173,7 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 
 <item>
 <title>[COLOR silver][B] ISOLADOS - MEDO INVISIVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:GX4LWW6SDLO7BTUNDZHAYYZG2GL7ZIY7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GX4LWW6SDLO7BTUNDZHAYYZG2GL7ZIY7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/irojlZd3fTBWgiLyxS7zmElokH7.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Dois anos após uma pandemia alastrar o planeta, quarentenas foram desligadas e implantadas novamente à medida que o vírus continua a evoluir de formas cada vez mais perigosas. Em meio a esse contexto, um mensageiro chamado Nico, que tem uma imunidade rara, se apaixona pela artista Sara.</info>
@@ -2180,11 +2181,19 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 
 <item>
 <title>[COLOR silver][B] MUNDO EM CAOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:CWG63DMNOGMDW4TGEKRY2TCMZQM3Q7FG</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CWG63DMNOGMDW4TGEKRY2TCMZQM3Q7FG</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oMSumadgRiygK1DUtBurdnZb9Jz.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Num futuro pós-apocalíptico, onde a humanidade já começou a colonizar outros planetas, uma infecção rara e perigosa tomou conta do planeta e causou o inimaginável: todas as mulheres foram mortas, e agora os pensamentos de todos os homens tornaram-se audíveis. O jovem Todd (Tom Holland), temendo a destruição total, decide partir fugindo de sua cidade e, durante sua jornada, conhece pela primeira vez na vida uma mulher. Mas quem é ela? E por que não foi morta pelo germe como todas as mulheres? Baseado no romance homônimo de Patrick Ness.</info>
-</item> 
+</item>
+
+<item>
+<title>[COLOR silver][B] GRANDE TUBARÃO BRANCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZBHVHKX3RA7UGNSDNVGX6B4SY36X3OIA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k2ECnRAZMR4oH49XdGbazJPNmUc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma viagem de turistas se transforma em um pesadelo quando cinco passageiros em um hidroavião ficam presos a quilômetros de distância da costa. Tentando a todo custo voltar para a terra antes que seus suprimentos acabem, o grupo não esperava ter que lidar com um grande tubarão branco que os espreita sob a superfície.</info>
+</item>
 
 
 
