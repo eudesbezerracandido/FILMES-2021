@@ -1,5 +1,338 @@
 # FILMES-2021
 FILMES 2021
+
+<item>
+<title>[COLOR silver][B] O ATAQUE DOS VERMES  MALDITOS 7 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35TQNBUG5AY4SUBAVTIUT56KIMCOWBQQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/46qwaON7l11M407rqh8lD4vXcAR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Os mortais Graboids estão de volta, ilegalmente transportados para uma ilha resort onde um playboy rico pretende criar um safári diferente.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VIÚVA NEGRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LSDQ5MDLYPDTT5NLK7ZHYDL6THSW2SMM$nome=VIÚVA NEGRA DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ea2e1760aa474d29d111c64fc9025008a1b0ad2$nome=VIÚVA NEGRA LEGENDADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UWCGHN75PQZBBZDCGHWCT7MHBD5IOYX4$nome=VIÚVA NEGRA 4k</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Natasha Romanoff "Viúva Negra" precisa confrontar partes de sua história quando surge uma conspiração perigosa ligada ao seu passado. Perseguida por uma força que não irá parar até derrotá-la, Natasha terá que lidar com sua antiga vida de espiã, e também reencontrar membros de sua família que deixou para trás antes de se tornar parte dos Vingadores.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] RUA DO MEDO PARTE 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RM4ZIYSFIGUWIUOMUER4VZOXZFBXH4A3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gTJWRoEOtwJL4PRBLFIDZpFAj81.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1978, o Acampamento Nightwing é dividido por campistas e monitores vindos de cenários sociais diferentes da cidade, mas quando horrores do passado ganham vida, eles precisam se unir para resolver um terrível mistério antes que seja tarde demais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O HOMEM ÁGUA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WAKRH7J5OFYI574S453ADYINUFRXRJMS</link>
+<thumbnail>https://ia601402.us.archive.org/25/items/transferir_202107/transferir.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Gunner é um menino precoce que, para salvar sua mãe doente, foge de casa com Jo, para encontrar a lendária figura chamada Homem da Água, que foi dita ter o poder de enganar a morte. Embora extremamente próximo de sua mãe, ele e seu pai, Amos, são forçados a aprender um sobre o outro enquanto Amos vai à procura de seu filho.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A VIDA PODE MUDAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6IKUTWSN3YFF5SCKJ5HFFPBIRNAFSGKQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1F6VdHC16zwEJoEWx2omJ0fzgmA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma advogada viciada em trabalho volta a pequena ilha onde nasceu e viveu na infância para convencer um antigo amigo a assumir a chefia da empresa da família dele. Mas enquanto passam um tempo juntos, relembrando momentos nostálgicos, antigos sentimentos retornam e os dois se veem apaixonados.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MEIOS-IRMÃOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q6HW3MAXY35OMI472H6Y774HJDB2J3UO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ziKSNo9yVx50FYhJg0aPvCAzKbD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ao descobrirem que tem imunidade diplomática por trabalharem na embaixada internacional na Cidade do México, um grupo de recém-formados começam a viver suas fantasias, fazendo o que quiserem. Mas quando um grupo violento descobre seus macetes, eles começam a ser extorquidos em troca da imunidade.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VELOZES & FURIOSOS 9 DUBLADO & LEGENDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE294E82C796E17751FCE89F1D2BC6E8067A23E4$nome=VELOZES & FURIOSOS 9 HDCAM DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4617c670978705cb7838c87f5d494257aebd4a6$nome=VELOZES & FURIOSOS 9 LEGENDADO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AsjqrHxb8RTSaFLts0MNuPm1Sn6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após os eventos do último filme, Dominic Toretto (Vin Diesel) e sua família precisam enfrentar o seu irmão mais novo Jakob (John Cena), um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher (Charlize Theron).</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NA MIRA DO PERIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6786b6e232cb9c651bd225b725967ab0ad72f6e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6vcDalR50RWa309vBH1NLmG2rjQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um fazendeiro na fronteira do Arizona se torna o improvável defensor de um jovem mexicano que foge desesperadamente dos assassinos do cartel que o perseguiram até os EUA.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] COMO VIREI SUPER-HERÓI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7UMPHN25JJLN7NX6O3IIBHGYFZOE6CWP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nM5i9pp24ADppiQ2EQYQXpoDXyl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nessa realidade, os super-heróis estão perfeitamente integrados à sociedade e querem ser famosos a todo custo. Mas uma droga que esbanja super poderes para os mortais comuns se enfurece na cidade. Os tenentes Moreau e Schaltzmann investigam o caso com a ajuda de dois ex-super-heróis, Monte Carlo e Callista.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MEMÓRIAS DE VERÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6UE47RCVN2Z55BOYPX7RUU6SE4BNFHW7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/s2OLfim4v1WvgTzP0VjuBCISS2L.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nesta história sobre amadurecimento e amores de verão, Deniz quer encontrar sua paixão de infância nas férias, mas acaba envolvido em um triângulo amoroso.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] THE WHITE LOTUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4241bd807332c0a1f4975a8b86b4514c753b78c8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4gBYNDdczkFOqjR4dgYamqbp6cS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma sátira social situada em um exclusivo resort no Havaí, acompanhando as férias de vários hóspedes em meio a uma semana de relaxamento e rejuvenescimento no paraíso. Mas à medida que os dias passam, uma complexidade mais obscura emerge de cada um desses viajantes, os empregados alegres do hotel e o próprio local.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CÍRCULO VICIOSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DAJF7KV474K3UQK57W6RZSBQWQAZA7VD</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jCz4Pv0rilnkBgqwbe5Y3JT5899.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um fracassado, cuja vida não é grande coisa, dá de cara com um grupo secreto de autoajuda para assassinos em série. Conseguirá ele combinar inteligência com cinco assassinos e sobreviver?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O APARTAMENTO DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a019b76eb3e79bd416cbc94eb5f5b0246fb7ae89</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zTANZaCUwG6prdRygximOdWKV6U.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma história de fantasmas que transforma a relação de amor/ódio entre mãe e filha em um horripilante conto de terror. Um belo imóvel, com uma enorme varanda, com vista para o mar e localizado no invejável bairro de Shonan, em Tóquio. Mas algumas coisas são boas demais para ser verdade. O suicídio da irmã mais nova de Mariko, a nova moradora, é o último de uma sequência de mortes da varanda deste apartamento. Mariko não aceita a versão oficial dos fatos, e não acredita que todas as mortes sejam coincidência. Disposta a descobrir a verdade, ela encontrará uma história de violência, abuso e desespero em torno do amor e ódio entre mãe e filha, que nem mesmo a morte trouxe um fim.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ALICE E PETER-ONDE NASCEM OS SONHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XRDBFYTFQ773D4ZVNPZ3X5CPAQYHSVOL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sCrRwiist9uWQ1TYIkniCnbPUOK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Antes de Alice ir ao País das Maravilhas, e antes que Peter se tornar Pan, eles eram irmão e irmã. Quando seu irmão mais velho morre em um trágico acidente, cada um procura salvar os pais (Jolie e Oyelowo) do desespero até que finalmente eles são forçados a escolher entre a casa e a imaginação, preparando o palco para as suas viagens icônicas para Wonderland e Neverland.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O RESGATE- O DIA DA REDENÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3D4DUAYPOTCYLQLKVJDFFUBRQHPS5CZC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dPsov8oNjcPmkKf8rxv9PEXy14J.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Com Andy Garcia. Quando sua esposa é sequestrada por terroristas, um condecorado fuzileiro do exército americano embarca em uma arriscada missão para salvá-la antes que seja tarde demais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM CLÁSSICO FILME TERROR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d51643f968adc3fb4bc48e0a9b04638e0c933f8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/d4gomiaeEAVkgofuyCHtzKkuXVS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Cinco viajantes dividindo carona num motorhome para chegar a um destino comum. Durante a viagem, eles sofrem um acidente quando tentam desviar da carcaça de um animal morto na estrada. Ao recobrarem a consciência, eles se encontram no meio do nada. A estrada em que viajavam desaparece e há apenas uma floresta densa e impenetrável e uma casa de madeira no meio de uma clareira, onde acontece um culto macabro.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM MILAGRE INESPERADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PYGBTVJVJQU6BIGZYLR775E4I5OD5LG6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jART4wnzFZeZ2fDpPwVvm9qihTA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma mulher com paralisia encontra uma nova esperança cuidando de uma ave ferida. om a indicada ao Oscar Naomi Watts. Após um trágico acidente, uma mulher encontra forças para viver quando sua família resgata e cuida de um pássaro ferido. Baseado numa inspiradora história real.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] RUA DO MEDO - 1666 PARTE 3 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b25928e3964c92a4969f59226256ac87cb368301</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1666, uma cidade colonial é aterrorizada por uma histérica caça-às-bruxas com consequências mortais que reverberam nos séculos seguintes. Cabe aos jovens em 1994 tentar descobrir uma maneira de pôr um fim à maldição da cidade, antes que seja tarde demais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SPACE JAM - UM NOVO LEGADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75b5405815b3b3016e0818b00cf78762b2ac4d0b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A estrela da NBA, LeBron James, se une a Pernalonga e ao resto da Looney Tunes para esta tão esperada sequência.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DEEP [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:916fd122bdc4a9ee5afa12d563dc6a51b023a803</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jhbJCqSUmhFJJYo27DP44kdN6Fb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quatro estudantes de medicina que sofrem de insônia são atraídos para um experimento que sai do controle. Agora eles precisam escapar antes que seja tarde demais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] COSMOBALL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d390fdeec8b75aaf7dd1294bc5892c247f0f955b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1AkgB1GoseuOB0i14uC185oqmCz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Cosmoball é um jogo intergaláctico hipnotizante do futuro, jogado entre humanos e alienígenas na nave extraterrestre gigante pairando no céu sobre a Terra. Um jovem com um enorme poder de natureza desconhecida se junta à equipe de super-heróis de cabeça quente em troca da cura para a doença mortal de sua mãe. Os Quatro da Terra lutarão não apenas para defender a honra de seu planeta natal no jogo espetacular, mas para enfrentar a ameaça sem precedentes à Galáxia e abraçar seu próprio destino.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A GÊMEA DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9FAF71A00B9337164A0A8D2EBC1EC4A4EAE65824</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xVraarjuYRDdLczaPKtIWbwpfjy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Emily foge de um relacioNamento abusivo voltando para sua cidade natal apenas para descobrir que tem uma irmã gêmea há muito perdida, mas sua irmã recém-descoberta pode ser uma assassina.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ENCAIXE PERFEITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F3E3BQ4PO5AX6LZL6QNSUJ7ZOE3FBIWU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dXAVrQQi0PR4eptYvppdJUk3SAk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em Bali, uma blogueira de moda conhece um talentoso sapateiro que mexe com seu coração e a faz questionar seu noivado arranjado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CÉU VERMELHO-SANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b69a3baad68f2052f76634c9b42030b3a4833069</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pF25UeWH9HFAT0Mq4KjvielccEL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mulher com uma doença misteriosa é forçada a agir quando um grupo de terroristas tenta sequestrar um voo transatlântico. Para proteger seu filho, ela precisará revelar um segredo sombrio e libertar o monstro interior que lutava para esconder.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] KINGDOM-REINO ASHIN DO NORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1bce600245835101503e60fcf518a40ede6e7320</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gDu7P9dGWrNJBP6EIYKCuKLWVYg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um episódio especial sequência da segunda temporada de ''Kingdom'', uma história de fundo sobre a misteriosa personagem que o grupo de Lee Chang encontrou em sua jornada ao norte para descobrir as origens dos infectados. </info>
+</item>
+
+<item>
+<title>[COLOR silver][B] EM UM BAIRRO DE NOVA YORK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9fd93b2ac3370990e1ac21bce17eca08316b0da</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/57stjvmmKTEsscXfWmFHsFoISq5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No pequeno bairro calorento de Washington Heights, na periferia de Nova York, um jovem comerciante chamado Usnavi (Anthony Ramos) sonha em voltar para a República Dominicana e reabrir o bar tropical de seu falecido pai. Mas ele é apenas um entre uma grande e unidade comunidade, repleta de sonhos próprios.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A ÚLTIMA CARTA DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a6ac6a46c3cc3f80ef397a3d75471f00c54bda5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uvtsPKeWzTLjMQm0cB9qiNcmWnq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ellie (Felicity Jones), uma jovem jornalista da Londres contemporânea, descobre uma série de cartas de amor nos arquivos que contam a história de um caso intensamente romântico, nos anos 1960, entre Jennifer (Shailene Woodley) e Anthony (Callum Turner). Como Ellie é atraída para a história, ela fica obcecada em descobrir as identidades dos amantes e como termina essa história de amor.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] JOLT-FÚRIA FATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51f87916489666b7fa824cdf7fd2e22879ba495a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gYZAHan5CHPFXORpQMvOjCTug4E.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Lindy (Kate Beckinsale) é uma segurança durona com um problema de controle de raiva. Depois que o primeiro cara por quem ela se apaixonou é assassinado, ela vai em um ataque de vingança para encontrar o assassino enquanto os policiais a perseguem como o principal suspeito.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O SÉTIMO DIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8882b7cc353d9c571e589d7dcddae48720efa2d3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2NBiv0mpQJppmm5U912XXnokjnN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um exorcista de renome se une a um padre novato para seu primeiro dia de treinamento. À medida que mergulham mais fundo no inferno na Terra, as linhas entre o bem e o mal se esvai, e seus próprios demônios emergem.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  DE VOLTA À ITÁLIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac22fa2505137f6665519811959f3058d07eca61</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yZhoRQI1QdwlFMP90pV6yG1IILV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Robert (Liam Neeson) é um artista boêmio de Londres que retorna à Itália com seu filho distante Jack (Micheál Richardson) para fazer uma venda rápida da casa que eles herdaram da sua falecida esposa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AR CONDICIONADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad0ac03c3f52cc41160fa0dd17705dccb691c159</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9niRVVYhtWyZ7aVbMEt6sxTMyFK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um dia em na capital de Angola, Luanda, ar condicionados começam a cair dos prédios.Esse é um filme sobre as batidas do coração de uma cidade: Os prédios de Luanda (os quais visivelmente carregam muita história) e as pessoas tentando reconstruir suas vidas depois de uma guerra civil.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BELA VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ICFMLWLGCQBB7VPNL7DQVBGFB4TU24R</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/r7FwclLTWB8i6XfBNTtUsyONlgN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Anos atrás Cassie (Carey Mulligan) largou a faculdade de medicina devido a um trauma sofrido por Nina, sua melhor amiga e colega de curso. Agora, trabalhando numa cafeteria durante o dia, a moça dedica as noites de sexta a visitar boates e encurralar rapazes que se aproveitam de sua suposta embriaguez para fazerem o que quiser com ela.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] JUNGLE CRUISE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03dde8cd690a7122892153f3273247c7b13b0348</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lU8QROS7XMnSDEnZKDwtG0R8et2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No começo do século XX, na Floresta Amazônica, um capitão de barco (Dwayne Johnson) viaja com a irmã (Emily Blunt) e o irmão (Jack Whitehall) buscando encontrar uma árvore mágica. Atrapalham a jornada animais selvagens e um aventureiro alemão também engajado na procura.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - DUBLÊ DE RISCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WIAJJ5PGFXN2UIX4OJA7GH5CCG3NF25Q</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1RGlVTa8cczUUfmDJFHX5dzshjY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O documentário acompanha o dublê profissional Eddie Braun enquanto ele tenta uma das acrobacias mais perigosas da história. Pensando na aposentadoria e tendo sobrevivido há mais de três décadas de terríveis acidentes de carro, explosões, quedas e saltos que desafiam a morte, Eddie decide terminar sua carreira recriando o infame salto de foguete do Snake River Canyon, um evento televisivo audacioso que quase matou o homem que inspirou Eddie a se tornar um dublê profissional, Evel Knievel.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ÚLTIMO MERCENÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2cd103af5be673655b1ad0d47453f0adbd83b77</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iT9k4FyhjLcfMRH8Qzk3wR99pDC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um misterioso ex-agente do serviço secreto deve retornar urgentemente à França, quando seu filho é falsamente acusado de tráfico de armas e drogas pelo governo, após um erro cometido por um burocrata e uma operação da máfia.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BLACK OPS-OPERAÇÃO SECRETA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f77ca114df6e9fa3a89fdb7fb0a9fc4080fd55f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wNPg6RIzY92miYevoIUYTFoJqBA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O esquadrão de operações especiais “Hell’s Bastards” é enviado para a Europa Oriental no meio de uma guerra civil para recuperar informações. Mas logo após a missão, a unidade fica presa em uma escadaria aterrorizante e interminável. Forçados a subir ou morrer, o grupo logo fica cara a cara com seus pecados passados em uma luta desesperada pela sobrevivência.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SAMURAI  X - A ORIGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e861c429955886252bb5b9cf5544298b6b47f3e$nome=SAMURAI  X - A ORIGEM 4.8GB</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:STWV7QBJ6TWVK23IDO5KKXNWPDKVA3XN$nome= SAMURAI  X - A ORIGEM 3.24 GB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a7cWay8MBxGbgvFI8HN5FhJsPAX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Himura Kenshin enfrenta o misterioso negociante de armas Enishi. Ele controla o submundo da China. O segredo do "Jujishou" de Kenshin Himura também é revelado. Related ContentRurouni Kenshin: The Final (Japanese prequel)</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FUGINDO DO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2DZ2O2M6APO624NI46XBTR4GBONHK7HY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6TrkFcgCF8Vznk45rs3qvxxejiV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Erica (Christina Milian) é uma aspirante a estrela do pop que se vê presa num luxuoso resort como a atração do casamento de seu ex-noivo. Tentando esconder seu antigo relacionamento da atual noiva, Erica acaba redescobrindo seus sentimentos por Jason, apesar das tentativas do irmão dele de impedir.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ISOLADOS - MEDO INVISIVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GX4LWW6SDLO7BTUNDZHAYYZG2GL7ZIY7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/irojlZd3fTBWgiLyxS7zmElokH7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois anos após uma pandemia alastrar o planeta, quarentenas foram desligadas e implantadas novamente à medida que o vírus continua a evoluir de formas cada vez mais perigosas. Em meio a esse contexto, um mensageiro chamado Nico, que tem uma imunidade rara, se apaixona pela artista Sara.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MUNDO EM CAOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CWG63DMNOGMDW4TGEKRY2TCMZQM3Q7FG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oMSumadgRiygK1DUtBurdnZb9Jz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Num futuro pós-apocalíptico, onde a humanidade já começou a colonizar outros planetas, uma infecção rara e perigosa tomou conta do planeta e causou o inimaginável: todas as mulheres foram mortas, e agora os pensamentos de todos os homens tornaram-se audíveis. O jovem Todd (Tom Holland), temendo a destruição total, decide partir fugindo de sua cidade e, durante sua jornada, conhece pela primeira vez na vida uma mulher. Mas quem é ela? E por que não foi morta pelo germe como todas as mulheres? Baseado no romance homônimo de Patrick Ness.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] GRANDE TUBARÃO BRANCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZBHVHKX3RA7UGNSDNVGX6B4SY36X3OIA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k2ECnRAZMR4oH49XdGbazJPNmUc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma viagem de turistas se transforma em um pesadelo quando cinco passageiros em um hidroavião ficam presos a quilômetros de distância da costa. Tentando a todo custo voltar para a terra antes que seus suprimentos acabem, o grupo não esperava ter que lidar com um grande tubarão branco que os espreita sob a superfície.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SWORDSMAN - LEG. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9609ab2dbcd0c3295619ebbeedb6ad66a5d2a54</link>
@@ -1862,339 +2195,6 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> O filme é ambientado em Lescun, sul da França, e segue o envolvimento de Jo no contrabando de crianças judias na fronteira com a Espanha. Com Noah Schnapp e Anjelica Huston. Nesta história inspiradora, um garoto começa a viver os horrores da II Guerra e passa a ajudar judeus a fugir dos nazistas pelas montanhas da França até a Espanha. Baseado na obra de Michael Morpurgo (Cavalo de Guerra).</info>
 </item>
-
-<item>
-<title>[COLOR silver][B] O ATAQUE DOS VERMES  MALDITOS 7 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35TQNBUG5AY4SUBAVTIUT56KIMCOWBQQ</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/46qwaON7l11M407rqh8lD4vXcAR.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Os mortais Graboids estão de volta, ilegalmente transportados para uma ilha resort onde um playboy rico pretende criar um safári diferente.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] VIÚVA NEGRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LSDQ5MDLYPDTT5NLK7ZHYDL6THSW2SMM$nome=VIÚVA NEGRA DUBLADO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ea2e1760aa474d29d111c64fc9025008a1b0ad2$nome=VIÚVA NEGRA LEGENDADO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UWCGHN75PQZBBZDCGHWCT7MHBD5IOYX4$nome=VIÚVA NEGRA 4k</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Natasha Romanoff "Viúva Negra" precisa confrontar partes de sua história quando surge uma conspiração perigosa ligada ao seu passado. Perseguida por uma força que não irá parar até derrotá-la, Natasha terá que lidar com sua antiga vida de espiã, e também reencontrar membros de sua família que deixou para trás antes de se tornar parte dos Vingadores.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] RUA DO MEDO PARTE 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RM4ZIYSFIGUWIUOMUER4VZOXZFBXH4A3</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/gTJWRoEOtwJL4PRBLFIDZpFAj81.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Em 1978, o Acampamento Nightwing é dividido por campistas e monitores vindos de cenários sociais diferentes da cidade, mas quando horrores do passado ganham vida, eles precisam se unir para resolver um terrível mistério antes que seja tarde demais.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] O HOMEM ÁGUA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WAKRH7J5OFYI574S453ADYINUFRXRJMS</link>
-<thumbnail>https://ia601402.us.archive.org/25/items/transferir_202107/transferir.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Gunner é um menino precoce que, para salvar sua mãe doente, foge de casa com Jo, para encontrar a lendária figura chamada Homem da Água, que foi dita ter o poder de enganar a morte. Embora extremamente próximo de sua mãe, ele e seu pai, Amos, são forçados a aprender um sobre o outro enquanto Amos vai à procura de seu filho.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] A VIDA PODE MUDAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6IKUTWSN3YFF5SCKJ5HFFPBIRNAFSGKQ</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1F6VdHC16zwEJoEWx2omJ0fzgmA.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Uma advogada viciada em trabalho volta a pequena ilha onde nasceu e viveu na infância para convencer um antigo amigo a assumir a chefia da empresa da família dele. Mas enquanto passam um tempo juntos, relembrando momentos nostálgicos, antigos sentimentos retornam e os dois se veem apaixonados.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] MEIOS-IRMÃOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q6HW3MAXY35OMI472H6Y774HJDB2J3UO</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ziKSNo9yVx50FYhJg0aPvCAzKbD.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Ao descobrirem que tem imunidade diplomática por trabalharem na embaixada internacional na Cidade do México, um grupo de recém-formados começam a viver suas fantasias, fazendo o que quiserem. Mas quando um grupo violento descobre seus macetes, eles começam a ser extorquidos em troca da imunidade.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] VELOZES & FURIOSOS 9 DUBLADO & LEGENDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE294E82C796E17751FCE89F1D2BC6E8067A23E4$nome=VELOZES & FURIOSOS 9 HDCAM DUBLADO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4617c670978705cb7838c87f5d494257aebd4a6$nome=VELOZES & FURIOSOS 9 LEGENDADO</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/AsjqrHxb8RTSaFLts0MNuPm1Sn6.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Após os eventos do último filme, Dominic Toretto (Vin Diesel) e sua família precisam enfrentar o seu irmão mais novo Jakob (John Cena), um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher (Charlize Theron).</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] NA MIRA DO PERIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6786b6e232cb9c651bd225b725967ab0ad72f6e</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6vcDalR50RWa309vBH1NLmG2rjQ.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Um fazendeiro na fronteira do Arizona se torna o improvável defensor de um jovem mexicano que foge desesperadamente dos assassinos do cartel que o perseguiram até os EUA.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] COMO VIREI SUPER-HERÓI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7UMPHN25JJLN7NX6O3IIBHGYFZOE6CWP</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/nM5i9pp24ADppiQ2EQYQXpoDXyl.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Nessa realidade, os super-heróis estão perfeitamente integrados à sociedade e querem ser famosos a todo custo. Mas uma droga que esbanja super poderes para os mortais comuns se enfurece na cidade. Os tenentes Moreau e Schaltzmann investigam o caso com a ajuda de dois ex-super-heróis, Monte Carlo e Callista.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] MEMÓRIAS DE VERÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6UE47RCVN2Z55BOYPX7RUU6SE4BNFHW7</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/s2OLfim4v1WvgTzP0VjuBCISS2L.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Nesta história sobre amadurecimento e amores de verão, Deniz quer encontrar sua paixão de infância nas férias, mas acaba envolvido em um triângulo amoroso.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] THE WHITE LOTUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4241bd807332c0a1f4975a8b86b4514c753b78c8</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4gBYNDdczkFOqjR4dgYamqbp6cS.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Uma sátira social situada em um exclusivo resort no Havaí, acompanhando as férias de vários hóspedes em meio a uma semana de relaxamento e rejuvenescimento no paraíso. Mas à medida que os dias passam, uma complexidade mais obscura emerge de cada um desses viajantes, os empregados alegres do hotel e o próprio local.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] CÍRCULO VICIOSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DAJF7KV474K3UQK57W6RZSBQWQAZA7VD</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jCz4Pv0rilnkBgqwbe5Y3JT5899.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Um fracassado, cuja vida não é grande coisa, dá de cara com um grupo secreto de autoajuda para assassinos em série. Conseguirá ele combinar inteligência com cinco assassinos e sobreviver?</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] O APARTAMENTO DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a019b76eb3e79bd416cbc94eb5f5b0246fb7ae89</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zTANZaCUwG6prdRygximOdWKV6U.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Uma história de fantasmas que transforma a relação de amor/ódio entre mãe e filha em um horripilante conto de terror. Um belo imóvel, com uma enorme varanda, com vista para o mar e localizado no invejável bairro de Shonan, em Tóquio. Mas algumas coisas são boas demais para ser verdade. O suicídio da irmã mais nova de Mariko, a nova moradora, é o último de uma sequência de mortes da varanda deste apartamento. Mariko não aceita a versão oficial dos fatos, e não acredita que todas as mortes sejam coincidência. Disposta a descobrir a verdade, ela encontrará uma história de violência, abuso e desespero em torno do amor e ódio entre mãe e filha, que nem mesmo a morte trouxe um fim.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] ALICE E PETER-ONDE NASCEM OS SONHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XRDBFYTFQ773D4ZVNPZ3X5CPAQYHSVOL</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sCrRwiist9uWQ1TYIkniCnbPUOK.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Antes de Alice ir ao País das Maravilhas, e antes que Peter se tornar Pan, eles eram irmão e irmã. Quando seu irmão mais velho morre em um trágico acidente, cada um procura salvar os pais (Jolie e Oyelowo) do desespero até que finalmente eles são forçados a escolher entre a casa e a imaginação, preparando o palco para as suas viagens icônicas para Wonderland e Neverland.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] O RESGATE- O DIA DA REDENÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3D4DUAYPOTCYLQLKVJDFFUBRQHPS5CZC</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/dPsov8oNjcPmkKf8rxv9PEXy14J.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Com Andy Garcia. Quando sua esposa é sequestrada por terroristas, um condecorado fuzileiro do exército americano embarca em uma arriscada missão para salvá-la antes que seja tarde demais.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] UM CLÁSSICO FILME TERROR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d51643f968adc3fb4bc48e0a9b04638e0c933f8</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/d4gomiaeEAVkgofuyCHtzKkuXVS.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Cinco viajantes dividindo carona num motorhome para chegar a um destino comum. Durante a viagem, eles sofrem um acidente quando tentam desviar da carcaça de um animal morto na estrada. Ao recobrarem a consciência, eles se encontram no meio do nada. A estrada em que viajavam desaparece e há apenas uma floresta densa e impenetrável e uma casa de madeira no meio de uma clareira, onde acontece um culto macabro.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] UM MILAGRE INESPERADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PYGBTVJVJQU6BIGZYLR775E4I5OD5LG6</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jART4wnzFZeZ2fDpPwVvm9qihTA.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Uma mulher com paralisia encontra uma nova esperança cuidando de uma ave ferida. om a indicada ao Oscar Naomi Watts. Após um trágico acidente, uma mulher encontra forças para viver quando sua família resgata e cuida de um pássaro ferido. Baseado numa inspiradora história real.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] RUA DO MEDO - 1666 PARTE 3 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b25928e3964c92a4969f59226256ac87cb368301</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Em 1666, uma cidade colonial é aterrorizada por uma histérica caça-às-bruxas com consequências mortais que reverberam nos séculos seguintes. Cabe aos jovens em 1994 tentar descobrir uma maneira de pôr um fim à maldição da cidade, antes que seja tarde demais.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] SPACE JAM - UM NOVO LEGADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75b5405815b3b3016e0818b00cf78762b2ac4d0b</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>A estrela da NBA, LeBron James, se une a Pernalonga e ao resto da Looney Tunes para esta tão esperada sequência.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DEEP [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:916fd122bdc4a9ee5afa12d563dc6a51b023a803</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jhbJCqSUmhFJJYo27DP44kdN6Fb.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Quatro estudantes de medicina que sofrem de insônia são atraídos para um experimento que sai do controle. Agora eles precisam escapar antes que seja tarde demais.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] COSMOBALL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d390fdeec8b75aaf7dd1294bc5892c247f0f955b</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1AkgB1GoseuOB0i14uC185oqmCz.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Cosmoball é um jogo intergaláctico hipnotizante do futuro, jogado entre humanos e alienígenas na nave extraterrestre gigante pairando no céu sobre a Terra. Um jovem com um enorme poder de natureza desconhecida se junta à equipe de super-heróis de cabeça quente em troca da cura para a doença mortal de sua mãe. Os Quatro da Terra lutarão não apenas para defender a honra de seu planeta natal no jogo espetacular, mas para enfrentar a ameaça sem precedentes à Galáxia e abraçar seu próprio destino.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] A GÊMEA DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9FAF71A00B9337164A0A8D2EBC1EC4A4EAE65824</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/xVraarjuYRDdLczaPKtIWbwpfjy.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Emily foge de um relacioNamento abusivo voltando para sua cidade natal apenas para descobrir que tem uma irmã gêmea há muito perdida, mas sua irmã recém-descoberta pode ser uma assassina.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] ENCAIXE PERFEITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F3E3BQ4PO5AX6LZL6QNSUJ7ZOE3FBIWU</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/dXAVrQQi0PR4eptYvppdJUk3SAk.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Em Bali, uma blogueira de moda conhece um talentoso sapateiro que mexe com seu coração e a faz questionar seu noivado arranjado.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] CÉU VERMELHO-SANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b69a3baad68f2052f76634c9b42030b3a4833069</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/pF25UeWH9HFAT0Mq4KjvielccEL.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Uma mulher com uma doença misteriosa é forçada a agir quando um grupo de terroristas tenta sequestrar um voo transatlântico. Para proteger seu filho, ela precisará revelar um segredo sombrio e libertar o monstro interior que lutava para esconder.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] KINGDOM-REINO ASHIN DO NORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1bce600245835101503e60fcf518a40ede6e7320</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/gDu7P9dGWrNJBP6EIYKCuKLWVYg.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Um episódio especial sequência da segunda temporada de ''Kingdom'', uma história de fundo sobre a misteriosa personagem que o grupo de Lee Chang encontrou em sua jornada ao norte para descobrir as origens dos infectados. </info>
-</item>
-
-<item>
-<title>[COLOR silver][B] EM UM BAIRRO DE NOVA YORK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9fd93b2ac3370990e1ac21bce17eca08316b0da</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/57stjvmmKTEsscXfWmFHsFoISq5.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>No pequeno bairro calorento de Washington Heights, na periferia de Nova York, um jovem comerciante chamado Usnavi (Anthony Ramos) sonha em voltar para a República Dominicana e reabrir o bar tropical de seu falecido pai. Mas ele é apenas um entre uma grande e unidade comunidade, repleta de sonhos próprios.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] A ÚLTIMA CARTA DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a6ac6a46c3cc3f80ef397a3d75471f00c54bda5</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/uvtsPKeWzTLjMQm0cB9qiNcmWnq.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Ellie (Felicity Jones), uma jovem jornalista da Londres contemporânea, descobre uma série de cartas de amor nos arquivos que contam a história de um caso intensamente romântico, nos anos 1960, entre Jennifer (Shailene Woodley) e Anthony (Callum Turner). Como Ellie é atraída para a história, ela fica obcecada em descobrir as identidades dos amantes e como termina essa história de amor.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] JOLT-FÚRIA FATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51f87916489666b7fa824cdf7fd2e22879ba495a</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/gYZAHan5CHPFXORpQMvOjCTug4E.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Lindy (Kate Beckinsale) é uma segurança durona com um problema de controle de raiva. Depois que o primeiro cara por quem ela se apaixonou é assassinado, ela vai em um ataque de vingança para encontrar o assassino enquanto os policiais a perseguem como o principal suspeito.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] O SÉTIMO DIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8882b7cc353d9c571e589d7dcddae48720efa2d3</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/2NBiv0mpQJppmm5U912XXnokjnN.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Um exorcista de renome se une a um padre novato para seu primeiro dia de treinamento. À medida que mergulham mais fundo no inferno na Terra, as linhas entre o bem e o mal se esvai, e seus próprios demônios emergem.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B]  DE VOLTA À ITÁLIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac22fa2505137f6665519811959f3058d07eca61</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/yZhoRQI1QdwlFMP90pV6yG1IILV.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Robert (Liam Neeson) é um artista boêmio de Londres que retorna à Itália com seu filho distante Jack (Micheál Richardson) para fazer uma venda rápida da casa que eles herdaram da sua falecida esposa.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] AR CONDICIONADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad0ac03c3f52cc41160fa0dd17705dccb691c159</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9niRVVYhtWyZ7aVbMEt6sxTMyFK.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Um dia em na capital de Angola, Luanda, ar condicionados começam a cair dos prédios.Esse é um filme sobre as batidas do coração de uma cidade: Os prédios de Luanda (os quais visivelmente carregam muita história) e as pessoas tentando reconstruir suas vidas depois de uma guerra civil.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] BELA VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ICFMLWLGCQBB7VPNL7DQVBGFB4TU24R</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/r7FwclLTWB8i6XfBNTtUsyONlgN.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Anos atrás Cassie (Carey Mulligan) largou a faculdade de medicina devido a um trauma sofrido por Nina, sua melhor amiga e colega de curso. Agora, trabalhando numa cafeteria durante o dia, a moça dedica as noites de sexta a visitar boates e encurralar rapazes que se aproveitam de sua suposta embriaguez para fazerem o que quiser com ela.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] JUNGLE CRUISE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03dde8cd690a7122892153f3273247c7b13b0348</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/lU8QROS7XMnSDEnZKDwtG0R8et2.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>No começo do século XX, na Floresta Amazônica, um capitão de barco (Dwayne Johnson) viaja com a irmã (Emily Blunt) e o irmão (Jack Whitehall) buscando encontrar uma árvore mágica. Atrapalham a jornada animais selvagens e um aventureiro alemão também engajado na procura.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - DUBLÊ DE RISCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WIAJJ5PGFXN2UIX4OJA7GH5CCG3NF25Q</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1RGlVTa8cczUUfmDJFHX5dzshjY.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>O documentário acompanha o dublê profissional Eddie Braun enquanto ele tenta uma das acrobacias mais perigosas da história. Pensando na aposentadoria e tendo sobrevivido há mais de três décadas de terríveis acidentes de carro, explosões, quedas e saltos que desafiam a morte, Eddie decide terminar sua carreira recriando o infame salto de foguete do Snake River Canyon, um evento televisivo audacioso que quase matou o homem que inspirou Eddie a se tornar um dublê profissional, Evel Knievel.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] ÚLTIMO MERCENÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2cd103af5be673655b1ad0d47453f0adbd83b77</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/iT9k4FyhjLcfMRH8Qzk3wR99pDC.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Um misterioso ex-agente do serviço secreto deve retornar urgentemente à França, quando seu filho é falsamente acusado de tráfico de armas e drogas pelo governo, após um erro cometido por um burocrata e uma operação da máfia.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] BLACK OPS-OPERAÇÃO SECRETA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f77ca114df6e9fa3a89fdb7fb0a9fc4080fd55f</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/wNPg6RIzY92miYevoIUYTFoJqBA.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>O esquadrão de operações especiais “Hell’s Bastards” é enviado para a Europa Oriental no meio de uma guerra civil para recuperar informações. Mas logo após a missão, a unidade fica presa em uma escadaria aterrorizante e interminável. Forçados a subir ou morrer, o grupo logo fica cara a cara com seus pecados passados em uma luta desesperada pela sobrevivência.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] SAMURAI  X - A ORIGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e861c429955886252bb5b9cf5544298b6b47f3e$nome=SAMURAI  X - A ORIGEM 4.8GB</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:STWV7QBJ6TWVK23IDO5KKXNWPDKVA3XN$nome= SAMURAI  X - A ORIGEM 3.24 GB</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/a7cWay8MBxGbgvFI8HN5FhJsPAX.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Himura Kenshin enfrenta o misterioso negociante de armas Enishi. Ele controla o submundo da China. O segredo do "Jujishou" de Kenshin Himura também é revelado. Related ContentRurouni Kenshin: The Final (Japanese prequel)</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] FUGINDO DO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2DZ2O2M6APO624NI46XBTR4GBONHK7HY</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6TrkFcgCF8Vznk45rs3qvxxejiV.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Erica (Christina Milian) é uma aspirante a estrela do pop que se vê presa num luxuoso resort como a atração do casamento de seu ex-noivo. Tentando esconder seu antigo relacionamento da atual noiva, Erica acaba redescobrindo seus sentimentos por Jason, apesar das tentativas do irmão dele de impedir.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] ISOLADOS - MEDO INVISIVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GX4LWW6SDLO7BTUNDZHAYYZG2GL7ZIY7</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/irojlZd3fTBWgiLyxS7zmElokH7.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Dois anos após uma pandemia alastrar o planeta, quarentenas foram desligadas e implantadas novamente à medida que o vírus continua a evoluir de formas cada vez mais perigosas. Em meio a esse contexto, um mensageiro chamado Nico, que tem uma imunidade rara, se apaixona pela artista Sara.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] MUNDO EM CAOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CWG63DMNOGMDW4TGEKRY2TCMZQM3Q7FG</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/oMSumadgRiygK1DUtBurdnZb9Jz.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Num futuro pós-apocalíptico, onde a humanidade já começou a colonizar outros planetas, uma infecção rara e perigosa tomou conta do planeta e causou o inimaginável: todas as mulheres foram mortas, e agora os pensamentos de todos os homens tornaram-se audíveis. O jovem Todd (Tom Holland), temendo a destruição total, decide partir fugindo de sua cidade e, durante sua jornada, conhece pela primeira vez na vida uma mulher. Mas quem é ela? E por que não foi morta pelo germe como todas as mulheres? Baseado no romance homônimo de Patrick Ness.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] GRANDE TUBARÃO BRANCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZBHVHKX3RA7UGNSDNVGX6B4SY36X3OIA</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/k2ECnRAZMR4oH49XdGbazJPNmUc.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Uma viagem de turistas se transforma em um pesadelo quando cinco passageiros em um hidroavião ficam presos a quilômetros de distância da costa. Tentando a todo custo voltar para a terra antes que seus suprimentos acabem, o grupo não esperava ter que lidar com um grande tubarão branco que os espreita sob a superfície.</info>
-</item>
-
 
 
 
