@@ -2184,7 +2184,7 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <thumbnail>https://www.themoviedb.org/t/p/original/oMSumadgRiygK1DUtBurdnZb9Jz.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Num futuro pós-apocalíptico, onde a humanidade já começou a colonizar outros planetas, uma infecção rara e perigosa tomou conta do planeta e causou o inimaginável: todas as mulheres foram mortas, e agora os pensamentos de todos os homens tornaram-se audíveis. O jovem Todd (Tom Holland), temendo a destruição total, decide partir fugindo de sua cidade e, durante sua jornada, conhece pela primeira vez na vida uma mulher. Mas quem é ela? E por que não foi morta pelo germe como todas as mulheres? Baseado no romance homônimo de Patrick Ness.</info>
-</item>
+</item> 
 
 
 
