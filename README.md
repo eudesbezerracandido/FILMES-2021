@@ -2,6 +2,14 @@
 FILMES 2021
 
 <item>
+<title>[COLOR silver][B] GIRL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YIXOBR2MXRV5CQ3UD2SSAJ733RGE3ZJR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7s916JCC5BX6JhTMMaJdqQextLZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma jovem retorna à sua cidade-natal para matar seu pai abusivo, mas descobre que alguém fez o trabalho primeiro. Buscando por respostas, ela acaba desvendando segredos perigosos sobre a sua família.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O ATAQUE DOS VERMES  MALDITOS 7 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35TQNBUG5AY4SUBAVTIUT56KIMCOWBQQ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/46qwaON7l11M407rqh8lD4vXcAR.jpg</thumbnail>
