@@ -1,6 +1,15 @@
 # FILMES-2021
 FILMES 2021
 
+
+<item>
+<title>[COLOR silver][B] VOTO DE CORAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a034283b57ebc0455629329fdbaaa925c62fed7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sI2x2I8Cgw6Xkr5wS0iaSyx4vSF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O agente das forças especiais Vic Davis está a caminho para resgatar seu filho afastado, Sean, do campus da faculdade quando ele se encontra no meio de uma operação terrorista de alto risco.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] GIRL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YIXOBR2MXRV5CQ3UD2SSAJ733RGE3ZJR</link>
