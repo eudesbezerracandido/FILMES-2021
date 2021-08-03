@@ -2,6 +2,14 @@
 FILMES 2021
 
 <item>
+<title>[COLOR silver][B] BELA  VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f72abcb48c7342af06064cfdeeea92d60a78ed4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qjO6iJTW6McMLrbt6Xz6lDZu7bF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Todos pensavam que Cassie era uma miúda com potencial... Até um misterioso acontecimento ter subitamente arruinado o seu futuro. Nada na vida da Cassie é o que parece ser: ela é perversamente inteligente, tentadoramente astuta, e está a viver uma vida dupla e secreta durante a noite. E agora, um encontro inesperado está prestes a dar a Cassie a oportunidade de corrigir os erros do passado nesta história emocionante e extremamente cativante.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CONTÁGIO EM ALTO MAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f410f256a119eb65715ee4388f6e7afdcd9030cf</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wV4dxHCsdwEKYUeGAvzq1cKDRU6.jpg</thumbnail>
