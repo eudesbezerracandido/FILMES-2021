@@ -1,6 +1,13 @@
 # FILMES-2021
 FILMES 2021
 
+<item>
+<title>[COLOR silver][B] CONTÁGIO EM ALTO MAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f410f256a119eb65715ee4388f6e7afdcd9030cf</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wV4dxHCsdwEKYUeGAvzq1cKDRU6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A tripulação de uma traineira irlandesa a deriva no mar, luta por suas vidas contra um parasita no suprimento de água.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] VOTO DE CORAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
