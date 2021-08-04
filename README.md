@@ -87,7 +87,7 @@ FILMES 2021
 <title>[COLOR silver][B] VELOZES & FURIOSOS 9 DUBLADO & LEGENDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE294E82C796E17751FCE89F1D2BC6E8067A23E4$nome=VELOZES & FURIOSOS 9 HDCAM DUBLADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4617c670978705cb7838c87f5d494257aebd4a6$nome=VELOZES & FURIOSOS 9 LEGENDADO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA6711FC2858DA9D87855E3732E7E1004B5C6445$NOME=VELOZES & FURIOSOS 9 AUDIO & VIDEO 10</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA6711FC2858DA9D87855E3732E7E1004B5C6445$nome=VELOZES & FURIOSOS 9 AUDIO & VIDEO 10</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/AsjqrHxb8RTSaFLts0MNuPm1Sn6.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Após os eventos do último filme, Dominic Toretto (Vin Diesel) e sua família precisam enfrentar o seu irmão mais novo Jakob (John Cena), um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher (Charlize Theron).</info>
