@@ -2,6 +2,22 @@
 FILMES 2021
 
 <item>
+<title>[COLOR silver][B] MUDANÇA MORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4T35BXEDFTPY63QCXWS3H7R3ZURRFN6W</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w51iXRxuOcyhgcibywkZRgYDLQO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois que um casal consegue um acordo único da casa de seus sonhos, eles a compram na esperança de que isso ajude a reacender a centelha de seu casamento. No entanto, quando começam a viver na casa, começam a perceber que estão sendo vítimas de sua história peculiar e violenta.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O CHAPELEIRO LOUCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dca7b7fc6b8c39dc46bdcb95c563f48c93e4c819</link>
+<thumbnail>https://www.themoviedb.org/movie/698320-the-mad-hatter</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Henry, e três de seus colegas de classe, encontram um terror fantasmagórico alucinante quando se oferecem para um estudo de fim de semana com seu professor de psicologia na mansão mal-assombrada 'Chapeleiro Maluco'.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BELA  VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f72abcb48c7342af06064cfdeeea92d60a78ed4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qjO6iJTW6McMLrbt6Xz6lDZu7bF.jpg</thumbnail>
