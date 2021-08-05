@@ -1,6 +1,15 @@
 # FILMES-2021
 FILMES 2021
 
+
+<item>
+<title>[COLOR silver][B] BARTKOWIAK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QVSKBMOQ7VK2VILPJZHGUJDHICYUBRIN</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kOVko9u2CSwpU8zGj14Pzei6Eco.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Tomak Bartkowiak (Józef Pawłowski) é um ex-lutador de MMA que acaba caindo em desgraça após perder uma luta para seu maior rival no ringue ser pego usando drogas. Meses depois, ele aparece trabalhando como segurança em uma boate, onde se envolve em uma briga com um rapper marrento</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MUDANÇA MORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4T35BXEDFTPY63QCXWS3H7R3ZURRFN6W</link>
