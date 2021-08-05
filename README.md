@@ -3,6 +3,14 @@ FILMES 2021
 
 
 <item>
+<title>[COLOR silver][B] CONTRATO OBSESSIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35c3674bd2ccbd1292e3b84b2927d8285145c0c9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g27AMMhkMpzOdil8CLo6j4lLMkK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Annie (Lily Anne Harrison) e Ralph (Brian Ames) acabam de se mudar para a casa que compraram por meio da simpática corretora Meg (Christie Burson). Após isso, a mulher passa a frequentar o local insistentemente, obrigando o casal a chamar a polícia. Taxada de louca, Meg vai presa e episódios estranhos acontecem.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UNIDAS PELA ESPERANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9078b2477dceccf6b056f7b37ef5f540dbada620</link>
 <thumbnail>https://www.themoviedb.org/movie/617784-military-wives</thumbnail>
