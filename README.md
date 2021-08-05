@@ -3,6 +3,22 @@ FILMES 2021
 
 
 <item>
+<title>[COLOR silver][B] UNIDAS PELA ESPERANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9078b2477dceccf6b056f7b37ef5f540dbada620</link>
+<thumbnail>https://www.themoviedb.org/movie/617784-military-wives</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um grupo de mulheres casadas com oficiais militares decide se unir para formar um coral. À medida que a inesperada amizade entre elas se desenvolve, a música e o riso transformam suas vidas, enquanto elas ajudam uma a outra a superar o medo pelos entes queridos em combate.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TEMPESTADE DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63ff7b80944ff17464d1eb3724f8a0676e7eeb3b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2thIwCssQwSU0WQ6n3iut1b8vJl.jpg</thumbnail>
