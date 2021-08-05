@@ -3,6 +3,14 @@ FILMES 2021
 
 
 <item>
+<title>[COLOR silver][B] TEMPESTADE DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63ff7b80944ff17464d1eb3724f8a0676e7eeb3b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2thIwCssQwSU0WQ6n3iut1b8vJl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando uma tempestade de inverno atinge os voos de Cleveland, os hotéis próximos rapidamente se enchem de viajantes encalhados. Nina, uma piloto, relutantemente concorda em deixar seu arrogante mas charmoso companheiro, Brady, ficar na casa dos pais próximos. Mas quando eles descobrem que sua família está hospedando uma festa de corte de árvore naquela noite e que seu ex estará lá, Brady finge ser seu namorado para ajudá-la. Quando a nevasca continua, seu artifício aumenta quando Nina e Brady estão presos a eventos de férias juntos. Mas, à medida que o Natal se aproxima, esses dois opostos começam a perceber o melhor presente que poderiam receber, é talvez um ao outro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BARTKOWIAK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QVSKBMOQ7VK2VILPJZHGUJDHICYUBRIN</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kOVko9u2CSwpU8zGj14Pzei6Eco.jpg</thumbnail>
