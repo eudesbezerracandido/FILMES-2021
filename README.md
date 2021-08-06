@@ -13,17 +13,9 @@ FILMES 2021
 <item>
 <title>[COLOR silver][B] UNIDAS PELA ESPERANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9078b2477dceccf6b056f7b37ef5f540dbada620</link>
-<thumbnail>https://www.themoviedb.org/movie/617784-military-wives</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/akTi3PEREvKpbwyRxhpBKh9lfu0.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um grupo de mulheres casadas com oficiais militares decide se unir para formar um coral. À medida que a inesperada amizade entre elas se desenvolve, a música e o riso transformam suas vidas, enquanto elas ajudam uma a outra a superar o medo pelos entes queridos em combate.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
 </item>
 
 <item>
@@ -53,7 +45,7 @@ FILMES 2021
 <item>
 <title>[COLOR silver][B] O CHAPELEIRO LOUCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dca7b7fc6b8c39dc46bdcb95c563f48c93e4c819</link>
-<thumbnail>https://www.themoviedb.org/movie/698320-the-mad-hatter</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/caJNuRJkwNmhNtssEynFW6IQl0i.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Henry, e três de seus colegas de classe, encontram um terror fantasmagórico alucinante quando se oferecem para um estudo de fim de semana com seu professor de psicologia na mansão mal-assombrada 'Chapeleiro Maluco'.</info>
 </item>
