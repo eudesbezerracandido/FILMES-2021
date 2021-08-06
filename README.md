@@ -3,6 +3,14 @@ FILMES 2021
 
 
 <item>
+<title>[COLOR silver][B] O ESQUADRÃO SUICIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d2314942b31139f84abdcef080870b6425ae7da</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wTS3dS2DJiMFFgqKDz5fxMTri.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O governo envia os supervilões mais perigosos do mundo para a remota ilha de Corto Maltese, repleta de inimigos. Armados com armas de alta tecnologia, eles viajam pela selva perigosa em uma missão de busca e destruição com o Coronel Rick Flag.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CONTRATO OBSESSIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35c3674bd2ccbd1292e3b84b2927d8285145c0c9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/g27AMMhkMpzOdil8CLo6j4lLMkK.jpg</thumbnail>
