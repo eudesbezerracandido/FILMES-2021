@@ -2,6 +2,17 @@
 FILMES 2021
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] MEIA NOITE NO SWITCHUGRASS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06585fe55313fef50a1812184986aa96c146c893</link>
+<thumbnail>https://www.themoviedb.org/movie/693113-midnight-in-the-switchgrass</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em 2004, uma dupla de detetives do FBI se unem com um policial da Flórida para investigar uma série de assassinatos não-resolvidos. Quando um plano de infiltração dá terrivelmente errado, eles se veem num jogo perverso de gato e rato com o assassino.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O ESQUADRÃO SUICIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d2314942b31139f84abdcef080870b6425ae7da</link>
