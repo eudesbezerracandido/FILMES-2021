@@ -3,6 +3,30 @@ FILMES 2021
 
 
 <item>
+<title>[COLOR silver][B] PÂNICO EM CASA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:X5FMS4X7QFA2E7YTLVPVMQDCPIB4XALV</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k8k3zAVuwHMA9TbwYaAPolyHfgX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O ano é 2022 e a pandemia do coronavírus criou um caos em massa que transformou Los Angeles em um estado policial. Para escapar da realidade, um grupo de amigos combinam uma festa remota: uma noite de música, bebedeira, jogos e drogas através das câmeras. Depois que tomam coletivamente algo que acreditam ser ecstasy, as coisas começam a dar terrivelmente errado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DANÇA FATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SRSKPIJYHIUJVI3PKGM6N3DRNAJ7DUWF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pHuu3rQoAitJ8cP2lHyrumcKMhh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No filme Dança Fatal WEB-DL 1080p Dual Áudio, Audrey (Anna Marie Dobbins), uma ex-líder de torcida, decide fazer um teste para o LA Renegades. Ela não só entra no time, como também se apaixona por Walter (Jon Schaefer), um dos jogadores. No entanto, quando Bailey (Grace Patterson), uma das integrantes da equipe, é brutalmente assassinada, Walter é preso como principal suspeito do crime. Apaixonada, Audrey acredita na inocência do rapaz e vai atrás do verdadeiro assassino, se deparando com uma teia de mentiras que cerca os Renegades.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A NUVEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b74eddc03672f877ec6fdc6456b9d4376f657dbe</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u9EFjRfkvAvlBkSGXXrzhfEIh6S.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Para salvar sua fazenda da falência, uma mãe solo cria gafanhotos comestíveis e desenvolve um estranho vínculo obsessivo com eles. Ela precisa enfrentar a hostilidade dos camponeses da região e de seus filhos que não a reconhecem mais.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A VIÚVA DAS SOMBRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7PFRAIR7JFDPXFVL35LG7EKXHKL4OALT</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pHUgvdIK9QuGGSKyemfo7wGVeOx.jpg</thumbnail>
