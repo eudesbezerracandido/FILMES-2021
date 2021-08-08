@@ -2,8 +2,13 @@
 FILMES 2021
 
 
-
-
+<item>
+<title>[COLOR silver][B] A VIÚVA DAS SOMBRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7PFRAIR7JFDPXFVL35LG7EKXHKL4OALT</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pHUgvdIK9QuGGSKyemfo7wGVeOx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em uma área densamente arborizada ao norte de São Petersburgo, as pessoas estão desaparecidas há três décadas. Os poucos cadáveres encontrados estavam nus. Em 14 de outubro de 2017, uma equipe de voluntários saiu para a floresta em busca de um adolescente desaparecido. Logo, toda a comunicação com eles foi perdida. Os habitantes locais acreditam que foram levados pelo mesmo espírito das trevas que levou os outros. Eles chamam de ‘Limping Widow’.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MEIA NOITE NO SWITCHUGRASS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -996,14 +1001,6 @@ Becky, uma rebelde de 13 anos, é levada para um refúgio de fim de semana em um
 </item>
 
 <item>
-<title>[COLOR silver][B] A VIÚVA DAS SOMBRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56a755bfb767e605b1ab8793f9f268bdf6ba0d78</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/pHUgvdIK9QuGGSKyemfo7wGVeOx.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Em uma área densamente arborizada ao norte de São Petersburgo, as pessoas estão desaparecidas há três décadas. Os poucos cadáveres encontrados estavam nus. Em 14 de outubro de 2017, uma equipe de voluntários saiu para a floresta em busca de um adolescente desaparecido. Logo, toda a comunicação com eles foi perdida. Os habitantes locais acreditam que foram levados pelo mesmo espírito das trevas que levou os outros. Eles chamam de ‘Limping Widow’.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] A GAROTA DO TREM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:937e13d0148cca89aa73252ebcaec05d052b7cc9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sQGWOCFsYBGOwt9hQY7BT5m8rnl.jpg</thumbnail>
@@ -1126,7 +1123,7 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 
 <item>
 <title>[COLOR silver][B] KONG  VS  GODZILLA [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
-<link>magnet:?xt=urn:btih:8826949c318ac4cdc6c8e2ef05a044e966b1db6c</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8826949c318ac4cdc6c8e2ef05a044e966b1db6c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6Fevu8QNJ3ceECggODNPjppYbe0.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Numa era onde monstros caminham pela Terra, a luta da humanidade por sua sobrevivência põe Godzilla e Kong em uma colisão colossal que trará duas das mais poderosas forças da natureza, batalhando uma contra outra. Enquanto a Monarch embarca numa periculosa missão em território inexplorado para desvendar as origens dos Titãs, uma conspiração humana ameaça extinguir todas as criaturas, boas ou ruins, da face do planeta para sempre. Dublagem não oficial, essa é uma dublagem feita por fãs, se preferir aguarde o lançamento da versão brasileira oficial.</info>
