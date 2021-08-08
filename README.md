@@ -1,6 +1,13 @@
 # FILMES-2021
 FILMES 2021
 
+<item>
+<title>[COLOR silver][B] UMA NOITE DE CRIME (LEGENDADO) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47aeca59c84d14a3445baca41eccaf42f2d09120</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1ehfsD8b7bv8t1c4ILe2NUpSx5R.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após uma conturbada eleição e a abolição da Noite do Expurgo, Adela (Ana de la Reguera) e Juan (Tenoch Huerta) se refugiam em um rancho texano, escapando de um cartel de drogas no México. As coisas se complicam quando um grupo de forasteiros decidem continuar o Expurgo após o tempo permitido onde as pessoas podem quebrar todas as leis.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PÂNICO EM CASA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
