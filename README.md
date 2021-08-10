@@ -2,7 +2,15 @@
 FILMES 2021
 
 <item>
-<title>[COLOR silver][B] PERSEGUIÇÃO NA NEVE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] THE WHITE LOTUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IJA33ADTGLAKD5EXLKFYNNCRJR2TW6GI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4gBYNDdczkFOqjR4dgYamqbp6cS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma sátira social situada em um exclusivo resort no Havaí, acompanhando as férias de vários hóspedes em meio a uma semana de relaxamento e rejuvenescimento no paraíso. Mas à medida que os dias passam, uma complexidade mais obscura emerge de cada um desses viajantes, os empregados alegres do hotel e o próprio local.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PERSEGUIÇÃO NA NEVE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E49D50D4A91A29C054581A8A929E8B3BD7D83E81</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oT35GfMeRGZzhfdCrztpdkMi4OG.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
