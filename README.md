@@ -23,7 +23,7 @@ FILMES 2021
 <thumbnail>https://www.themoviedb.org/t/p/original/i7LtmfzZ2HCxNBEw0h4Wu2lZTSS.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Markus é um militar que precisa voltar para casa, para sua filha adolescente, Mathilde, quando sua esposa morre em um trágico acidente de trem. Parece ser pura má sorte - mas acontece que pode ter sido um assassinato cuidadosamente orquestrado, do qual sua esposa acabou sendo uma vítima aleatória.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] EMBATTLED [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
