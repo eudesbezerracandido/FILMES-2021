@@ -2,6 +2,30 @@
 FILMES 2021
 
 <item>
+<title>[COLOR silver][B] PERSEGUIÇÃO NA NEVE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E49D50D4A91A29C054581A8A929E8B3BD7D83E81</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oT35GfMeRGZzhfdCrztpdkMi4OG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um veterano caçador aposentado do Maine, encontra uma mulher morta e uma grande quantia em dinheiro. Ele logo se encontra em uma rede de engano e assassinato.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LOUCOS POR JUSTIÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5SCOW4ICL4IS7Z4V7YLXWUIDQCPPW3NU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/i7LtmfzZ2HCxNBEw0h4Wu2lZTSS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Markus é um militar que precisa voltar para casa, para sua filha adolescente, Mathilde, quando sua esposa morre em um trágico acidente de trem. Parece ser pura má sorte - mas acontece que pode ter sido um assassinato cuidadosamente orquestrado, do qual sua esposa acabou sendo uma vítima aleatória.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] EMBATTLED [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PNVMW6YY5K3ZNBNVFYLOYUYKDAN5PL7P</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/Foi2Via2fIACRJMB4934D5MP3j.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um prodígio do Judô do Ensino Médio entra na gaiola do MMA numa violenta batalha de retaliação contra o seu rival - seu pai. Criado por um pai abusivo, Cash (Stephen Dorf) canaliza sua agressividade para se tornar um campeão mundial do MMA. Acostumado à riqueza, adulação e popularidade global, ele enfrenta um novo desafio quando seu segundo filho nasce com Síndrome de Williams. Mas, desta vez, em vez de ficar e lutar, ele foge. Enquanto Cash continua a fazer fortuna no ringue, seu filho mais velho, Jett (Darren Mann), passa a cuidar do irmão mais novo, Quinn (Colin McKenna). Quando Jett decide seguir os passos do pai e entrar para o mundo da luta, ele encara seu passado de frente, embarcando em uma jornada que acaba colocando pai contra filho numa batalha que, não importa o resultado, nenhum dos dois pode vencer.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UMA NOITE DE CRIME (LEGENDADO) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47aeca59c84d14a3445baca41eccaf42f2d09120</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1ehfsD8b7bv8t1c4ILe2NUpSx5R.jpg</thumbnail>
