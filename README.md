@@ -1,6 +1,15 @@
 # FILMES-2021
 FILMES 2021
 
+
+<item>
+<title>[COLOR silver][B] DESCE? [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a2945176f6d1ffe92bb2ee670fcf501a37876917</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tWD5FXfXTRcYzXZLq0bg8hxmQrs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois colegas de trabalho ficam presos num elevador durante um fim de semana prolongado do dia dos namorados. O que no início aparenta ser uma aproximação romântica, vira algo perigoso e horripilante.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] THE WHITE LOTUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IJA33ADTGLAKD5EXLKFYNNCRJR2TW6GI</link>
