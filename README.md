@@ -2,6 +2,16 @@
 FILMES 2021
 
 
+
+
+<item>
+<title>[COLOR silver][B] SOBREVIVA OU MORRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HAVRQQFOVTVOG57O4MO7QHJRKF7UJH26</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/raSRcE1lVtwQValPmAmNv46PPei.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma jovem e seus colegas precisam sobreviver a um tiroteio em sua escola quando estudantes armados começam uma chacina e transmitem pela internet.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DESCE? [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a2945176f6d1ffe92bb2ee670fcf501a37876917</link>
