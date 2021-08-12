@@ -2,7 +2,29 @@
 FILMES 2021
 
 
+<item>
+<title>[COLOR silver][B] INFINITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LFRRMXSKUPTBUFNZ2W3IDMEDXF7GN7J3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Evan Michaels é assombrado pelas memórias de suas duas vidas passadas, ele encontra a sociedade secreta "Cognomina", da qual os membros possuem todas as lembranças de suas antigas existências. O grupo se organiza para mudar o mundo com o conhecimento histórico que essa habilidade os dá.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] EXPLOTA EXPLOTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FW7CXPNRIE4ZQPIQJGYQTCC746ERCDCW</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4GvZ2HFBe7URP3ByCsBYwmDnmzG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um filme baseado nas canções de sucesso da popular cantora italiana Raffaella Carrà.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A BARRACA DO BEIJO 3 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76E5B34C069BB8353786BAFDA3E25E124A4228A6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/s5034YZr2Uv2k9smwCqAzr1wjam.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Para aproveitar o máximo o último verão antes da faculdade, Elle faz uma lista das coisas que ela ainda quer fazer e pensa no futuro com Noah e Lee.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SOBREVIVA OU MORRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
