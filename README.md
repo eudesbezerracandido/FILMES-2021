@@ -2,6 +2,14 @@
 FILMES 2021
 
 <item>
+<title>[COLOR silver][B] MEIA NOITE NO SWITCHUGRASS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06585fe55313fef50a1812184986aa96c146c893</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yMqiQycjmTVG8ocoQvJkFmHvFnD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em 2004, uma dupla de detetives do FBI se unem com um policial da Flórida para investigar uma série de assassinatos não-resolvidos. Quando um plano de infiltração dá terrivelmente errado, eles se veem num jogo perverso de gato e rato com o assassino.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NO RIRMO DO CORAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TCW2VHJTCNANOSCFSPWHSMHWBLETWGQV</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rnEcFnQYgZ6mmxeeaEeLNSZdgD8.jpg</thumbnail>
@@ -143,14 +151,6 @@ FILMES 2021
 <thumbnail>https://www.themoviedb.org/t/p/original/pHUgvdIK9QuGGSKyemfo7wGVeOx.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Em uma área densamente arborizada ao norte de São Petersburgo, as pessoas estão desaparecidas há três décadas. Os poucos cadáveres encontrados estavam nus. Em 14 de outubro de 2017, uma equipe de voluntários saiu para a floresta em busca de um adolescente desaparecido. Logo, toda a comunicação com eles foi perdida. Os habitantes locais acreditam que foram levados pelo mesmo espírito das trevas que levou os outros. Eles chamam de ‘Limping Widow’.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] MEIA NOITE NO SWITCHUGRASS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06585fe55313fef50a1812184986aa96c146c893</link>
-<thumbnail>https://www.themoviedb.org/movie/693113-midnight-in-the-switchgrass</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Em 2004, uma dupla de detetives do FBI se unem com um policial da Flórida para investigar uma série de assassinatos não-resolvidos. Quando um plano de infiltração dá terrivelmente errado, eles se veem num jogo perverso de gato e rato com o assassino.</info>
 </item>
 
 <item>
