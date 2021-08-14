@@ -1,6 +1,37 @@
 # FILMES-2021
 FILMES 2021
 
+<item>
+<title>[COLOR silver][B] NO RIRMO DO CORAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TCW2VHJTCNANOSCFSPWHSMHWBLETWGQV</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rnEcFnQYgZ6mmxeeaEeLNSZdgD8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em uma cidade pequena dos EUA, uma família culturalmente surda gerencia um negócio de pescados. Ruby, a filha mais nova e o único membro com audição, ajuda seus pais e irmão surdos com o trabalho. Na escola, ela se junta ao clube de coral, onde se vê atraída pelo seu parceiro de duetos e encontra uma paixão pelo canto. Quando seu maestro a encoraja a se inscrever para faculdade de música, ela precisa decidir entre ajudar sua família ou alcançar seu sonho.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BECKETT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DOC2XRGWTTINUADSWPSKDV3QH6CATGCF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7j9IXODH7GFwyfVy8llrmCZSxnC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um casal em férias cai numa armadilha para uma violenta conspiração com consequências trágicas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LEGADO DE MENTIRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65283C950DE9F7C9127C7B03F32D7973319E1024</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5Drt7KqgGmC5PaKTWwrl933UhXW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um ex-agente do MI6 é trazido de volta ao mundo da espionagem e de altas apostas para descobrir a verdade chocante sobre as operações conduzidas por serviços secretos desconhecidos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] OS RENEGADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z5G6HDXB6N4C4DBEYBBD2BG4PUU3IU2J</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vrYpppKn5UimPMwsuL8cM2aoFXL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de ser recrutado por um grupo de ladrões não convencionais, o renomado criminoso Richard Pace se vê envolvido em um elaborado assalto a ouro, que promete ter implicações de longo alcance em sua vida e na vida de inúmeras outras pessoas.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] INFINITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
