@@ -1,6 +1,33 @@
 # FILMES-2021
 FILMES 2021
 
+
+
+
+<item>
+<title>[COLOR silver][B] G.I JOE - ORIGENS SNAKE EYES - LEGENDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:448e1f9661e46f2bd05996f5550c53f7138a0a34</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A jornada de um guerreiro solitário treinado por um clã japonês conhecido como os Arashikage. Mas quando segredos do seu passado são relevados, sua lealdade ao clã é testada. Eventualmente, ele embarca em uma jornada que o transforma no herói Snake Eyes.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VEM BRINCAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CA5TRBUHO6FGBSVDI477724NCMK2HKOZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/exMHPC9hISOilingT8Q1SKMJFV5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Oliver é um garoto solitário que busca companhia em seus sempre presentes celular e tablet. Mas quando uma misteriosa criatura usa os dispositivos contra ele para vir ao nosso mundo, seus pais precisarão lutar para salvar seu filho de um monstro além da tela.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VILÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec2c322bf3975c38501b507b7b5842e04be7b4f4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nFDevg9HeRftVxGGkvriABJO2VF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após dois criminosos amadores invadirem uma casa no subúrbio, eles se deparam com um segredo sombrio e dois donos de casa sádicos que farão qualquer coisa para impedir que seja descoberto.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MEIA NOITE NO SWITCHUGRASS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06585fe55313fef50a1812184986aa96c146c893</link>
