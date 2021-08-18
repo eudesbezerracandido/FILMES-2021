@@ -2,7 +2,13 @@
 FILMES 2021
 
 
-
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - UNTOLD-PACTO COM DIABO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:275ad9c050cad9f7793ae3e10c0fa47112308278</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j5utOakb8IF10Q0oRiej47dttWH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No mundo do boxe, Christy Martin quebrou barreiras e narizes. Mas, na vida pessoal, enfrentou os próprios demônios, abusos e uma grave ameaça.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] G.I JOE - ORIGENS SNAKE EYES - LEGENDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
