@@ -3,6 +3,22 @@ FILMES 2021
 
 
 <item>
+<title>[COLOR silver][B] DIÁRIO DE INTERCÂNBIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eca580f5f41019f4c5377e2a8c52aa214cea0fd3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vqVVwT8hwHUlPscS2yE8c4aEm0T.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Barbara (Larissa Manoela) e Taila (Thati Lopes) decidem fazer intercâmbio nos Estados Unidos, mas não fazem ideia dos obstáculos e choques culturais que as aguardam. Barbara, que sonhava conhecer a vibrante Nova York, descobre que elas vão morar na pacata cidade de Woodstock, a duas horas da metrópole. Acostumada ao conforto da casa da mãe, Barbara tem de executar árduas tarefas domésticas como babá para a sua anfitriã, a severa Sheryll (Kathy-Ann Hart). Já Taila, uma mulher contestadora e de espírito livre, hospeda-se com um casal patriota e conservador. As duas intercambistas se tornam amigas de Brad (David James), um comissário de bordo americano apaixonado pelo Brasil. E Lucas (Bruno Montaleone), um brasileiro que trabalha em Bellayere Mountain, uma estância de esqui próxima a Woodstock. Elas vão precisar desses laços de amizade e afeto para passar por dificuldades inesperadas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] JUNTIÇA EM FAMILIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fb88221d1aff777e3363b3b964f61ca4103379f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wrwhbYVJK3O85tRLrkVjCXZniIJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um viúvo arrasado (Jason Momoa) promete levar à Justiça as pessoas responsáveis pela morte da esposa. Ao mesmo tempo, ele precisa proteger a filha (Isabela Merced), a única família que lhe resta.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - UNTOLD-PACTO COM DIABO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:275ad9c050cad9f7793ae3e10c0fa47112308278</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/j5utOakb8IF10Q0oRiej47dttWH.jpg</thumbnail>
