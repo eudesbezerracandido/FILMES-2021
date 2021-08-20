@@ -3,6 +3,14 @@ FILMES 2021
 
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - PANTERA NEGRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:855e9c3f8d7d12badb03fcf8a24182d28c323e3c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mGGF6W2TMi2LlHq9ywqNUzmK3xs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Aqui não é Wakanda. Nas profundezas do sul da Índia, há um reino selvagem que inspirou lendas. Kabini, na Reserva de Tigres de Nagarhole é o lar de uma confederação de tribos animais, todas disputando território, poder e recursos. Agora, um novo rei, Saya, está em ascensão. Ele é a única pantera negra nesta selva. A linhagem não o favorece, mas ele tem astúcia e coragem - e planeja reivindicar Kabini como seu reino.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DIÁRIO DE INTERCÂNBIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eca580f5f41019f4c5377e2a8c52aa214cea0fd3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vqVVwT8hwHUlPscS2yE8c4aEm0T.jpg</thumbnail>
