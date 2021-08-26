@@ -1,6 +1,15 @@
 # FILMES-2021
 FILMES 2021
 
+
+<item>
+<title>[COLOR silver][B] A LENDA DO CAVALEIRO VERDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:114EA2807C9A768B63F1322DDA1511E6EAFE51C6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4Z5LuDh6Ja3umKTHSo95aq71fEK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma aventura épica de fantasia baseada na lenda intemporal de Artur, “O Cavaleiro Verde”, que conta a história de Sir Gawain (Dev Patel), sobrinho imprudente e obstinado do Rei Artur. Sir Gawain embarca numa ousada busca para enfrentar o Cavaleiro Verde epónimo, um gigantesco estranho de pele esmeralda, que coloca à prova os homens. Numa viagem, em que enfrentará fantasmas, gigantes, ladrões e maquinadores, Gawain vai acabar por definir o seu carácter e provar o seu valor aos olhos da sua família e do reino, ao enfrentar o derradeiro opositor.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] RAIZES MACABRA[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
