@@ -3,7 +3,7 @@ FILMES 2021
 
 
 <item>
-<title>[COLOR silver][B] A LENDA DO CAVALEIRO VERDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] A LENDA DO CAVALEIRO VERDE ( dublado não oficial ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:114EA2807C9A768B63F1322DDA1511E6EAFE51C6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4Z5LuDh6Ja3umKTHSo95aq71fEK.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
