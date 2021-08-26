@@ -1,6 +1,13 @@
 # FILMES-2021
 FILMES 2021
 
+<item>
+<title>[COLOR silver][B] RAIZES MACABRA[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://ondebaixa.com/imagens/raizes-macabras-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando Cristina Lopez, uma repórter mexicana-americana, vai para sua terra natal, Veracruz, para uma história sobre bruxaria e curandeiros, não demora muito para que ela seja sequestrada por moradores locais. Eles afirmam que ela está possuída por um demônio e devem exorcizá-la antes de libertá-la. Enquanto ela tenta encontrar uma maneira de escapar, ela lentamente passa a acreditar que eles podem estar dizendo a verdade. Assim, junto com seus captores e prima afastada Miranda, sua luta pela sobrevivência se transforma em uma luta por sua alma.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - PANTERA NEGRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
