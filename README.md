@@ -1,6 +1,13 @@
 # FILMES-2021
 FILMES 2021
 
+<item>
+<title>[COLOR silver][B] CAMINHOS DA MEMÓRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9A1550358032D2ABBB70A73DCAA8C788C0D3859</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/msnN0oTm9AAGuHfdOjdkUGpekgG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nicolas Bannister (Hugh Jackman), um veterano solitário e exausto, vive numa Miami de um futuro próximo, coberta pelo mar devido os efeitos do aquecimento global. Sua principal habilidade é conseguir recuperar memórias queridas de seus clientes, mas sua vida muda quando ele fica obcecado pela sua nova cliente.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ELE É DEMAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
