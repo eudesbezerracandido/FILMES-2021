@@ -3,6 +3,46 @@ FILMES 2021
 
 
 <item>
+<title>[COLOR silver][B] ELE É DEMAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KFVAKTEE2AQJOT7BPWOWWJBVPICCZQWP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dR5s6KTvHFBzVMiSiFFHkOhEbbJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois que seu namorado a transforma na piada da escola, a jovem influencer Padgett Sawyer (Addison Rae) decide aceitar o desafio de transformar Cameron Kweller (Tanner Buchanan), o maior perdedor do campus, no rei de formatura até o fim do ano letivo. Remake do filme Ela é Demais (Robert Iscove, 1999).</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ASCENSÃO DO CISNE NEGRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14ea062ba1458e7df8b8ee650f80c6241688e755</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wMPbiwr0NtF6XEIlgoHMClPnkMO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nas profundezas do Canal Inglês, um pequeno exército de terroristas assumem o controle da Eurostar.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AMIZADE DE FÉRIAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MFLJHXUR7TMFU5FHRZEKTRV3FQBVKLCA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2IOAGHxkLSDTfdoCxqNiO1pVi4m.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um casal se diverte com um casal barulhento nas férias no México. Quando eles retornam para casa, descobrem que o doido casal que conheceram no México os seguiram de volta para casa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VIAJANTES - INSTINTOS E DESEJOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XTD7REUUAJSESAG2IO4X7BV3DCVMHJE2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50mYEEOiueKarAhlHAz5qOTuIzX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um grupo de jovens é enviado ao espaço numa missão para povoar um planeta recém descoberto. Depois que o capitão adulto da missão é misteriosamente morto, a jovem tripulação vai ao caos, revertendo para um estado primitivo, tribal, e cedendo aos seus desejos mais selvagens.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] WANDER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QBR24END7HDNNQYAHQ7NWGXJAT6RHOCP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nhu9KUeSmyCwHXcMXRcKggwrUuu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um investigador particular mentalmente instável é contratado para investigar uma morte suspeita na pequena cidade de Wander, ele se convence de que o caso está ligado a mesmo conspiração que causou a morte de sua filha.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A LENDA DO CAVALEIRO VERDE ( dublado não oficial ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:114EA2807C9A768B63F1322DDA1511E6EAFE51C6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4Z5LuDh6Ja3umKTHSo95aq71fEK.jpg</thumbnail>
