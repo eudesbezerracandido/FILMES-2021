@@ -115,7 +115,8 @@ FILMES 2021
 
 <item>
 <title>[COLOR silver][B] G.I JOE - ORIGENS SNAKE EYES - LEGENDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:448e1f9661e46f2bd05996f5550c53f7138a0a34</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:448e1f9661e46f2bd05996f5550c53f7138a0a34$nome=G.I JOE LEG. 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecad0ec6563448e2d6742893d6b95258912e67cf$nome=G.I JOE LEG. 2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A jornada de um guerreiro solitário treinado por um clã japonês conhecido como os Arashikage. Mas quando segredos do seu passado são relevados, sua lealdade ao clã é testada. Eventualmente, ele embarca em uma jornada que o transforma no herói Snake Eyes.</info>
