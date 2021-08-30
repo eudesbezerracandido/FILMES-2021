@@ -2,6 +2,22 @@
 FILMES 2021
 
 <item>
+<title>[COLOR silver][B] O ESPIÃO INGLÊS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da5525c8e031ab545f7052e4686ce33fd355af1f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/et0OqqfYINGCFB76YTmdinuuGTn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O empresário Greville Wynne (Benedict Cumberbatch) e a calorosa dona-de-casa Sheila (Jessie Buckley) levam uma vida tranquila. Quando rumores de uma toupeira no governo da União Soviética chegam a Dickie Franks (Angus Wright), dos serviços secretos britânicos, e a Emily Donovan (Rachel Brosnahan), da CIA, Greville é chamado a servir o seu país precisamente devido ao seu aspeto banal. Atirado para o conflito político, à medida que os seus esforços para acabar com a crise dos mísseis cubanos se aprofundam, Greville cria um vínculo inquebrável com o seu informador, Oleg (Merab Ninidze), que acabará por ser posto à prova. Pressionado pelas suspeitas de Sheila e com os soviéticos cada vez mais próximos da trama, Greville prova que está longe de ser um cidadão comum.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CIDADE DE MENTIRAS - COM  Johnny Depp [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MGLGAHTE5DE2LVGJ4QMNEUS675T4LUIQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xJhDFypLs0d17RYljNtKl8qougv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>baseado no livro de Randall Sullivan, “LAbyrinth”, que conta a história da série de assassinatos de rappers nos anos 90. Depp vestiria a pele de um detective da LAPD já reformado, que se propõe a investigar os crimes, com uma jornalista (Forest Whitaker).</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CAMINHOS DA MEMÓRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9A1550358032D2ABBB70A73DCAA8C788C0D3859</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/msnN0oTm9AAGuHfdOjdkUGpekgG.jpg</thumbnail>
@@ -130,7 +146,7 @@ FILMES 2021
 </item>
 
 <item>
-<title>[COLOR silver][B] NO RIRMO DO CORAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] NO RITMO DO CORAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TCW2VHJTCNANOSCFSPWHSMHWBLETWGQV</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rnEcFnQYgZ6mmxeeaEeLNSZdgD8.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
