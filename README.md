@@ -1,6 +1,15 @@
 # FILMES-2021
 FILMES 2021
 
+
+<item>
+<title>[COLOR silver][B] KINGDOM- REINO DE ASHIN DO NORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1bce600245835101503e60fcf518a40ede6e7320</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xviEIwLp8gqlYr5pVtpTrWWYrap.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Um episódio especial sequência da segunda temporada de ''Kingdom'', uma história de fundo sobre a misteriosa personagem que o grupo de Lee Chang encontrou em sua jornada ao norte para descobrir as origens dos infectados.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O ESPIÃO INGLÊS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da5525c8e031ab545f7052e4686ce33fd355af1f</link>
