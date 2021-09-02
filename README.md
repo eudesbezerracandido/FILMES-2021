@@ -1,6 +1,13 @@
 # FILMES-2021
 FILMES 2021
 
+<item>
+<title>[COLOR silver][B] O HOMEM NAS TREVAS 2 HDCAM INGLÊS ( ARCHIVE )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/o-homem-nas-trevas-2/O%20HOMEM%20NAS%20TREVAS%202.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7siNDlbLjjXahnWX6gR4nJMCefA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história de um homem cego que aterroriza invasores de sua casa. A sequência se passa anos após a primeira invasão; quando Norman Nordstrom (Stephen Lang) vive isolado na tranquilidade de sua residência até que os pecados do seu passado voltam para cobrar seu preço.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] KINGDOM- REINO DE ASHIN DO NORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
