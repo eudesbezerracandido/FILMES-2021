@@ -1,6 +1,15 @@
 # FILMES-2021
 FILMES 2021
 
+
+<item>
+<title>[COLOR silver][B] ÓRFÃOS PODEROSOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QFZ5BRT7T6V5A767MD3LUKJ3GWRFKTJI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3N0nM4ouA500Xp5uSMpVazLNF0c.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>12 Órfãos Poderosos conta a história verídica de Mighty Mites, uma equipa de futebol americano de um orfanato de Fort Worth que, durante a Grande Depressão, passou de jogar sem sapatos, e até sem bola, a jogar no campeonato estadual do Texas. Ao longo da sua época de vitórias, estes desfavorecidos e o seu espírito resiliente foram uma inspiração para a cidade deles e para uma nação inteira a necessitar de recuperar, ao ponto de despertarem a atenção do Presidente Franklin D. Roosevelt. O arquiteto do sucesso da equipa foi Rusty Russel, um lendário treinador do liceu, que chocou os seus colegas ao desistir de uma posição privilegiada para ensinar e treinar num orfanato. Poucos conheciam o segredo de Rusty: ele também era órfão. Ao reconhecer que os seus jogadores magricelas não podiam ganhar às outras equipas pela força, Rusty desenvolveu uma estratégia inovadora que viria a definir o futebol moderno.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O HOMEM NAS TREVAS 2 HDCAM INGLÊS ( ARCHIVE )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/o-homem-nas-trevas-2/O%20HOMEM%20NAS%20TREVAS%202.mp4</link>
