@@ -1202,7 +1202,7 @@ FILMES 2021
 
 <item>
 <title>[COLOR silver][B] A SENTINELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:I42C4YBTFUW5HVHCTBZP7T6NQV72FIHF&dn=COMOEUBAIXO.COM..MKV.A%20Sentinela%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:I42C4YBTFUW5HVHCTBZP7T6NQV72FIHF</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/56Z9eh4k9pzR6Yhy201nq2Qoa0n.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Klara é intérprete no exército francês. Depois de conhecer os horrores da guerra na Síria é transferida para Nice, dentro da Operação Sentinela. Lá, com sua mãe e irmã tenta, se reconstruir.Mas uma noite, depois de sair para uma boate, sua irmã é encontrada meio morta na praia. Ela foi estuprada e espancada. Klara fará tudo para encontrar os agressores e vingar sua irmã. Essa caçada implacável a levará aos passos de Yvan Kadnikov, filho de um poderoso oligarca russo da Côte d'Azur.</info>
@@ -2094,8 +2094,8 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 </item>
 
 <item>
-<title>[COLOR silver][B] ESPIRAL - O LEGADO DE JOGOS MORTAIS DUB. NÃO OFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:026C723034A0B511BB2BF13FCC7B42811C4B6E64</link>
+<title>[COLOR silver][B] ESPIRAL - O LEGADO DE JOGOS MORTAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c58f5681e25d0ba4fe0fc41810821e9abc919356</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zq2NV2twhwIzsLg6jHFypzcgHB5.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Sob o comando do veterano da polícia Marcus, o detetive Ezekiel "Zeke" Banks se une ao seu parceiro novato Willem para desvendar uma série de assassinatos terríveis que estão acontecendo na cidade. Durante as investigações, Zeke acaba se envolvendo no mórbido jogo do assassino.</info>
