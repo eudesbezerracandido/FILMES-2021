@@ -1,6 +1,21 @@
 # FILMES-2021
 FILMES 2021
 
+<item>
+<title>[COLOR silver][B] ESTICANDO A FESTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc90d1475b5db167f1fdf97fbe08d8e23990a7d1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1bkcOEt4zvc5tBl6xFxTbkSqhEQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A vida de Cassie é uma grande festa, até que ela morre em um acidente. Agora, essa jovem popular tem a chance de voltar à Terra e consertar seus erros.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CINDERELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9cbb626ee904b0cae9ebfb5656c4840e88dc3df</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/q3EG1UUwcwMJEcuXSgfzzLhRUZZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Cinderela, uma jovem que sonha em sair da casa de sua madrasta e abrir sua própria loja de vestidos, e nessa busca por sua independência ela vai encontrar também o amor.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ÓRFÃOS PODEROSOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
