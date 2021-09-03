@@ -3,8 +3,9 @@ FILMES 2021
 
 
 <item>
-<title>[COLOR silver][B] SHANG -CHI E A LENDA DOS DEZ ANÉS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE1250317890F41719CA76E676BA3F7231AB53F2</link>
+<title>[COLOR silver][B] SHANG -CHI E A LENDA DOS DEZ ANÉS (CAM) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE1250317890F41719CA76E676BA3F7231AB53F2$nome=CAM 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3YJFAMLYSD2BOGOKO3THNOR7OIY2WU7S$nome=CAM 2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6T0r3jBs0xbmzVnM9u7e3vUXMYk.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Shang-Chi precisa confrontar o passado que pensou ter deixado para trás. Ao mesmo tempo, ele é envolvido em uma teia de mistérios da organização conhecida como Dez Anéis.</info>
@@ -35,8 +36,8 @@ FILMES 2021
 </item>
 
 <item>
-<title>[COLOR silver][B] O HOMEM NAS TREVAS 2 HDCAM INGLÊS ( ARCHIVE )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/o-homem-nas-trevas-2/O%20HOMEM%20NAS%20TREVAS%202.mp4</link>
+<title>[COLOR silver][B] O HOMEM NAS TREVAS 2 HDCAM INGLÊS (ARCHIVE)[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:866baaf0ec25763fe9d69df09d1b5a55e9f26a41</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gkUpFnh5lRsDDA15u6IYsd08b2p.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A história de um homem cego que aterroriza invasores de sua casa. A sequência se passa anos após a primeira invasão; quando Norman Nordstrom (Stephen Lang) vive isolado na tranquilidade de sua residência até que os pecados do seu passado voltam para cobrar seu preço.</info>
