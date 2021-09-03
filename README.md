@@ -3,6 +3,14 @@ FILMES 2021
 
 
 <item>
+<title>[COLOR silver][B] QUANTO VALE? [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:S4AHFLZRHTAQDF3NRPQKFFTOYP7EM2DB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4DUDQpsWYeUz3c2Jbr7LYUnsc9A.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Kenneth Feinberg é um poderoso advogado encarregado do Fundo do 11 de Setembro. Em quase três anos de trabalho pro bono no caso, Feinberg lutou contra o cinismo, a burocracia e a política associados à administração de fundos do governo às famílias das vítimas e, ao fazê-lo, descobriu o valor da vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SHANG -CHI E A LENDA DOS DEZ ANÉS (CAM) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE1250317890F41719CA76E676BA3F7231AB53F2$nome=CAM 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3YJFAMLYSD2BOGOKO3THNOR7OIY2WU7S$nome=CAM 2</link>
