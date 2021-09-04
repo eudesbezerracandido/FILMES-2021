@@ -3,6 +3,14 @@ FILMES 2021
 
 
 <item>
+<title>[COLOR silver][B] MINARI - EM BUSCA DA FELICIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MUS6JE4N26SZGZMA2SJI6T3KLC7OP44X</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aQxf2xZjMoerIAqR8grFzPFNDaO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Anos 80. David (Alan S. Kim), um menino coreano-americano de sete anos de idade, se depara com um novo ambiente e um modo de vida diferente quando seu pai, Jacob (Steven Yeun), muda sua família da costa oeste para a zona rural do Arkansas. Entediado com a nova rotina, David só começa a se adaptar com a chegada de sua vó. Enquanto isso, Jacob, decidido a criar uma fazenda em solo inexplorado, arrisca suas finanças, seu casamento e a estabilidade da família.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] QUANTO VALE? [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:S4AHFLZRHTAQDF3NRPQKFFTOYP7EM2DB</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4DUDQpsWYeUz3c2Jbr7LYUnsc9A.jpg</thumbnail>
@@ -44,7 +52,7 @@ FILMES 2021
 </item>
 
 <item>
-<title>[COLOR silver][B] O HOMEM NAS TREVAS 2 HDCAM INGLÊS (ARCHIVE)[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] O HOMEM NAS TREVAS 2 HDCAM INGLÊS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:866baaf0ec25763fe9d69df09d1b5a55e9f26a41</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gkUpFnh5lRsDDA15u6IYsd08b2p.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
