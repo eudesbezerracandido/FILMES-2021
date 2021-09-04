@@ -1,6 +1,14 @@
 # FILMES-2021
 FILMES 2021
 
+<item>
+<title>[COLOR silver][B] CRAZY SAMURAI MUSASHI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0A6FD3D7849827E438577576D129DA34A474C3EC$nome=LEGENDADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F72B038A040AA09692E81E6427646E2D020C3D6C$nome=DUBLADO NÃO OFICIAL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/izKIwWr9LqKfXScLQX5GXPgoPAk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Este filme, feito na época de “Out and Deluxe”, consiste na batalha mais famosa do espadachim Miyamoto Musashi. Nesta sequência de ação de 77 minutos, uma cena e sem cortes, Miyamoto (Tak Sakaguchi) derrota 588 inimigos, um após o outro. Não há espaço para erros, nem para movimentos cafonas ou não convincentes.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] FREE GUI - ASSUMINDO O CONTROLE ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
