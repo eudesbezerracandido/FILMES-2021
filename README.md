@@ -3,6 +3,14 @@ FILMES 2021
 
 
 <item>
+<title>[COLOR silver][B] FREE GUI - ASSUMINDO O CONTROLE ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JQVRVIDCUZ5KSEIE7GJEWU4ZLSSITZVV</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zEAl0w90NxNcXtFPlHyivFlZkbt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um caixa de banco, preso em sua rotina, descobre que ele é um personagem de fundo em um jogo de ação-aventura realista, de um mundo que ele é o único capaz de salvá-lo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MINARI - EM BUSCA DA FELICIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MUS6JE4N26SZGZMA2SJI6T3KLC7OP44X</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aQxf2xZjMoerIAqR8grFzPFNDaO.jpg</thumbnail>
