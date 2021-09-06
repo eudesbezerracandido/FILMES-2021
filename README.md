@@ -1,6 +1,39 @@
 # FILMES-2021
 FILMES 2021
 
+
+<item>
+<title>[COLOR silver][B] ROUGE - DUBLAGEM FEITA POR FÂS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96CC3B91E241388D42D533FF9720933F245D9232</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iyi1TmBTLjAZRe1h47dyP3ZfDnh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Recém-contratada como enfermeira do trabalho em uma fábrica de produtos químicos, Nour descobre que existem pequenos acordos entre a gerência e seu pai, Slimane, o representante da equipe. Mentir sobre descargas poluentes, doenças ocultas dos funcionários, acidentes. Nour, pouco a pouco, não aceita mais os compromissos do pai para preservar a imagem da empresa. Ela decide lançar o alerta. Dublagem não oficial, essa é uma dublagem feita por fãs, se preferir aguarde o lançamento da versão brasileira oficial.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ÁGUAS NEGRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L44P3ARNXK5VCKUHXW6ADXQXV2PXO25Q</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mKWivvlvJxxJ56EHn557vIy29Sj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando a vlogger fotográfica Tara é abandonada por seu namorado de longa data, sua melhor amiga Amy a leva em uma escapada de fim de semana para a casa de férias de sua família no lago, onde um homem misterioso e facilmente atraente cruza seu caminho. Elas decidem que ele é a maneira perfeita de apimentar a viagem, mas sua presença faz com que as emoções aumentem e de repente as garotas são forçadas a enfrentar os demônios entre elas - ou é algo mais tortuoso?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DEMAIS PRA MIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HNMZLLXS652XRUZKHCSPPSTSBQEUGYVZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/d5LUnh5fH6ArY4eXnMZ20tKZxEU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Cansada de encontros casuais, uma jovem com uma rara doença genética decide que quer viver um grande amor.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] WILLYS WONDERLAND - PARQUE MALDITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HIJMVUMH3743BXBLE4IX7DDWW6SRQVO7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/keEnkeAvifw8NSEC4f6WsqeLJgF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um faxineiro é forçado a passar a noite num bizarro parque de diversões onde terá que lutar para sobreviver contra personagens animatrônicos que ganham vida.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CRAZY SAMURAI MUSASHI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0A6FD3D7849827E438577576D129DA34A474C3EC$nome=LEGENDADO</link>
