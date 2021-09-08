@@ -3,6 +3,22 @@ FILMES 2021
 
 
 <item>
+<title>[COLOR silver][B] PROGRAMADA PARA MATAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SK4SZUEC4GYGC5ENDWI5GYTKJHCBVI2B</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eXENORB2EAbO7OUE7CfZRSdYoua.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma jovem se vê revivendo o mesmo dia indefinidamente.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] REALLY LOVE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JADKZFRJLPKMSEA6HSG2ZMKL3X5RVXPN</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hqqEHkLUdOyoDYcvXi0lUEeQ748.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um artista pobre em Washington DC está lutando para encontrar seu lugar no mundo de prestígio da arte. Quando uma jovem estudante de direito inesperadamente entra em sua vida, ele deve escolher entre um romance vertiginoso e sua carreira de sucesso como um pintor.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ROUGE - DUBLAGEM FEITA POR FÂS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96CC3B91E241388D42D533FF9720933F245D9232</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iyi1TmBTLjAZRe1h47dyP3ZfDnh.jpg</thumbnail>
