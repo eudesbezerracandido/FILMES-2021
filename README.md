@@ -1,8 +1,21 @@
 # FILMES-2021
-FILMES 2021
 
 
+<item>
+<title>[COLOR silver][B] TALK-SHOW-REIVENTANDO A COMÉDIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a9c8b490fe23d2fc65a4065fa51df04b5f0a151</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6RnxVD2UsT8faqtnX4uanCrGm7r.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma lendária apresentadora (Emma Thompson) de um talk-show noturno vive a tensão de ter seu emprego ameaçado justamente quando acaba de contratar a primeira roteirista mulher (Mindy Kaling) da equipe.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] LA CASA DE PAPEL-DE TÓKIO A BERLIM( DOCUMÉNTARIO )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01e098ecfcbbe29a4e6319bc2fb0baaf753e583b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/80bfUsxktGOZ1egt4OsIF7Ouo5k.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Os cineastas e os atores que deram vida a personagens de "La casa de papel" como Tóquio e o Professor falam sobre o emotivo processo artístico das gravações da série.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PROGRAMADA PARA MATAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
