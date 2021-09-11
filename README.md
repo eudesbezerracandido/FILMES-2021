@@ -1,6 +1,31 @@
 # FILMES-2021
 
 
+
+<item>
+<title>[COLOR silver][B] KATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af92651012d493722e01c182fd90719935227812</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uQWgSRXeYRWCvGIX9LDNBW6XBYD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Kate (Mary Elizabeth Winstead), uma assassina profissional, foi envenenada. Ao descobrir que tem possui menos de 24 horas para viver, isso a coloca em uma caçada pelas ruas de Tóquio para que ela possa se vingar daqueles que a envenenaram, antes que ela sucumba aos efeitos da droga e morra.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CAÇA INVISÍVEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51798160ec680613e18fee561cdd0fbc691c0554</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rtaKXJg9PoEYRmsqg4obU2atcHu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O que era para ser uma trilha na natureza, se transforma em uma tentativa desesperada de sobrevivência para cinco amigos na mira de um atirador misterioso.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] OBSERVADORES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d9b7b9de662f8442d316d019f5fe7011284eaf5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8Y4XOIWhpOvSOEn8XrxbkH9yAXO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Pippa e Thomas se mudam para o apartamento dos seus sonhos. Do outro lado da rua, um casal instável e atraente cativa os dois. Quando tentam interceder anonimamente em suas vidas, involuntariamente desencadeiam eventos que levarão ao desastre.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TALK-SHOW-REIVENTANDO A COMÉDIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a9c8b490fe23d2fc65a4065fa51df04b5f0a151</link>
