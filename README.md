@@ -1,6 +1,12 @@
 # FILMES-2021
 
-
+<item>
+<title>[COLOR silver][B] NÃO CONTE A UMA ALMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DH4GLCPAAILQKJFN3CUBSDUXZ36T2GAH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2lla8pP0wNlDAFgV83nZpYMWkeT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois irmãos adolescentes roubam dinheiro para ajudar sua mãe doente. Durante um assalto um segurança (Rainn Wilson) cai em um buraco e fica preso. Assim, ele precisará ser mais esperto que os dois adolescentes que começam a discutir enquanto realizam o feito.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] KATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
