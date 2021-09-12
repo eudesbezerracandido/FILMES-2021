@@ -1,6 +1,15 @@
 # FILMES-2021
 
 <item>
+<title>[COLOR silver][B] OS SEGREDOS OBSCUROS DA MINHA MÃE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6gzsFr7mJEWb5QfhVUaeCBgRNzq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A jovem Ashley (Nia Roam) finalmente conhece sua mãe biológica, Sara (Laurie Fortier). Porém, passada a empolgação incial do reencontro, Ashley se vê em uma teia de mentiras e decepções envolvendo sua mãe. E, agora, ela já não tem certeza se Sara é inocente ou culpada de um assassinato.
+Enredo: Quando ashley Beck-Ford de 21 anos encontra sua mãe biológica – Sara Hillman – on-line, ela fica chocada e emocionada.Mas construir um relacionamento com sua mãe longa perdida prova ser difícil, e logo depois que eles se encontrarem, o marido de Sara é assassinado.Ashley logo se torna pega em uma teia de mentiras e engano em que ela não tem certeza se sua mãe é inocente ou culpada desse</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NÃO CONTE A UMA ALMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DH4GLCPAAILQKJFN3CUBSDUXZ36T2GAH</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2lla8pP0wNlDAFgV83nZpYMWkeT.jpg</thumbnail>
