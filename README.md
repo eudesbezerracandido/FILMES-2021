@@ -2,7 +2,7 @@
 
 <item>
 <title>[COLOR silver][B] OS SEGREDOS OBSCUROS DA MINHA MÃE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d104b584f56de7bf1c7dd3cc52d072c634c43b44</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6gzsFr7mJEWb5QfhVUaeCBgRNzq.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> A jovem Ashley (Nia Roam) finalmente conhece sua mãe biológica, Sara (Laurie Fortier). Porém, passada a empolgação incial do reencontro, Ashley se vê em uma teia de mentiras e decepções envolvendo sua mãe. E, agora, ela já não tem certeza se Sara é inocente ou culpada de um assassinato.
