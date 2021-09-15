@@ -1,5 +1,15 @@
 # FILMES-2021
 
+
+
+<item>
+<title>[COLOR silver][B] OFÉLIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CV37RW5H3GHHHA5WZHR7GW33FP4RE6UL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/b1Wkthkn7AiJFS4OgSUrJqHhjez.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ofélia ocupa o centro do palco como aia de confiança da Rainha Gertrude. Bela e inteligente, depressa atrai as atenções do garboso príncipe Hamlet e um amor proibido floresce. À medida que as movimentações de guerra começam a surgir, o desejo e a traição começam a minar o Castelo Elsinore e Ofélia tem de decidir entre o verdadeiro amor e a sua própria vida para proteger um segredo muito perigoso.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] OS SEGREDOS OBSCUROS DA MINHA MÃE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d104b584f56de7bf1c7dd3cc52d072c634c43b44</link>
