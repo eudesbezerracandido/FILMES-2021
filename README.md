@@ -2,6 +2,22 @@
 
 
 <item>
+<title>[COLOR silver][B] A LENDA DE CAMDYMAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2IFPTVLWMSPNNPCSNJ4CYDUQMNCNLGCU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cjSO7uKWR9Y3zwx2pZwnu7hVe7P.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Com a carreira à beira da estagnação, o artista visual Anthony McCoy descobre a obscura história do Candyman, uma antiga lenda urbana local que ele começa a usar como inspiração para suas pinturas, sem saber que está abrindo uma porta para um passado complexo que desafia sua própria sanidade e desencadeia uma onda de violência terrivelmente viral que o coloca em rota de colisão com o destino.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O SEQUÊSTRO DE DANIEL RYE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4XWEBG6H6QCAQSGG6NZRJTRUPZ3A5RM4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eLwFPsZ9HWfkxh7EbRHENwO81fI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A história do fotógrafo dinamarquês Daniel Rye, que foi capturado pelo ISIS na Síria em 2013 e mantido refém por 398 dias.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TODOS ESTÃO FALANDO SOBRE JAMIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f001ff4080d2fdc8d977fa72c71af7a3dac7957</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/frcLyvZzciwPqjRXXuQg8OtmNIN.jpg</thumbnail>
