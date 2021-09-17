@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] NOITÁRIOS DE ARREPIAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41c894b21732e67b2e8d161f6ab3b6b2850f3063</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9NTrSviwKL8GxGySG0n1ooyiFMA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Alex é um menino obcecado por histórias assustadoras, e está preso por uma jovem bruxa malvada em seu apartamento contemporâneo em Nova York. Ele conhece Yasmin, que também está presa lá, e aprende que deve contar uma nova história assustadora todas as noites para se manter vivo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] É PARA SEU PRÓPRIO BEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KCCYCBMVOEWLZ2MQXXISFO5CJR3DMYIR</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9Oy3mXJh0YyIDF1yUZbczwPAABz.jpg</thumbnail>
