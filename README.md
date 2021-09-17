@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] TODOS ESTÃO FALANDO SOBRE JAMIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f001ff4080d2fdc8d977fa72c71af7a3dac7957</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/frcLyvZzciwPqjRXXuQg8OtmNIN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jamie New (Max Harwood) tem 16 anos e vive na cidadezinha de Sheffield. Ele não se encaixa e está apavorado por conta do seu futuro. Mas ele sabe que será uma sensação. Com o apoio de sua mãe amorosa e de seus amigos, Jamie irá superar o preconceito, combater o bullying e irá sair das sombras para a luz ao se transformar em uma fabulosa drag queen.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BAC NORD SOBRE PRESSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90945a9c3ac9f859fa24fc018f0b58bceacc4d6f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/r2NnRp4mi4G3e0x9zINQIcnGNd8.jpg</thumbnail>
