@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] BAC NORD SOBRE PRESSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90945a9c3ac9f859fa24fc018f0b58bceacc4d6f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/r2NnRp4mi4G3e0x9zINQIcnGNd8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma brigada policial trabalha nos perigosos bairros de Marselha, onde o nível de criminalidade é maior do que em qualquer outro lugar na França.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O BAILE DAS LOUCAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f1b39ca81bfb440c44e22a452bae02ea7430d7b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pL6onRNBIrYnIADtlt0h84RpzVE.jpg</thumbnail>
