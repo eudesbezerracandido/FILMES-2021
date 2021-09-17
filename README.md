@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] É PARA SEU PRÓPRIO BEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KCCYCBMVOEWLZ2MQXXISFO5CJR3DMYIR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9Oy3mXJh0YyIDF1yUZbczwPAABz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Arthur (Heiner Lauterbach), Bernhard (Jürgen Vogel) e Yusuf (Hilmi Sözer) são amigos de longa data que não aprovam os namorados de suas respectivas filhas. Descontentes, os três entram em acordo para boicotar os relacionamentos das jovens.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A LENDA DE CAMDYMAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2IFPTVLWMSPNNPCSNJ4CYDUQMNCNLGCU</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cjSO7uKWR9Y3zwx2pZwnu7hVe7P.jpg</thumbnail>
