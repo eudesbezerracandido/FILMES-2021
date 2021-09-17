@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO SCHUMACHER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XHLIMCZEFOTRV5SRQTOQEJHUU2TRIQVY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ucNYfsbX1Z4tjMSr3waxsHMVjve.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Considerado como um dos maiores pilotos de Fórmula Um de todos os tempos, Michael Schumacher é o único na história a vencer sete Campeonatos Mundiais de Fórmula Um, cinco dos quais foram ganhos consecutivamente com a Ferrari. Ele também possui uma série de outros recordes de corrida de todos os tempos. Após se aposentar em 2012, Schumacher sofreu uma lesão cerebral traumática como resultado de um acidente de esqui em 2013 e continua a receber tratamento médico até hoje. - O documentário apresenta filmagens de arquivamento nunca antes vistas em um olhar de bastidores. Emoldurado pelo aniversário de 50 anos de Schumacher e pelo 25º aniversário de sua primeira vitória no Campeonato Mundial, o filme contará com entrevistas com sua família, companheiros de corrida mais próximos e competidores.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NOITÁRIOS DE ARREPIAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41c894b21732e67b2e8d161f6ab3b6b2850f3063</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9NTrSviwKL8GxGySG0n1ooyiFMA.jpg</thumbnail>
