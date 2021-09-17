@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] O BAILE DAS LOUCAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f1b39ca81bfb440c44e22a452bae02ea7430d7b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pL6onRNBIrYnIADtlt0h84RpzVE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No final do século 19 em Paris, as mulheres consideradas muito rebeldes ou difíceis eram frequentemente rotuladas como loucas e institucionalizadas. A ação se desenrola no hospital Salpêtrière, onde essas mulheres diagnosticadas com diferentes tipos de distúrbios do sistema nervoso foram confinadas e colocadas sob a supervisão de neurologistas como Jean-Martin Charcot. A cada ano, um prestigiado baile era organizado com os pacientes e atraía a elite parisiense; era um lugar para ver e ser visto.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O PAI QUE MOVE MONHANBHAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e0bffa5b3ee4d87f5dd7a785b3e906c9ce78695</link>
 <thumbnail>https://ia601400.us.archive.org/32/items/transferir_202109/transferir.jpg</thumbnail>
