@@ -1,5 +1,20 @@
 # FILMES-2021
 
+<item>
+<title>[COLOR silver][B] REFÉM REBELDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6HCB5OHJVSYDNHJRRRKJRXUAKQ4NVSEL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/61hoGhY0khqOolZyfxqv4zrde8M.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No dia da inauguração de um supermercado de um congressista dos EUA, terroristas tomam o lugar em busca de vingança, mas um ex-fuzileiro naval que sofre transtorno de estresse pós-traumático está entre os reféns.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CRISIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4UVAZTETSO73GY5LE24MJ7S2WC6WPUJJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/15e2VcMTtk3pqgGlHWxisvygFAw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um traficante de drogas organiza uma operação de contrabando entre Canadá e Estados Unidos, um arquiteto que se recupera de um vício em Oxycontin rastreia a verdade por trás do envolvimento de seu filho com narcóticos. um professor universitário enfrenta revelações inesperadas sobre seu empregador de pesquisa, uma empresa farmacêutica com profunda influência governamental traz um novo analgésico “não viciante” para o mercado.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO SCHUMACHER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
