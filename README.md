@@ -1,5 +1,30 @@
 # FILMES-2021
 
+
+<item>
+<title>[COLOR silver][B] O CHARLATÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a8800dbcde9b6f073981bd04240baf81053237d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/TynGL7FRlss32Q8wfASB1bRawH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Inspirado na história do herborista Jan Mikolasek, que dedicou a vida aos cuidados de pessoas doentes, apesar dos imensos obstáculos que enfrentou nas esferas pública e privada. Nascido na virada do século 20, Mikolasek ganha fama e fortuna usando métodos de tratamento pouco ortodoxos para curar uma ampla gama de doenças. Renomado na Tchecoslováquia antes da Segunda Guerra Mundial, o curandeiro aumenta a reputação e a riqueza durante a ocupação nazista e sob o regime comunista. Todos esses regimes, um após o outro, se beneficiam das habilidades de Mikolasek e dão proteção a ele em troca. Mas quão altos devem ser os custos para manter esse status quando as coisas mudarem?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] INTRUSION [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc37ed23c764b61d99e0ce084e54b8aad6041654</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a2Q3yI7E7kmlRW3c6z996JIOw2y.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando um casal se muda para uma cidadezinha, uma invasão deixa a esposa traumatizada e com a suspeita de que todos à sua volta não são bem o que aparentam.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CAMINHOS DA MEMÓRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4cc6315c0476984027647a8e9ed0eab581919e1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aef6dMfVJ5eVogGQbvtaKDcB43K.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nicolas Bannister (Hugh Jackman), um veterano solitário e exausto, vive numa Miami de um futuro próximo, coberta pelo mar devido os efeitos do aquecimento global. Sua principal habilidade é conseguir recuperar memórias queridas de seus clientes, mas sua vida muda quando ele fica obcecado pela sua nova cliente.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] REFÉM REBELDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6HCB5OHJVSYDNHJRRRKJRXUAKQ4NVSEL</link>
