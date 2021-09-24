@@ -1,5 +1,20 @@
 # FILMES-2021
 
+<item>
+<title>[COLOR silver][B] UM NINHO PARA DOIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6OOFAGE4M23QZN5AE5Y76YAYK6EBHNUH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/b2Qy3DXEul56aFhdWUxcEBNuN7m.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após uma tragédia prejudicar o seu casamento, uma mulher entra em uma batalha territorial com um estorninho preto de tamanho considerável que construiu um ninho em seu jardim.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ALUCINAÇÃO FATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96e41faea4b3d9ed85f64d06dbaf1c75ac23ffdc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6e0eblwQS11J5ZBb5PNoigCKWGB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quinze anos após esfaquear uma colega para invocar um fantasma imaginário conhecido como Mercy Black, Marina Hess volta pra casa. Vivendo com sua irmã e sobrinho, ela não consegue superar o passado visto que nesse período de tempo, a lenda de Mercy Black se tornou famosa. Agora, seu sobrinho está obcecado por ela.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O CHARLATÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
