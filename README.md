@@ -1,5 +1,24 @@
 # FILMES-2021
 
+
+
+
+<item>
+<title>[COLOR silver][B] SEIS MINUTOS PARA MEIA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd7e747cc16be8b14c88e8de93e54df0a8020c10</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w07xHq8aJwXNmymaYNkT8sNMSSs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Verão de 1939. As famílias influentes da Alemanha nazista enviaram suas filhas para uma escola de acabamento em uma cidade inglesa do mar para aprender a língua e ser embaixadores de um nacional-socialista futuro. Um professor vê o que está por vir e está tentando aumentar o alarme. Mas ninguém está ouvindo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PASSAROS DE LIBERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:U3J6XXNT42ZDGBJXUBFXH3AFXOETOBC6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/h3v0rsQvik8yMh3LStRiDu0GTHP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Duas estudantes de uma academia de balé de elite em Paris tem seus laços testados quando são postas para competir por um contrato na Ópera nacional.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] UM NINHO PARA DOIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6OOFAGE4M23QZN5AE5Y76YAYK6EBHNUH</link>
