@@ -1,7 +1,12 @@
 # FILMES-2021
 
-
-
+<item>
+<title>[COLOR silver][B] JE SUIS KARL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89ab7a61bcb909347c7deed1d904c7b276cbcac3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jsZkLqSzMm2AcxOAAAGTlK0Giac.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Maxi, sobrevivente de um ataque terrorista, junta-se ao sedutor estudante Karl e torna-se parte de um movimento juvenil europeu;</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SEIS MINUTOS PARA MEIA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
