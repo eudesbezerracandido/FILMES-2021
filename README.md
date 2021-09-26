@@ -1,7 +1,13 @@
 # FILMES-2021
 
-
-
+<item>
+<title>[COLOR silver][B] A GANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f51da0c094651ba1260365c6b8d2f102207e8d2f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pR6rang5RjOFjCYc1K497cY9Rlo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma visão um pouco distópica de Los Angeles, seguimos três adolescentes descontentes, Jessie, Calvin e Nicky, todas vítimas de 
+uma infância extrema, comandando uma revolta hedonista suprema enquanto tentam descobrir um caminho na vida.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PIXIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
