@@ -2,12 +2,13 @@
 
 
 
+
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f51da0c094651ba1260365c6b8d2f102207e8d2f</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] PIXIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e026c1f36266f68c2652b49dabc0db60e50a67cd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nyFHl2BWixlLGHjXEoOKROWwOmy.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Uma visão um pouco distópica de Los Angeles, seguimos três adolescentes descontentes, Jessie, Calvin e Nicky, todas vítimas de uma infância extrema, comandando uma revolta hedonista suprema enquanto tentam descobrir um caminho na vida.</info>
+<info> Pixie quer vingar a morte de sua mãe planejando um assalto, mas seus planos dão errado e ela se vê foragida com dois jovens através do campo selvagem irlandês por gangsters. Ela tem que se concentrar contra todos, assumindo o patriarcado para reivindicar o direito de moldar sua própria vida.</info>
 </item>
 
 <item>
