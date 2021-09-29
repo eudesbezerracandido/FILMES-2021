@@ -1,5 +1,22 @@
 # FILMES-2021
 
+
+<item>
+<title>[COLOR silver][B] FREE GUY-ASSUMINDO O CONTROLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1163eec087017c2ca25f013b3fcae6366d75dcd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/btRVgCRmEcZ81U2xmWbzDLxrlM8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um caixa de banco, preso em sua rotina, descobre que ele é um personagem de fundo em um jogo de ação-aventura realista, de um mundo que ele é o único capaz de salvá-lo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NINGUMÉM SAI VIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cc23296fac5e3153527f3a22d5c45d7daa7ff9b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uKX11fIQSIdGtt9uXBlC0atY15Q.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma imigrante em busca do sonho americano se muda para um apartamento barato, apenas para descobrir que se colocou em perigo ao fazê-lo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SEM RETORNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a11f1281b245514325a32237098b35c95cca167b</link>
