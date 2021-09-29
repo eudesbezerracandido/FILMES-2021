@@ -1,6 +1,22 @@
 # FILMES-2021
 
 <item>
+<title>[COLOR silver][B] SEM RETORNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a11f1281b245514325a32237098b35c95cca167b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/l5oziYNRdgh8S3vb7fLvvvcfk0Q.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Pedro, um vendedor de aspiradores de pó, tenta desesperadamente pagar suas contas através da venda do produto. Consegue uma oportunidade através de um amigo e sai em busca dde sucesso financeiro.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] INICIAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21b268c8a0dc63f01e0e9867a2f227b457a76f43</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oSUF0nLwVnjZN03zD2eF3WbbTRi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando o atleta prodígio da Universidade Whiton é assassinado, o evento desencadeia uma série de ataques na redes sociais, forçando os alunos a descobrirem a verdade por trás dos segredos da escola e o terrível significado por trás de um ponto de exclamação.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A GANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f51da0c094651ba1260365c6b8d2f102207e8d2f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pR6rang5RjOFjCYc1K497cY9Rlo.jpg</thumbnail>
