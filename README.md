@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[COLOR silver][B] MELHOR AAMIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] MELHOR AMIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c4cce7dddc57d20bf74c1d77038e9a03b84304f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9f8ysQI4X0XLhUJqKOZy9XUfSUv.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
