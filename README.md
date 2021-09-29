@@ -1,6 +1,12 @@
 # FILMES-2021
 
-
+<item>
+<title>[COLOR silver][B] FOMOS CANÇÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c80f02f4895572f661541003f7cd6a87db9cfd54</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rMcxBj8bHq57tFJYVHNJ5rTs99g.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando Maca finalmente consegue superar o difícil fim de um relacionamento, o homem que partiu seu coração reaparece. Ainda bem que ela pode contar com suas amigas Adriana e Jime para entender que o amor pode ser mesmo complicado.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MELHOR AMIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
