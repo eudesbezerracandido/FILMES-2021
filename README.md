@@ -1,5 +1,39 @@
 # FILMES-2021
 
+
+
+<item>
+<title>[COLOR silver][B] FOREVER RICH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OULFKPO5ILZDW7EUYVG64JBFVDHXVMOR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sVxRPDUkHdDXDDMCpBqaWEdxhkz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O longa conta a história de Richie, que está prestes a se tornar o melhor artista de hip-hop dos Países Baixos. Uma noite, Richie é violentamente assaltado, e um grupo de adolescentes rouba seu bem mais precioso: um relógio caro. Quando as imagens do que aconteceu viralizam na internet, sua reputação acaba sofrendo as consequências. Será que Richie conseguirá recuperá-la ou este incidente marcará o fim de sua carreira?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM LUGAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZUBBZC6ERHQND4XL5BSCPPMEF25IDTS6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uT79UNA1q98pqXxQHdiXvaTCiPF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Edee Mathis (Robin Wright), uma mulher consumida pela tristeza que resolve se afastar completamente da vida como ela a conheceu e desaparece. Sozinha, ela deve aprender a caçar, pescar e cultivar sua comida enquanto enfrenta invernos brutais, uma paisagem desafiadora e vida selvagem local que poderia matá-la a qualquer momento.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O BINGO MACABRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7fba8f438ad49a2593c6e1cad9172040b0266303</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/86VKuiaox9eVJTETel0ld7XZtiO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No bairro de Oak Springs, vive um forte e teimoso grupo de amigos mais velhos que se recusam a deixar o bairro ser gentrificado. Sua líder, Lupita, os une como uma comunidade, uma família. Mas eles mal imaginam que seu amado clube de bingo está prestes a ser vendido para uma força mais poderosa que dinheiro.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NEGRA COMO A NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ca426c8cb13f06298c3f79d6e205e95131545e9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/94Y0dB5k0og2p556cs4AqVp1fwE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma jovem com problemas de autoestima encontra sua própria confiança da maneira mais improvável possível: enfrentando vampiros que estão caçando pessoas em Nova Orleans.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] FOMOS CANÇÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c80f02f4895572f661541003f7cd6a87db9cfd54</link>
