@@ -1,6 +1,14 @@
 # FILMES-2021
 
 <item>
+<title>[COLOR silver][B] A MALDIÇÃO DE ISABELLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9b8751350ff09214976de5cf56747224bab359b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j45giQ0qy2rnzPuVDfP13QYIydg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O sonho de um jovem casal de começar uma família se estilhaça ao descer às profundezas da paranóia, e deve lutar para sobreviver a uma presença maligna que não quer nada além de suas próprias vidas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TEM ALGUÉM NA SUA CASA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5fa24ff6f747494361550758fbb304b380da6cb</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dqXKUkYlcn8xlvH5hKjlSZjP4PM.jpg</thumbnail>
