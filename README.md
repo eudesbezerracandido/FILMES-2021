@@ -1,7 +1,20 @@
 # FILMES-2021
 
+<item>
+<title>[COLOR silver][B] TEM ALGUÉM NA SUA CASA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5fa24ff6f747494361550758fbb304b380da6cb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dqXKUkYlcn8xlvH5hKjlSZjP4PM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um ano após ser mandada pelos pais para morar com a avó em Nebraska, a adolescente Makani Young (Sydney Park) ainda está se adaptando à sua nova vida. Mesmo com um novo grupo de amigos e alguns romances, seu passado ainda é difícil de esquecer. Isso antes dos alunos de sua nova escola começarem a ser assassinados, um por um.</info>
+</item>
 
-
+<item>
+<title>[COLOR silver][B] TÃO LEGAL QUANTO VOÇÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5U3C2SFUQQMHXETSCP5B2NBVOOY2ONMT</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uuF7Smx3CDzknb8RbuxfIAcJKoi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Lucy Neal, uma violinista adorável, obediente às regras, um tanto reprimida e bem-educada, que é jogada para um loop quando é acusada de ser muito inibida por seu ex-namorado. Em um esforço para provar que ele está errado, Lucy cria uma lista de tarefas um pouco selvagem que a envia em uma jornada de autodescoberta, amizade e um novo amor.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DUPLA EXPLOSIVA 2- E A PRIMEIRA DAMA DO CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
