@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CÉU VERMELHO SANGUE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://www.themoviedb.org/t/p/original/zacyfceQWlgA1PbL7PCs8bRTPsI.jpg</link>
+<thumbnail>magnet:?xt=urn:btih:ON6QDQAUBTXHP7FVCJYY3YB6L5E3TR2P</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando um grupo de terroristas sequestra um voo transatlântico, uma mulher com uma doença misteriosa é forçada a revelar o seu segredo tenebroso para proteger o filho.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TRÊS HISTÓRIAS DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98eeab6b6dd9f0939a5e48488dd71fe284cf6a8b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uMNQrFEcnfZUYdw3E4E09AOd6lp.jpg</thumbnail>
