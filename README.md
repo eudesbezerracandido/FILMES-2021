@@ -1,6 +1,24 @@
 # FILMES-2021
 
 
+
+
+<item>
+<title>[COLOR silver][B] DUPLA EXPLOSIVA 2- E A PRIMEIRA DAMA DO CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd1d1cc0789702438d34099f707e612c0dff6a64</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eXjqdCBFg4zjUnc1MbL55hlQmm0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de um tarefa bem sucedida, a dupla peculiar formada por um guarda costas de elite e um assassino de aluguel está de volta para uma mais nova missão.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A SENHORA DO CASARÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c8386bab6e0ca326f581898656391917644394e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w59ifg4dVE9lXy4Fw9o1aVltSw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um homem sem rumo se torna um guia turístico em uma propriedade histórica, e acaba fazendo amizade com o fantasma residente da mansão.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A MANSÃO - THE MANOR  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97fc262d7aea1bf3300b66cb1e727117e98dcce3</link>
