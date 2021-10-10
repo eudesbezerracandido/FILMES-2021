@@ -1,5 +1,16 @@
 # FILMES-2021
 
+
+
+
+<item>
+<title>[COLOR silver][B] TRÊS HISTÓRIAS DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98eeab6b6dd9f0939a5e48488dd71fe284cf6a8b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uMNQrFEcnfZUYdw3E4E09AOd6lp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na correria da cidade grande, pessoas solitárias encontram fontes de conexão e companhia onde menos esperam nestas três histórias de amor, perda e desejo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A MALDIÇÃO DE ISABELLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9b8751350ff09214976de5cf56747224bab359b</link>
