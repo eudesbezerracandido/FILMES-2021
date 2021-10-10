@@ -2,6 +2,22 @@
 
 
 <item>
+<title>[COLOR silver][B] A MANSÃO - THE MANOR  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97fc262d7aea1bf3300b66cb1e727117e98dcce3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dpz5hyD5YhNMgqnVSvdtMuWmxr4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após sofrer um derrame, Judith Albright é internada em um antigo asilo, onde começa a suspeitar que algo sobrenatural está rodeando os residentes. Para escapar, ela terá que convencer a todos que ela não pertence ali.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MEU IRMÃO,MINHA IRMÃ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GKN2L26J2BDNVTZ7WCIUX3JNVSV4X7HK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lAysbKnY3QoFcChVGKDcvPYInTs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Obrigados a morar juntos para cumprir o testamento do pai, os irmãos Nik e Tesla (e os filhos dela) tentam superar as diferenças e viver em família.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MADRES, MÃES DE NINGUÉM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0da01a99091862d45cc070a4875ae91b9352c51c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/19pHi0qrUKvnUtwx6EoVbFNxg1E.jpg</thumbnail>
