@@ -1,6 +1,37 @@
 # FILMES-2021
 
 
+<item>
+<title>[COLOR silver][B] MADRES, MÃES DE NINGUÉM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0da01a99091862d45cc070a4875ae91b9352c51c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/19pHi0qrUKvnUtwx6EoVbFNxg1E.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nos anos 70, um casal de descendência mexicana, grávidos com sua primeira criança, se mudam para uma comunidade rural no interior da California. Quando a esposa começa a sentir estranhos sintomas e visões aterrorizantes, ela tenta descobrir se é algo relacionado a uma antiga maldição ou algo mais nefasto.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DANO COLATERAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2MXKM6M2D5DG457HVBWYO26MMULHJHDU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/Auwm8mMkJ9HBcM3oOVWrD1MT8oC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Perto de ser promovido, um inspetor de polícia se envolve em um acidente fatal e descobre um plano de vingança que ameaça seus colegas de trabalho.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MALIGNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RS5KJ7ADPK4DMGZ7Z5C2CB6URYSATWYO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Paralisada por visões chocantes de assassinatos brutais, Madison logo descobre que seu tormento irá piorar quando percebe que esses sonhos lúcidos são realidades.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] INFILTRADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10ccb57ea7c6a8ac1e85dae90726699e79cb0e32</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ef2ozkE4AiWwRnyfc9s05sEtAIT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Patrick Hill (Jason Statham), conhecido apenas como “H”, é um homem misterioso que trabalha para uma empresa de carros-fortes e movimenta grandes quantias de dinheiro pela cidade de Los Angeles. Quando, ao impedir um assalto, ele surpreende a todos com suas habilidades de combate, suas verdadeiras intenções começam a ser questionadas e um plano maior é revelado</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] FOREVER RICH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
