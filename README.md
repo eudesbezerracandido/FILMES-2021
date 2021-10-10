@@ -2,11 +2,11 @@
 
 
 <item>
-<title>[COLOR silver][B] VENON 2- TEMPO DE CARNIFICINA HDCAM LEG. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] VENON 2-TEMPO DE CARNIFICINA HDCAM LEG FIXA.[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F4A75367E75C2208C8D9F38A88C5CAC6CE5DEFE6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jNd6tx7FL2h7wtZgLUsLvzD0kFN.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info>Depois de encontrar um corpo hospedeiro no repórter investigativo Eddie Brock, o simbionte alienígena deve enfrentar um novo inimigo, Carnage, o alter ego do assassino em série Cletus Kasady.</info>
 </item>
 
 <item>
