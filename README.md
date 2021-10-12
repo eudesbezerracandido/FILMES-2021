@@ -2,6 +2,30 @@
 
 
 <item>
+<title>[COLOR silver][B] SHANG-CHI- E A LENDA DOS DEZ ANEIS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE1250317890F41719CA76E676BA3F7231AB53F2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uEOmVZwCbmjx4AdpBzTYTb97wBB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Mestre de artes marciais, Shang-Chi é praticamente inigualável. Shang-Chi tem um passado que deixou para trás, mas é novamente confrontado com ele quando se enredar na teia da misteriosa organização dos Dez Anéis. Ao mesmo tempo, Shang-Chi tem de lidar com uma ameaça que se esconde por detrás do nome "Mandarim".</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ESCAPE ROOM 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8afb6d3f243aaa89db3c5e7c6ca5928d2670f929</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ir3cxdjrJJ1r127hCeGneBYe3fS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Seis pessoas se encontram presas em uma nova série de escape rooms, contra a própria vontade, apenas pra descobrir que o que eles tem em comum, além da vontade de sobreviver, é que todos eles já jogaram aquele jogo antes.</info>
+</item> 
+ 
+<item>
+<title>[COLOR silver][B] UM LOBO ENTRE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SRLPV2YQW3ZZLHPUMECCTUIAMSOKC7BC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/i17UiQgqHatZxlfaFQsnvPhYhyi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma maciça nevasca isola uma pequena cidade de Vermont e as pessoas são, uma a uma, escolhidas por uma criatura misteriosa. Um gasoduto criou divisões na pequena cidade de Beaverfield. Quando uma tempestade de neve prende seus residentes dentro da pousada local, o guarda florestal recém-chegado Finn e a funcionária dos correios Cecily devem tentar manter a paz e descobrir a verdade por trás de uma criatura misteriosa que começou a aterrorizar a comunidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VENON 2-TEMPO DE CARNIFICINA HDCAM LEG FIXA.[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F4A75367E75C2208C8D9F38A88C5CAC6CE5DEFE6$nome=VENON LEGENDA FIXA</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:337E1F803E1817E7EA3778F05293BCBCC99B6B16$nome=VENON DUBLADO NÃO OFICIAL</link>
