@@ -12,8 +12,8 @@
 
 <item>
 <title>[COLOR silver][B] CÉU VERMELHO SANGUE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://www.themoviedb.org/t/p/original/zacyfceQWlgA1PbL7PCs8bRTPsI.jpg</link>
-<thumbnail>magnet:?xt=urn:btih:ON6QDQAUBTXHP7FVCJYY3YB6L5E3TR2P</thumbnail>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ON6QDQAUBTXHP7FVCJYY3YB6L5E3TR2P</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zacyfceQWlgA1PbL7PCs8bRTPsI.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Quando um grupo de terroristas sequestra um voo transatlântico, uma mulher com uma doença misteriosa é forçada a revelar o seu segredo tenebroso para proteger o filho.</info>
 </item>
@@ -483,14 +483,6 @@ Enredo: Quando ashley Beck-Ford de 21 anos encontra sua mãe biológica – Sara
 <thumbnail>https://www.themoviedb.org/t/p/original/izKIwWr9LqKfXScLQX5GXPgoPAk.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Este filme, feito na época de “Out and Deluxe”, consiste na batalha mais famosa do espadachim Miyamoto Musashi. Nesta sequência de ação de 77 minutos, uma cena e sem cortes, Miyamoto (Tak Sakaguchi) derrota 588 inimigos, um após o outro. Não há espaço para erros, nem para movimentos cafonas ou não convincentes.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] FREE GUI - ASSUMINDO O CONTROLE ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JQVRVIDCUZ5KSEIE7GJEWU4ZLSSITZVV</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zEAl0w90NxNcXtFPlHyivFlZkbt.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Um caixa de banco, preso em sua rotina, descobre que ele é um personagem de fundo em um jogo de ação-aventura realista, de um mundo que ele é o único capaz de salvá-lo.</info>
 </item>
 
 <item>
