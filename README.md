@@ -2,6 +2,38 @@
 
 
 <item>
+<title>[COLOR silver][B] NA MENTE DO DEMÔNIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0471a25d80126818ea593ed267c6b3437f63570</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rKRra8tFuUKjed2JEpNRXrPkimi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma jovem acidentalmente libera terríveis demônios quando antigas forças demoníacas, relacionadas a uma desavença de décadas entre mãe e filha, são reveladas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UNDER WRAPS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YJS6A6EU6ZK2DE2IPZ4PA6QCAABXZ4ET</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yLnC8LxHyGEhZ1xnqxgjZhzYH7q.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Remake do clássico do Disney Channel de 1997. Os amigos Marshall, Gilbert e Amy acidentalmente ressuscitam e libertam uma múmia de seu sarcófago nos dias que antecederam o Halloween. A princípio apavorados, eles rapidamente descobrem que a múmia que eles chamam afetuosamente de 'Harold' é na verdade muito doce e precisa urgentemente de ajuda.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]   [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B] THE TRIP [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YJS6A6EU6ZK2DE2IPZ4PA6QCAABXZ4ET</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4JOBtzXPXEJ7bv1Dst3PUtXJxpY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um marido problemático (Aksel Hennie) e sua esposa (Noomi Rapace) vão para uma remota cabana perto do lago para reconstruir os laços de seu casamento, mas cada um tem planos secretos de matar o outro. Antes que possam realizar, eles são surpresos por visitantes inesperados e acabam tendo que enfrentar um perigo maior do que o planejado.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FAKE FAMOUS - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UEE6JVHL3CBN6DPJ7DR4TW6UVQUTYAXU</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uAXVDwLbrzzqaX8hHSRoCwBVkWz.jpg</thumbnail>
