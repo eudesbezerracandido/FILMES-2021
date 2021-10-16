@@ -18,14 +18,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]   [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
-</item>
-
-<item>
 <title>[COLOR silver][B] THE TRIP [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YJS6A6EU6ZK2DE2IPZ4PA6QCAABXZ4ET</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4JOBtzXPXEJ7bv1Dst3PUtXJxpY.jpg</thumbnail>
