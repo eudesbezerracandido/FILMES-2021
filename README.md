@@ -2,6 +2,54 @@
 
 
 <item>
+<title>[COLOR silver][B] FAKE FAMOUS - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UEE6JVHL3CBN6DPJ7DR4TW6UVQUTYAXU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uAXVDwLbrzzqaX8hHSRoCwBVkWz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O projeto mostrará a indústria das redes sociais através de um inovador experimento social. Assim, o documentário acompanhará três pessoas de Los Angeles, com poucos seguidores, e mostrará a tentativa de fazer com que eles ganhem um número maiores de pessoas em suas redes, e assim, os transformar em influenciadores famosos.Ao utilizarem serviços ilegais de compra de seguidores falsos e um exército de bots para “engajar” suas redes sociais, esses novos influenciadores vão descobrir as maravilhas, e o lado ruim desse novo, e imersivo, estilo de vida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FREE GUY - ASSUMINDO O CONTROLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1163eec087017c2ca25f013b3fcae6366d75dcd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bAnms4gJ5YkZzZCDkHsRKxEg2Xj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um caixa de banco, preso em sua rotina, descobre que ele é um personagem de fundo em um jogo de ação-aventura realista, de um mundo que ele é o único capaz de salvá-lo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FILHOS DO ÓDIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FJEMHAR2YAGWKBLZ2TH3D7B47JN43ABR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wbleajDCRJcCzn8vNUYxtKrSAvb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Baseado na autobiografia de Bob Zellner, nascido no Alabama e neto de um membro da Ku Klux Klan. Inspirado pelo Rev. Martin Luther King, Jr. e Rosa Parks, foi revigorado por estudantes negros do ensino médio marchando para protestar contra o assassinato de Herbert Lee.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  O FIO INVISÍVEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73a332af42761fd0392fdf30176db58516931d0e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/88SjBbphHV55U6r4MpgEuGFdBLV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma mulher está doente, longe de casa. Um jovem garoto senta ao seu lado. Ela não é sua mãe, ele não é seu filho. Juntos, eles fazem parte de uma assombrosa história de almas perdidas, um fio invisível e o poder e desespero de família.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NO JOGO DO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0655a0dba85aea5af196cc65013857e875279d7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aa6cxHyZpbczm4EekCVUHZH7lg0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de uma troca de casais, quatro amigos devem enfrentar as consequências e revelar verdades profundas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A BATALHA ESQUECIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z4UKAPHYL6DQ6LAWOFF7JAMO6OP7QJXG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kWbI2goToe3p1rJR3aq5zXuhRn5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Três jovens no meio de uma guerra. Suas escolhas diferem, seu objetivo é o mesmo: liberdade. A Batalha Esquecida acompanha as histórias entrelaçadas de um piloto britânico, um garoto holandês lutando do lado alemão e um membro da resistência holandesa. Ambientado em torno da Batalha do Rio Escalda, suas escolhas diferem, mas o objetivo é o mesmo: a liberdade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SHANG-CHI- E A LENDA DOS DEZ ANEIS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE1250317890F41719CA76E676BA3F7231AB53F2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uEOmVZwCbmjx4AdpBzTYTb97wBB.jpg</thumbnail>
