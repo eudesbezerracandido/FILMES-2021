@@ -2,6 +2,31 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] O MATEMÁTICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4622cd195a40244699ace8308b1fdd645cdfd85</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rrDBynsjlDjQ2KkXO69jn1SIAWw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Filme sobre o gênio da matemática, Stanislaw Ulam. Nascido na Polônia, Stanislaw Ulam mudou-se para os EUA na década de 1930, onde suas ideias ajudaram a criar a bomba de hidrogênio e o primeiro computador. O filme, baseado na autobiografia de Ulam, explorará a ciência do século XX, além de contar a história de um imigrante tentando encontrar um novo lar.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LUCKY- UMA MULHER DE SORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c351feccac3f125457c3c638f1c9e1322781f49e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tLeg58YcLbJIDbLeEMYvQlcUmC6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando May começa a desconfiar que está sendo observada por uma figura ameaçadora em sua casa todas as noites, ninguém parece acreditar nela. Incapaz de conseguir ajuda daqueles ao seu redor, ela decide resolver com as próprias mãos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NEEDLE IN A TIMESTACK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BDFXGHBJ2WTBO5PTKC23T2LRX4DGYQXL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rjGYOszxlaUAe6EC5yZ4Q8l3aVL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um marido dedicado se esforça para salvar seu casamento, afetado quando um outro homem usa o poder de viajar no tempo para prejudicá-lo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] UM ANJO EM NOSSAS VIDAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DTLEWMZ6EOP4MSPRUNYLIDVWSRA4TVND</link>
