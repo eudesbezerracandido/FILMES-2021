@@ -1,5 +1,14 @@
 # FILMES-2021
 
+
+<item>
+<title>[COLOR silver][B] O VIGIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a8bd68284897fcd4620b8b4791819008c8e5565</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1FrhYbbHjXJcNS1n80DpUghvagD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A vida organizada do vigia de um sanatório abandonado é perturbada pela chegada de um casal estranho que pede para ficar em um dos quartos. Os três têm algo de que querem fugir e também esconder no deserto.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] HALLOWEEN KILLS- O TERROR CONTINUA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2602B22EA003A672F7CDEAF69EFF67F5EA1096B6</link>
