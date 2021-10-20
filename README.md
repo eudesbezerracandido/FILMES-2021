@@ -1,6 +1,15 @@
 # FILMES-2021
 
 
+
+<item>
+<title>[COLOR silver][B] A PRESENÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fdaee2b8c00a5746c3d5527b43adf80d40ba2de</link>
+<thumbnail>https://ia601405.us.archive.org/20/items/proximity-uk-artwork-1-600x-8001/PROXIMITY-UK-ARTWORK-1-600x8001.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jovem cientista trabalha para a NASA, ele é abduzido por extraterrestres. Quando ninguém acredita em sua história, ele fica obcecado em encontrar provas que o levem a uma jornada de descoberta.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O VIGIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a8bd68284897fcd4620b8b4791819008c8e5565</link>
