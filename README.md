@@ -1,5 +1,15 @@
 # FILMES-2021
 
+
+
+<item>
+<title>[COLOR silver][B] AS PASSAGEIRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EFX3PHBOVJZJYW5XDMX4NEVEEM3AHHGC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4niEFGAUEz3GUqwk9Y2y4aAERhE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um jovem motorista leva duas jovens mulheres bonitas para cinco festas diferentes durante uma noite em Los Angeles, mas logo se vê lutando por sua vida quando descobre que elas não são quem dizem ser.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ATAQUE DOS MORTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZONRVIEROVYWAT5CBW4CSVYZGZOF7DQM</link>
