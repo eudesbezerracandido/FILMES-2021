@@ -1,6 +1,60 @@
 # FILMES-2021
 
+<item>
+<title>[COLOR silver][B] ATAQUE DOS MORTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZONRVIEROVYWAT5CBW4CSVYZGZOF7DQM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jvjADLvRB4UhWDMnfBOHDdDpFqk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um grupo desajustado de habitantes da Pensilvânia se barricou numa velha casa de fazenda para permanecer a salvo de uma horda de zumbis comedores de carne que está devastando a costa leste dos Estados Unidos.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] ONDA DE CHOUE  2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5c4b70728e2bdafa9c116fa5e8a6b6357372f12</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oMtnpQWp8yVZMxbntdEBGFYf4SK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de sofrer ferimentos que mudaram sua vida no cumprimento do dever, o oficial de eliminação de bombas Fung dá as costas à polícia. Mas quando uma série devastadora de bombardeios varre Hong Kong, a polícia suspeita que seu ex-aliado pode estar envolvido depois de ser encontrado inconsciente na cena do crime. Agora confrontado com a perda de memória e relembrando apenas fragmentos de sua vida anterior, Fung parte para descobrir a verdade e descobrir quem ele realmente é.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BROTHERS BY BLOOD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff85b9d68d42f358288a2b63b335309c374be891</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2RKGUCbo2R6IDsufxApL6nRFL4j.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Na Cidade do Amor Fraterno, Peter Flood, de 8 anos, observa desamparadamente enquanto sua irmã mais nova é morta por uma direção imprudente de um vizinho. Peter e Michael, criados nas ruas da Filadélfia, são filhos de membros da máfia irlandesa, para sempre ligados pelos crimes de seus pais. 30 anos depois, Michael agora dirige a organização criminosa e deseja mais poder, suas travessuras perigosas frequentemente controladas por seu primo cauteloso Peter. Assombrado pela morte de sua irmã, cujo falecimento destruiu seus pais, Peter está preso entre os sonhos da infância e as realidades de sua vida como um executor. Seu único alívio é uma academia de boxe local, um santuário que é rapidamente ameaçado conforme o desejo de Michael por controle aumenta.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ENCONTRADAS - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N7XMBSD6H5QUGODMQECOZ2OBZEHQIGTM</link>
+<thumbnail>https://archive.org/download/encontradas-dublado-online/encontradas-dublado-online.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando um teste de DNA revela que são primas, três adolescentes adotadas por famílias diferentes nos EUA viajam à China para conhecer seus pais biológicos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MAIS QUE AMIGOS- VIZINHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:T2JA6DCDOIPBFFO3LEXCCVLYJWWIMYT6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8sshyF0nPAvZTTKIqyZwnRz3AV9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sete famílias vivem no edifício de apartamentos em 8, Rue de l'Humanité, em Paris, e não conseguiram fugir para o interior quando o coronavírus chegou. Três meses em lockdown revelarão o melhor e o pior desses vizinhos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] HERÓI DE DOIS MUNDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LGVHAT5M7YCIE3TE7Z5ZNVBV3UWDIPT5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wA5DBbGpWOI98gjsg0g6ATVJHFU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Seis anos após o sequestro de sua filha, um homem é contratado para matar o autor de um romance de fantasia, mas o mundo do romance parece se cruzar com a realidade.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] COQUETEL EXPLOSIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JKW6LPRWRAOCZVZXBXC4A66O2BTRGLR7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fOo0jPG6FICGA7mzoKgYNCFzNaU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Três gerações de mulheres têm de aprender a confiar umas nas outras, enfrentar a uma implacável organização criminosa, e infernizar a vida de quem lhes pode tirar tudo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A PRESENÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
