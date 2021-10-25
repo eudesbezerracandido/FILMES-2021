@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] PEQUENO LINGUARUDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MRG5J3FGSIKN2OOU6MIZSUIACUQAIMQZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zUaPkPM3epw15ys0htlPJM0Bu0N.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sem banda e sem casa, um divertido guitarrista consegue ajuda de uma família, mas será que esse convívio vai dar certo?</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CRY MACHO- O CAMINHO PARA REDENÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee4a0809e3866e096fc86c9a78ef380d3cb60c81</link>
