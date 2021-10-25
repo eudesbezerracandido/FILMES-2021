@@ -3,6 +3,46 @@
 
 
 <item>
+<title>[COLOR silver][B] CRY MACHO- O CAMINHO PARA REDENÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee4a0809e3866e096fc86c9a78ef380d3cb60c81</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ei16H5IuCVt9pHYdQMkxOXeIkbp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um antigo astro do rodeio que, desesperado por trabalho, aceita escoltar o filho de um ex-patrão do México até os EUA. Forçados a usar caminhos alternativos, os dois acabam construindo um elo inesperado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ADAM-QUAD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C2ARYR4AHS2VOHCHX5MW4H76TCIT3BLG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xAv4u8E6DN5Jc7qjQT3WLQBO4C3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Adam é um jovem trabalhador que está em seu melhor momento. Além de receber uma promoção, ele vive um romance. No entanto, um acidente faz com que ele fique tetraplégico, mudando a sua vida por completo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BANHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29fed94f781a7c6e4a55d97d688a2e099c7a4dee</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aCCTRsvSQ7yhUovvxN8LLCYCMde.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Por causa de seu peso, Butter é o alvo ideal para os valentões da escola. Decidido a pôr um fim nisso, ele põe em marcha umplano macabro: transmitir ao vivo sua “última ceia” na véspera do Ano Novo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MINAMATA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7df8197c66db460906579c4876a880eb8b575f2c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/c0cCscnApG8WfP44VSu7AFLRf5k.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> W. Eugene Smith ganhou fama fotografando nas linhas de frente durante a Segunda Guerra Mundial, mas agora vive como um recluso. Quando o editor da Life Magazine o pede ajuda para expor um grande escândalo, ele retorna ao Japão para revelar ao mundo a realidade dos moradores de Minamata, uma cidade costeira em que a comunidade está sendo envenenada por mercúrio.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O JARDIM DA FÉ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BTENL3BOLINMAUS37UQ2NAQQ3WLJDBNP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9Y2OMKaJ6e6byrum4irkJ5wGzMG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No filme O Jardim da Fé WEB-DL 1080p Dual Áudio, Eddie é um capelão militar idoso que acabou de ficar viúvo e tem um relacionamento ruim com sua única filha. Depois de se mudar para um lugar diferente, em um bairro pobre, Eddie conhece a pequena Hope, uma garotinha com problemas em casa e que, por meio de longas conversas sobre fé, acaba sendo uma luz de esperança para o velho capelão. Aos poucos, Eddie encontra na construção de um jardim uma nova fonte de fé e isso milagrosamente contagia a todos os moradores do bairro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AS PASSAGEIRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EFX3PHBOVJZJYW5XDMX4NEVEEM3AHHGC</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4niEFGAUEz3GUqwk9Y2y4aAERhE.jpg</thumbnail>
