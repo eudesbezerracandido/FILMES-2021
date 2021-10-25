@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] DUNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ADB76E281F8BEC27F44CD52D1B05247939675A73</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/34Hr4bEzF30jd6sEvI4HihEUEI8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um futuro distante, planetas são comandados por casas nobres que fazem parte de um império feudal intergalático. Paul Atreides é um jovem homem cuja família toma controle do planeta deserto Arrakis, também conhecido como Duna. A única fonte da especiaria melange, a substância mais importante do cosmos, Arrakis se prova ser um planeta nem um pouco fácil de governar.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PEQUENO LINGUARUDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
