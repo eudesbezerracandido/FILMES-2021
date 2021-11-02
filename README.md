@@ -1,6 +1,13 @@
 # FILMES-2021
 
 
+<item>
+<title>[COLOR silver][B] A BATALHA ESQUECIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf28a03cf85f870f2c16714bf4818ef39ff826e6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kWbI2goToe3p1rJR3aq5zXuhRn5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um piloto britânico e um garoto holandês lutam uma guerra em lados contrários. Mesmo assim, ambos perseguem o ideal da liberdade. E isso fica claro na Batalha do Rio Escalda, momento históricos repleto de tensão e atos de bravura.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] EXÉRCITO DE LADRÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
