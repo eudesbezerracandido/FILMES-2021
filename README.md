@@ -3,6 +3,22 @@
 
 
 <item>
+<title>[COLOR silver][B] EXÉRCITO DE LADRÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d4f47d7bc3205f1c49d20421f21f082c7695081</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Funcionário de um banco de cidade pequena, Dieter é puxado para uma aventura única ao ser recrutado por uma mulher misteriosa para se juntar à equipe dos criminosos mais procurados da Interpol, na missão de executar uma sequência de assaltos impossíveis através de cofres da Europa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A FAMILIA NOEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16728ca22e56d10e066d74613b0a59fdc5196f17</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xOkrJgY9oHl0FMkR8VqOgYEmp7f.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de descobrir que seu avô é o Papai Noel, Jules tem que ajudá-lo a entregar seus presentes em todo o mundo. Mas o ódio de Jules pelo Natal pode tornar isso mais difícil do que o Papai Noel pensava.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DUNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A6TJJMX5I3W3RQJZHCA3O4CL5G7FF7NJ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/34Hr4bEzF30jd6sEvI4HihEUEI8.jpg</thumbnail>
