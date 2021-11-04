@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] O COMITÊ DE DEUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CY36W5KKT7K2WEH3UTNZCGGNDUT2SZZG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p1dXPdz5C1tPpPIy3kth3rTCOQe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O filme segue o coração de um doador sendo levado a um hospital de Nova York, onde um comitê de transplante tem uma hora para decidir qual paciente é o receptor. A história também explora o impacto dessa decisão seis anos depois.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] OS REIS DA FRAUDE- DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de52b5350471d394e2a614ec8dab564928165d36</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/k6VbK5WgC670rnb3EYt4tL0wMVW.jpg</thumbnail>
