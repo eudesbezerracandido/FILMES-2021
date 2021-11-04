@@ -1,6 +1,56 @@
 # FILMES-2021
 
 
+
+
+<item>
+<title>[COLOR silver][B] O CAMPO SECRETO PARA NAZISTAS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8e4fdcefef1309f6609b33f6acd14dc820a9e95</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eOwaUeFNsQt5ALBfZNPye33vBrS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Neste curta documental, veteranos da Segunda Guerra revelam um campo militar secreto nos EUA onde soldados judeus interrogaram prisioneiros de guerra nazistas. Camp Confidential: Americas Secret Nazis, um curta documental com animação, dirigido por Daniel Sivan e Mor Loushy (The Devil Next Door, The Oslo Diaries) e produzido por Benji e Jono Bergmann (Wirecard, Mau)</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FOUR GOOD DAYS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fadaaa3a57b4f6968adc2eeef1a8e907e357d34</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/n3zOpdd8pWZrxgLHSGBLjLICFi1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Deb (Glenn Close), uma mãe que ajuda sua filha Molly (Mila Kunis) a se recuperar do abuso de drogas. O tempo que passam juntas depois de um longo distanciamento, revive ambas as feridas dolorosas que magoaram uma a outra, mas também oferece a oportunidade de reavivar o amor de mãe e filha.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ASASSINS - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZUG5XGNOFZYF6YWFAKMZ74EMNHFLHXJI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/guEH393qNWWh2wBJoGP7oqmjTK5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um relato das duas mulheres condenadas pelo assassinato do meio-irmão de Kim Jong-un, Kim Jong-nam. O filme acompanha os julgamentos das mulheres na tentativa de entender se elas são assassinas treinadas ou simplesmente peões.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] EFEITO FLASHBACK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a2175f43f483496de2ef8fb8061475d282c1552e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/z8DPeAno9IT47gCQBrKqJ9czUyI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após um encontro casual com um homem esquecido desde sua juventude, Fred (O'Brien) viaja ao seu passado literal e metaforicamente. Lentamente ele começa a desvendar um longo mistério oculto sobre uma garota desaparecida, uma droga chamada Mercury e uma criatura aterrorizante que agora o seguiu até a idade adulta.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VINGANÇA E CASTIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Y7EW522GPXNAVJB4PYEZTX3WFTULYRBE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nk4Vx7u3B3M00J1kCydmDvQ6Xyu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nat Love (Jonathan Majors) descobre que o homem que matou seus pais há duas décadas está sendo libertado da prisão. Ele se reúne com sua gangue para rastrear seu inimigo e buscar sua vingança.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] OS MUITOS SANTOS DE NEWARK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZNUCR23XBZ7JBOMEN5CCGFVW3ATLIP4B</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1UkbPQspPbq1FPbFP4VV1ELCfSN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O jovem Anthony Soprano (Michael Gandolfini) foi criado em uma das mais tumultuadas épocas da história de Newark, tornando-se um homem justamente quando gângsteres rivais começam a se erguer e desafiar o domínio da soberana família criminosa, os DiMeo, sobre a cidade cada vez mais racialmente dividida. Apanhado nos tempos de mudança está o tio que ele idolatra, Dickie Moltisanti (Alessandro Nivola), que luta para manter as responsabilidades profissionais e pessoais - e cuja influência sobre o sobrinho ajudará a transformar o impressionável adolescente no chefe da máfia todo-poderoso que mais tarde conheceremos:</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A BATALHA ESQUECIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf28a03cf85f870f2c16714bf4818ef39ff826e6</link>
