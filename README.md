@@ -1,7 +1,12 @@
 # FILMES-2021
 
-
-
+<item>
+<title>[COLOR silver][B] POSSESSOR: INVASORES DE MENTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84c118017cb9ddc25c75ee722b3ba44fbedf52e4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oLQlUUSlI669r1bgQ7AlnjcrrvC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Tasya Vos é uma agente de uma organização secreta que usa uma tecnologia implantada no cérebro para habitar corpos de outras pessoas – em última análise, levando-os a cometer assassinatos para clientes milionários. Mas quando um trabalho dá errado, Tasya se vê presa na mente de um hospedeiro imprevisível.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O CAMPO SECRETO PARA NAZISTAS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
