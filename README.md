@@ -5,8 +5,8 @@
 
 <item>
 <title>[COLOR silver][B] 007- SEM TEMPO PARA MORRER ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67B02D9A55AD61BBE5FF17C56DC662E725A7B127$nome=DUBLADO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72A8A7ECCF83B093875C0EA07832F3881F4278EC$nome=LEGENDA FIXA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67B02D9A55AD61BBE5FF17C56DC662E725A7B127$nome=007 DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72A8A7ECCF83B093875C0EA07832F3881F4278EC$nome=007 LEGENDA FIXA</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/b69JOlKOwus7rkKKUZwniY1mCwX.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Bond deixou o serviço ativo e está desfrutando de uma vida tranquila na Jamaica. Sua paz é interrompida quando o seu velho amigo Felix Leiter, da CIA, aparece pedindo sua ajuda. A missão de resgatar um cientista sequestrado acaba sendo muito mais difícil do que o esperado, deixando Bond no caminho de um vilão misterioso e armado com uma nova tecnologia perigosa.</info>
