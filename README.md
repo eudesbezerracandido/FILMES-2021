@@ -1,5 +1,31 @@
 # FILMES-2021
 
+
+
+<item>
+<title>[COLOR silver][B] OS REIS DA FRAUDE- DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de52b5350471d394e2a614ec8dab564928165d36</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k6VbK5WgC670rnb3EYt4tL0wMVW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Veja a ascensão e queda dos golpistas que enganaram o sistema de cotas de carbono da União Europeia e embolsaram bilhões, até o dia em que viraram inimigos</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] APEX [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LPYP5Q2HRH4QFUZCKS77V7LO7QXWBI5V</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iCVLDTGFJXSPtdMmdbVnmfJ3wPQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Cinco caçadores de elite pagam para caçar um homem em uma ilha deserta. Conforme a caça avança, os caçadores se tornam presas de suas presas que demonstram um nível de sobrevivência desconhecido.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AS VERDADERIRAS AVENTURAS DO MENINO LOBO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:189e2e19cccb40e13d68a54622998257381eecc0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/A2N8JHD4NHBhtWvfKlA4jqEfPCQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Paul (Jaeden Martell) vive com o pai e tem dificuldade em estabelecer amizades porque ele sofre de Hipertricose Lanuginosa Congênita, uma doença rara que faz com que cresça uma quantidade anormal de pêlos no rosto e no resto do corpo. Quando completa 13 anos de idade, Paul sai de casa para procurar sua mãe biológica, com o objetivo de obter respostas para todas as suas dúvidas.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] POSSESSOR: INVASORES DE MENTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84c118017cb9ddc25c75ee722b3ba44fbedf52e4</link>
