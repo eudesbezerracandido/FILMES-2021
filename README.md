@@ -1,6 +1,45 @@
 # FILMES-2021
 
 
+<item>
+<title>[COLOR silver][B] ALGUM LUGAR ESPECIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OAFRPK4K23CVRATPVHW5IZKP2OC3T3A2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bTMPKAcxw7LDWeXFlRaFViyTK45.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>John dedicou sua vida a criar seu filho, depois que a mãe da criança os deixou logo após o parto. Quando John tem apenas alguns meses de vida, ele tenta encontrar uma família nova e perfeita para seu filho de três anos, determinado a protegê-lo da terrível realidade da situação.Baseado em eventos reais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM MATCH SURPRESA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z3CVYYHCTVG6SV6ORJBAMQRFJF6GRZBF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3VoTb0s7nbCeotnDU27hBk9Olt9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Azarada no amor, uma jovem (Nina Dobrev) se apaixona por um cara do outro lado do país, devido a um aplicativo de namoro. Quando ela decide o surpreender no Natal, acaba descobrindo que estava conversando com uma pessoa completamente diferente. Mas ele promete que consegue juntá-la com o cara das fotos, que vive na mesma cidade, se ela fingir ser sua namorada no feriado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] YARA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5IFV3SEC74ZBKYD7BTMJHRXUKIDSM5V4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qRllCnVXSfOH665gWxOL4V6cj8b.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma promotora determinada é consumida pelo caso de uma menina de 13 anos desaparecida e faz de tudo para descobrir a verdade. Baseado em um caso real.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MOSCOW- ONDE O INESPERADO ACONTECE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f5730a3c70e21fac6be368f3b29094216c2baa7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lmhvzr4UvmiFYzaH7zfjM5UXABO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Moscow conta a história de uma mulher forte e cheia de personalidade, seu nome é VAL, ela vive em uma cidade turbulenta e assolada por gangues e violência. Em um contexto atemporal, mantendo um visual e fotografia marcantes, o filme se passa na maior parte em um Club noturno de Jazz, onde a Val trabalha como Gerente do local.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FINCH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:650c9c4b34b56935e8f770f8b10e6c9c858869e6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um mundo pós-apocalíptico um robô é criado para proteger o cachorro de seu criador doente. Ele aprenderá lições sobre o amor, amizade e a importância da vida humana.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] 007- SEM TEMPO PARA MORRER ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
