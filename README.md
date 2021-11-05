@@ -1,6 +1,15 @@
 # FILMES-2021
 
 
+
+<item>
+<title>[COLOR silver][B] A OUTRA FACE DA GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d89a34a75fe210511201e717f7d82fc664169b36</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/arlwPVSQg3fsBCDhwORpiHnZjYt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A adolescente história de amor de Arturs, de dezesseis anos, é interrompida pela Primeira Guerra Mundial. Depois de perder sua mãe, assassinada pelos alemães, e sua casa, ele encontra algum consolo em se alistar no exército, pois, pela primeira vez, o Império Russo estava permitindo batalhões nacionais. No entanto, a guerra não é nada como Arturs imaginou sem glória e sem justiça e ele, juntamente com seu irmão e seu pai, acabam vivenciando os piores horrores presentes naquela conjuntura.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ALGUM LUGAR ESPECIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OAFRPK4K23CVRATPVHW5IZKP2OC3T3A2</link>
