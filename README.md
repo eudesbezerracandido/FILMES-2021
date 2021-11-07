@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] THE ARMITYVILLE MOON  LEG.[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20FCAB8116503A6685D0776756C88D6CCE89909F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/r5jq8fOkET3PCZLXSWP2bX9zw39.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um detetive é contratado para encontrar duas fugitivas de um lar administrado pela Igreja. Depois de encontrar e devolver uma das garotas, ele descobre um terrível segredo no local: Um lobisomem matando e comendo todas as residentes.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ETERNOS HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HLWFO3KR6WHRBWYIYSEPYTCQ3JFVIOFC$nome=ETERNOS TORRENT</link>
 <link>https://seriesflix4k.com/filmes/assistir-eternos-online-htr001$nome=ETERNOS LINK DIRETO</link>
