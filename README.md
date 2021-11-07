@@ -4,7 +4,6 @@
 <item>
 <title>[COLOR silver][B] THE ARMITYVILLE MOON  LEG.[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20FCAB8116503A6685D0776756C88D6CCE89909F</link>
-<link>https://s-delivery9.mxdcontent.net/v/6ed548d0a5e2f892d73b3b711d51df83.mp4?s=SdSIl4rLRopnNn_Q_VHdYQ&e=1636337245&_t=1636318853</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/r5jq8fOkET3PCZLXSWP2bX9zw39.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um detetive é contratado para encontrar duas fugitivas de um lar administrado pela Igreja. Depois de encontrar e devolver uma das garotas, ele descobre um terrível segredo no local: Um lobisomem matando e comendo todas as residentes.</info>
