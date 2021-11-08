@@ -2,6 +2,21 @@
 
 
 
+<item>
+<title>[COLOR silver][B] A LENDA DO SUBMUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8d050acf3a0b9427d7e72d0bbf8da13f262db6f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/i388tln63NS5rI7e60cr8MWp6Ht.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um olhar marcante e oportuno para a luta contra a discriminação galopante na Nigéria hoje, vista através das lentes de vários jovens corajosos e carismáticos, não conformistas que lutam para viver a vida em voz alta. Por meio da mídia social, celebridade e expressão criativa, eles desencadeiam um debate cultural que desafia os ideais de conformidade de gênero e direitos humanos na Nigéria.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AMINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:584a4acc5d3e726a674cab7fcb7109615a4abec4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gII53HAH7UA1yx189vROMzWA5ib.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No século XVI, em Zazzau, atual Zaria, na Nigéria, Amina usa suas habilidades e táticas militares para defender o reino da família. Baseado em uma história real.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MATE OU MORRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
