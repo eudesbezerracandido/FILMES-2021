@@ -1,6 +1,16 @@
 # FILMES-2021
 
 
+
+
+<item>
+<title>[COLOR silver][B] MATE OU MORRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de9c096f4cc8664a58b6e514a4943bc873c5d710</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6DdUiTz2K70KiETscaHTyiYvMv8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Todos os dias, um veterano aposentado das forças especiais (Frank Grillo) está preso em um ciclo sem fim, resultando em sua morte. Para parar o seu sofrimento interminável, ele deve descobrir e deter quem é o responsável por isso.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] THE ARMITYVILLE MOON  LEG.[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HLWFO3KR6WHRBWYIYSEPYTCQ3JFVIOFC</link>
