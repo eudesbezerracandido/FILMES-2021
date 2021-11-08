@@ -1,9 +1,16 @@
 # FILMES-2021
 
 
+<item>
+<title>[COLOR silver][B] O ÚLTOMO CRUZEIRO- DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6V3WYPKOSJ2XARFDRB33EITZ5BJ5F4D2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mJAoq9YCQd0avbaTICAguHs4GUI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Documentário que acompanha o primeiro e maior surto de COVID-19 fora da China: o do cruzeiro de luxo Diamond Princess.</info>
+</item>
 
 <item>
-<title>[COLOR silver][B] A LENDA DO SUBMUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] A LENDA DO SUBMUNDO- DOCUMNTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8d050acf3a0b9427d7e72d0bbf8da13f262db6f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/i388tln63NS5rI7e60cr8MWp6Ht.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
