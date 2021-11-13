@@ -1,6 +1,20 @@
 # FILMES-2021
 
+<item>
+<title>[COLOR silver][B] A ULTIMA FLORESTA - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a3d04785c7b43d7fecc1643a3fa</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/luHuuN6phyHvw1E67Y0JTRTckHy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em uma tribo Yanomani isolada na Amazônia, o xamã Davi Kopenawa Yanomani tenta manter vivos os espíritos da floresta e as tradições, enquanto a chegada de garimpeiros traz morte e doenças para a comunidade. Os jovens ficam encantados com os bens trazidos pelos brancos; e Ehuana, que vê seu marido desaparecer, tenta entender o que aconteceu em seus sonhos.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] ESQUECERAM DE MIM NO LAR DOCE LAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79b0cecb44b8aa5055eceddf6b7ea90c93ee70df</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/exMwWR4b80r6V6MJKtTnmQ6SseO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A nova versão conta com Archie Yates (Jojo Rabbit) como Max, um menino que é deixado em casa pela família enquanto eles viajam a Tóquio. Como no filme original, uma dupla de ladrões tenta assaltar a casa, mas o que eles não esperam é que Max prepara diversas armadilhas para impedi-los de entrar e roubar o local.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ALERTA VERMELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
