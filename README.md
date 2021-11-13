@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] THE DEEP HOUSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbd043047897ded91f59e0f13189ece6037ab117</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/52E0LGcMKHOO91P4j6hdHKVwITP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Enquanto mergulham em um remoto lago francês, dois youtubers especializados em exploração subaquática encontram uma casa submersa nas profundezas. O que era para ser uma rara descoberta logo se transforma em pesadelo quando eles percebem que não estão sozinhos na casa.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] IDENTIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G2GRGG3EPXCGAM5VDEXU4SPFUGPAELZS</link>
