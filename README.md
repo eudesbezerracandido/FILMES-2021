@@ -475,8 +475,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] SHANG-CHI- E A LENDA DOS DEZ ANEIS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE1250317890F41719CA76E676BA3F7231AB53F2</link>
+<title>[COLOR silver][B] SHANG-CHI- E A LENDA DOS DEZ ANEIS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f7d892489a2731fe5321d565c2f3edb0f434b06</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uEOmVZwCbmjx4AdpBzTYTb97wBB.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Mestre de artes marciais, Shang-Chi é praticamente inigualável. Shang-Chi tem um passado que deixou para trás, mas é novamente confrontado com ele quando se enredar na teia da misteriosa organização dos Dez Anéis. Ao mesmo tempo, Shang-Chi tem de lidar com uma ameaça que se esconde por detrás do nome "Mandarim".</info>
