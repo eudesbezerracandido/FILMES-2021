@@ -4,6 +4,22 @@
 
 
 <item>
+<title>[COLOR silver][B] CONTRA O RELOGIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10e33132b11c89189638ea0e12860d3175c59c0b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/KvhqUA8EtywXYCHb9up4cnG5en.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nine friends, all harboring a dark secret, go camping in the woods. After a wild night of partying, they wake up with SUICIDE BOMBS strapped to their chests, all with varying times on their countdown clocks. They decide to work out how to disarm the bombs or find help until they discover they can ‘take’ one another’s time by killing each o</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ENTRE TIROS E BEIJOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CS2P7HBTCVKIBNUEN4HPIMEUMYFVCVZM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1ylyVg32Mt2zdOJCECG1voYny90.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Os Rathcarts e os Gibbons são os modernos Montagues e Capulets, duas famílias rivais que controlam, cada uma, seu próprio império de mídia na cidade de Nova York.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] THE DEEP HOUSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbd043047897ded91f59e0f13189ece6037ab117</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/52E0LGcMKHOO91P4j6hdHKVwITP.jpg</thumbnail>
