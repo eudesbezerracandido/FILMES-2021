@@ -1,5 +1,15 @@
 # FILMES-2021
 
+
+
+<item>
+<title>[COLOR silver][B] IDENTIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G2GRGG3EPXCGAM5VDEXU4SPFUGPAELZS</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/t4tYUT1oSWOP6XKZBoclPAG96KP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Irene Redfield (Tessa Thompson) e Clare Kendry (Ruth Negga) têm algo em comum: ambas são mulheres negras de pele clara que podem se passar por brancas. Essa, porém, é a única similaridade entre elas. Após perderem contato durante a adolescência, as duas se reencontram por acaso em uma cafeteria de um hotel em Chicago. Um encontro que muda para sempre a dinâmica entre as duas mulheres, suas famílias e suas comunidades.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A ULTIMA FLORESTA - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a3d04785c7b43d7fecc1643a3fa</link>
