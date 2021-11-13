@@ -1,6 +1,15 @@
 # FILMES-2021
 
 
+
+<item>
+<title>[COLOR silver][B] ALERTA VERMELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FT22K6T7LG5TSEJWDXXMSL7L7XTKE75H</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pe17f8VDfzbvbHSAKAlcORtBHmW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No mundo do crime internacional, a INTERPOL lança um Alerta Vermelho, o que inicia uma caçada para capturar a mais notória ladra de artes do globo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O ÚLTOMO CRUZEIRO- DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6V3WYPKOSJ2XARFDRB33EITZ5BJ5F4D2</link>
