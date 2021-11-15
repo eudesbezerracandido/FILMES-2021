@@ -1,7 +1,21 @@
 # FILMES-2021
 
 
+<item>
+<title>[COLOR silver][B] DNA ASSASSINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5728307c7fbc25d92eb9aa087d838a9670d7e9d5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/liA5HLE5QZ1MGcpvHoTAIT0VYqt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No aniversário de Sarah, sua melhor amiga Victoria lhe dá um kit de teste genético de presente. Mas naquela noite, Victoria morre. Semanas depois, Sarah recebe a visita da polícia.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] GÊMEA ASSASSINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d475ec2dcb69afccc5a09a8aefa875fa1d2b598</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/78829GwYHKxsoHJwRO7y1Q1e40g.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma estudante universitária recebe a surpresa de uma vida quando conhece a irmã gêmea que nunca soube que tinha. No entanto, a feliz reunião logo se transforma em um pesadelo quando ela descobre seu plano de roubar sua identidade.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CONTRA O RELOGIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
