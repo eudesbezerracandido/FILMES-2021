@@ -184,7 +184,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/p1dXPdz5C1tPpPIy3kth3rTCOQe.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O filme segue o coração de um doador sendo levado a um hospital de Nova York, onde um comitê de transplante tem uma hora para decidir qual paciente é o receptor. A história também explora o impacto dessa decisão seis anos depois.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] OS REIS DA FRAUDE- DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
