@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] SOZINHO COM O INIMIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33a51ad6983934d63506d8a89ed2810a6ca67097</link>
+<thumbnail>https://ia601507.us.archive.org/34/items/download_20211118/download.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sozinho em uma fazenda isolada, Henry, 12 anos, está em meio a um sombrio segredo de uma família conturbada quando seu misterioso avô morre durante a noite e ele se torna o alvo de um vizinho assassino.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AMOR A TRÊS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TBU6HKDGRQCDILJRSTK3XD4HTPXHTTOH</link>
