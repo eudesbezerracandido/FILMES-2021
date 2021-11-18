@@ -1,6 +1,23 @@
 # FILMES-2021
 
 
+
+<item>
+<title>[COLOR silver][B] AMOR A TRÊS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TBU6HKDGRQCDILJRSTK3XD4HTPXHTTOH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qE7AeMCVl7zZ4LjrKWhltjNgwBu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Enquanto uma mulher no auge de seus trinta e poucos anos descobre sobre si própria e os mistérios de sua vida, ela embarca em uma jornada de amor, aventuras e acasos surpreendentes.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A LENDA DE CANDYMAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3eccb9915b943540c9ec3d743173605f1d107930</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/51Zvpg2kAIrzPdsQcIWojJhEhyS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Com a carreira à beira da estagnação, o artista visual Anthony McCoy descobre a obscura história do Candyman, uma antiga lenda urbana local que ele começa a usar como inspiração para suas pinturas, sem saber que está abrindo uma porta para um passado complexo que desafia sua própria sanidade e desencadeia uma onda de violência terrivelmente viral que o coloca em rota de colisão com o destino.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DNA ASSASSINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5728307c7fbc25d92eb9aa087d838a9670d7e9d5</link>
