@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] O DIREITO DE VIVER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TWOW67R73772N4HLRRMSI5TSBTVYRTGI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sptlLkqsAPOC191pLw32uQwRY1e.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O Dr. Bernard Nathanson e o Dr. Mildred Jefferson se enfrentam em uma batalha nacional nesta conspiração incalculável que levou ao mais famoso e controverso processo judicial da história.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SOZINHO COM O INIMIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33a51ad6983934d63506d8a89ed2810a6ca67097</link>
 <thumbnail>https://ia601507.us.archive.org/34/items/download_20211118/download.jpg</thumbnail>
