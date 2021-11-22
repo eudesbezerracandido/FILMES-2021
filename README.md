@@ -2,6 +2,37 @@
 
 
 
+<item>
+<title>[COLOR silver][B] AMA-ME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81ddf58b1aae3596eaa389349e604184c3ec8b77</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wNa385dqe8onEvrRx1NHJc7NwM9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Acompanhado por um carcereiro, um prisioneiro é autorizado a viajar até sua cidade natal para reencontrar a filha.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PERDIDOS NA ESCURIDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0188e45363397e9489ec653cf3639b5c77dc17d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xMkS2EImCdeNMQaJxntGyjNNkhh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história de amor de um casal que deve enfrentar a vida depois de um acidente de carro devastador.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SHANG-CHI- E A LENDA DOS DEZ ANEIS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccfe0b9bfe7a3548b95e0119a73c6f067aa40363</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uEOmVZwCbmjx4AdpBzTYTb97wBB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Mestre de artes marciais, Shang-Chi é praticamente inigualável. Shang-Chi tem um passado que deixou para trás, mas é novamente confrontado com ele quando se enredar na teia da misteriosa organização dos Dez Anéis. Ao mesmo tempo, Shang-Chi tem de lidar com uma ameaça que se esconde por detrás do nome "Mandarim".</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] QUEM É VOÇÊ, CHARLIE BROWN? [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26c768c05cc141b859bbbdf555126e23bc63bf0d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/khaC503gF2X3Nuu5hq8Tdw3DZ50.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Lupita Nyong’o narra documentário sobre a turma do Snoopy e seu criador, Charles M. Schulz. Fãs famosos, Drew Barrymore, Kevin Smith e Al Roker falam sobre a sua influência e Charlie Brown vive uma nova aventura animada.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O DIREITO DE VIVER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -578,14 +609,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/kWbI2goToe3p1rJR3aq5zXuhRn5.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Três jovens no meio de uma guerra. Suas escolhas diferem, seu objetivo é o mesmo: liberdade. A Batalha Esquecida acompanha as histórias entrelaçadas de um piloto britânico, um garoto holandês lutando do lado alemão e um membro da resistência holandesa. Ambientado em torno da Batalha do Rio Escalda, suas escolhas diferem, mas o objetivo é o mesmo: a liberdade.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] SHANG-CHI- E A LENDA DOS DEZ ANEIS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f7d892489a2731fe5321d565c2f3edb0f434b06</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/uEOmVZwCbmjx4AdpBzTYTb97wBB.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Mestre de artes marciais, Shang-Chi é praticamente inigualável. Shang-Chi tem um passado que deixou para trás, mas é novamente confrontado com ele quando se enredar na teia da misteriosa organização dos Dez Anéis. Ao mesmo tempo, Shang-Chi tem de lidar com uma ameaça que se esconde por detrás do nome "Mandarim".</info>
 </item>
 
 <item>
