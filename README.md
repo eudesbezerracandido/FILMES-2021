@@ -1,6 +1,21 @@
 # FILMES-2021
 
 
+<item>
+<title>[COLOR silver][B] TICK,TICK BOOM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3779dd9f106872b159b76605ba96908a5f152046</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8VejFzl54h14NmDjoN10FzWI4wE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Durante os anos 90, um aspirante a compositor (Andrew Garfield) trabalha como garçom enquanto escreve o que espera ser o maior musical americano que lhe revelará. Se aproximando de seu aniversário de 30 anos, ele começa a se questionar se perseguir o sonho impossível vale a pena ou não.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A PRINCESA E A PLEBEIA-AS VILÃS TAMBÉM AMAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IJOKDVFAGNV3V774NYSM5CSSL2S44WON</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eNOvGQ3rMPtHqQxXqKvHlQCwS3E.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma relíquia de valor incontestável é roubada, e a Princesa Stacy pede ajuda à Lady Fiona, a ambiciosa prima da Rainha Margaret. Para recuperar a joia, ela se une a um misterioso homem de seu passado, o que acaba reacendendo a chama de um romance natalino irresistível. O resultado é uma mudança totalmente inesperada.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] AMA-ME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
