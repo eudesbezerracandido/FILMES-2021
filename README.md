@@ -2,6 +2,38 @@
 
 
 <item>
+<title>[COLOR silver][B] GHOSTBUSTER-MAIS ALÉM ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ULEKOHN6I3LWKVHKIUFN3VW66644RRTW</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tMMk6bCiXbHObYHQYogADAWUfw3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mãe solteira (Carrie Coon) resolve se mudar para uma pequena cidade do interior com seus filhos (Finn Wolfhard e Mckenna Grace), e acaba descobrindo uma conexão com os Caça-Fantasmas originais e o que o seu avô deixou para trás como legado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PROCESSION-DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LHG5IMZP6GCZEHJIED5EJ6AGZTC4UXLR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1mRucSorKd2Z1WdizhJc3rrqyA8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Seis homens que sofreram abusos sexuais por membros da igreja católica quando crianças criam curtas-metragens inspirados nesse trauma.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CORES DO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WEGUAHDURJI6EKNTJ5X26ZR4V6G3OJ2Y</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mKkfxvjnZstMmQCbolFDWREhxCX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando a bibliotecária Taylor Harris repentinamente perde o emprego, ela se muda de volta para sua pequena cidade natal em Montana. Lá, ela se envolve na luta para ajudar a salvar o pequeno hotel de seu irmão do magnata Joel Sheenan, que quer renová-lo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AFTER-DEPIS DO DESENCONTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BR4DAFID3IPMYWRICMYX43UL266ZW6WJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eZwC4FW5rFvYa0gzZJIHQwLSgbz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Enquanto a vida de Tessa (Josephine Langford) vai desmoronando, Hardin (Hero Fiennes Tiffin) descobre um grande segredo que ela estava guardando. Agora, ao invés de ser compreensível, ele começa a se autosabotar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TICK,TICK BOOM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3779dd9f106872b159b76605ba96908a5f152046</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8VejFzl54h14NmDjoN10FzWI4wE.jpg</thumbnail>
