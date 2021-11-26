@@ -1,6 +1,31 @@
 # FILMES-2021
 
 
+
+<item>
+<title>[COLOR silver][B] A MAIS PURA VERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GIYPIKK2MSR257HIPKBBV3F5NJUTT5NQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/elp3vyQs7FDZ9b0fnGpuykuYAri.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Numa temporada de shows do humorista na Filadélfia, Kid corre risco de destruir seu legado artístico após uma noite de consequências imprevisíveis na companhia de Carlton.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UMA NOITE DE CRIME- A FRONTEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:M5LNZFKE73GXB4HM5DJBLJ74GZBXV3OC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2qR1siRIq8xbBVD21BXnVBMNaqm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após uma conturbada eleição e a abolição da Noite do Expurgo, Adela (Ana de la Reguera) e Juan (Tenoch Huerta) se refugiam em um rancho texano, escapando de um cartel de drogas no México. As coisas se complicam quando um grupo de forasteiros decidem continuar o Expurgo após o tempo permitido onde as pessoas podem quebrar todas as leis.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VENON 2-TEMPO DE CARNIFICINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b019304dd9a72f74675d1a9411973fdef6545b2f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kz7xJLowO4x0BpcB1IJb9uIXgrq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de encontrar um corpo hospedeiro no repórter investigativo Eddie Brock, o simbionte alienígena deve enfrentar um novo inimigo, Carnage, o alter ego do assassino em série Cletus Kasady.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] GHOSTBUSTER-MAIS ALÉM ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ULEKOHN6I3LWKVHKIUFN3VW66644RRTW</link>
@@ -672,16 +697,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/i17UiQgqHatZxlfaFQsnvPhYhyi.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Uma maciça nevasca isola uma pequena cidade de Vermont e as pessoas são, uma a uma, escolhidas por uma criatura misteriosa. Um gasoduto criou divisões na pequena cidade de Beaverfield. Quando uma tempestade de neve prende seus residentes dentro da pousada local, o guarda florestal recém-chegado Finn e a funcionária dos correios Cecily devem tentar manter a paz e descobrir a verdade por trás de uma criatura misteriosa que começou a aterrorizar a comunidade.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] VENON 2-TEMPO DE CARNIFICINA HDCAM LEG FIXA.[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F4A75367E75C2208C8D9F38A88C5CAC6CE5DEFE6$nome=VENON LEGENDA FIXA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:337E1F803E1817E7EA3778F05293BCBCC99B6B16$nome=VENON DUBLADO NÃO OFICIAL</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32775F44230948ED3851B7C823F3BD8029B4C909$nome=VENON LEGENDADO FIXO</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/kz7xJLowO4x0BpcB1IJb9uIXgrq.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Depois de encontrar um corpo hospedeiro no repórter investigativo Eddie Brock, o simbionte alienígena deve enfrentar um novo inimigo, Carnage, o alter ego do assassino em série Cletus Kasady.</info>
 </item>
 
 <item>
