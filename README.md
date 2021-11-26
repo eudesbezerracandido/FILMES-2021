@@ -2,6 +2,39 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] NATAL EM 8 BITS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DBBYKIOQ62REYNDJBHPMBL3O3VYBG4JE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jbk9yoeAVkcpzt49s8Inbnz6iNw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O filme conta a história de Jake Doyle, um garoto de dez anos que trava uma verdadeira batalha para conseguir o melhor presente de Natal em sua época: Um Nintendo Entertainment System.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM MENINO CHAMADO NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WY6JRUDSYUXYUEWXOFUZWQTQJTZY3RV3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ik7x3QS4LVfZPMV4lAIFtoh7ASS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>'A Boy Called Christmas' passa-se na Finlândia e segue um garoto de 11 anos chamado Nikolas. Apelidado de Christmas porque nasceu no dia de Natal, Nikolas vive com seu pai lenhador - sua mãe foi morta por um urso anos antes - em uma terra intemporal, um conto de fadas. A partir daí, a história se transforma em conto mágico com elfos, renas e uma missão.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] QUERIDO NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6f7aa94468088d2a01012d80bc9387d7becd584</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zJPQ98VPVWWQIN8WGfDXSZxJCwJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Natalie Morgan é a apresentadora do podcast popular, Holiday Love, que compartilha histórias verdadeiras de romance de férias com seus ouvintes. Embora para o mundo exterior e seus ouvintes em todos os lugares, Natalie seja uma especialista em romance, ela nunca teve um romance próprio de verdade. Enquanto Natalie se prepara para embarcar em uma turnê promocional de seu novo livro, ela volta para casa para passar o Natal com sua família, onde ela inesperadamente começa a vivenciar seu próprio romance de férias enquanto faíscas acendem com o bombeiro local Jack.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FERIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XQZ6HEY2RPSSML4FX4YBQUA6F662LMEO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/axibOQF9QnThrr8M37ufAYurP4R.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jackie Justice, uma veterana lutadora de MMA, enfrenta o pior momento de sua carreira após uma grande derrota. No entanto, quando Manny, o filho que ela abandonou, reaparece, Jackie terá que fazer o possível para dar a volta por cima - tanto no esporte, quanto na vida como mãe.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A MAIS PURA VERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GIYPIKK2MSR257HIPKBBV3F5NJUTT5NQ</link>
@@ -51,7 +84,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] AFTER-DEPIS DO DESENCONTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] AFTER-DEPOIS DO DESENCONTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BR4DAFID3IPMYWRICMYX43UL266ZW6WJ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eZwC4FW5rFvYa0gzZJIHQwLSgbz.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
