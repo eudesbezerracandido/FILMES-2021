@@ -1,7 +1,21 @@
 # FILMES-2021
 
 
+<item>
+<title>[COLOR silver][B] O NATAL DOS DARLINGTONS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/h18hQf5ZZ2qrX6b7wMF5pPDmiSk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Jessica vai ajudar o seu charmoso irmão mais novo a cuida de seus sobrinhos órfãos durante o Natal. A assistente de uma firma de advocacia decide pedir demissão, mas ela se vê obrigada a ajudar o irmão mais novo de seu chefe enquanto ele cuida de seus sobrinhos e sobrinhas órfãos durante o Natal.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] UM BUQUÊ DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:220b335a3b367c14376107daf1f992b5206c8fb6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/14YhALby42jtkumLFcr6payQvko.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Jessica Perez é uma planejadora de casamentos da cidade de Nova York que está dando os toques finais no casamento da véspera de Natal da sensação pop Renee, quando o pedido de última hora da noiva para transformar sua flor em uma flor rara - a flor do sino Jingle - a faz procurá-la.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] NATAL EM 8 BITS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
