@@ -1,6 +1,31 @@
 # FILMES-2021
 
 
+
+<item>
+<title>[COLOR silver][B] ZEROS E UNS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7OZ35GF42WRMGXSJSQ4BJEUHQUYR6DW2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nUklycRTVya348M5dG7JyticAsW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No filme Zeros e Uns WEB-DL 1080p Dual Áudio, Ethan Hawke e Abel Ferrara unem-se neste thriller realista e tenso que se desenrola em uma noite mortal em Roma, quando um soldado (Hawke) corre para impedir um ataque terrorista iminente.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM CASTELO PARA NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E2B5QKTJA2XDLALZIU7OVU7OR23UJSYN</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xqbD1Gztt7kUUUzJhztNbkRtzUd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Sophie é uma famosa autora americana que viaja para a Escócia e, quando se dá conta, quer comprar um castelo. Mas Myles, um irritadiço duque escocês, reluta em vendê-lo a uma estrangeira. Os dois entram em choque o tempo todo, tentando encontrar um meio-termo, e nesse processo podem acabar conseguindo mais do que esperavam.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NATAL NO HOTEL PLAZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ae501f9023101b98618803c282b420f29c84386</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iNgQzpc1mDmt8j60FizkqwMOmv1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando a historiadora Jessica é contratada para criar a exibição de Natal do The Plaza, ela encontra mais do que fatos enquanto se une ao bonito decorador Nick, para dar vida à exibição.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O NATAL DOS DARLINGTONS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
