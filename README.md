@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] DIVÓRCIO EM LAS VEGAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:642e21cd1e8cb5ab47359071403330c8dec8af98</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gVsZb4BsTbp6zW1NOBab9J7LrDA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma noiva embarca em uma viagem louça e secreta a Las Vegas para obter o divórcio do homem com quem se casou há 20 anos".</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ZEROS E UNS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7OZ35GF42WRMGXSJSQ4BJEUHQUYR6DW2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nUklycRTVya348M5dG7JyticAsW.jpg</thumbnail>
