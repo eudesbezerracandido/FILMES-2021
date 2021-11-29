@@ -3,6 +3,22 @@
 
 
 <item>
+<title>[COLOR silver][B]  METEORO- A FUGA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4be35d95fe7f2a300b493e744fd0b8d1d21b5727</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pIxyRvHkgWvO66DnFgA2EGgQmpm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois que um meteoro colide com a Terra, um fazendeiro solitário e uma garota perdida fogem de mercenários cruéis.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SEGUNDA CHANCE PARA PRIMEIRO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e0d3f4a23e593edbea169595eb475e25098ea37</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3RMBI40nnxYbTEkiFcev1dcbTov.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após 15 anos, Pat se muda do Havaí com seus dois filhos e, por meio de uma série de coincidências, ou Godwinks, acaba preso no trânsito ao lado de sua namorada do colégio, Margie, no Natal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DIVÓRCIO EM LAS VEGAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:642e21cd1e8cb5ab47359071403330c8dec8af98</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gVsZb4BsTbp6zW1NOBab9J7LrDA.jpg</thumbnail>
