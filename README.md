@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] STILL WATER- EM BUSCA DA VERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c77b6e4336e6bcfa6ae90130281e5b747d5c24a3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cPdmPwcIcmu0ugfKcdFtI3vmOJq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Bill Baker, um valentão americano de uma plataforma petrolífera de Oklahoma, viaja a Marselha para visitar sua filha, Allison, que está presa por um assassinato que afirma não ter cometido. Confrontado com as barreiras linguísticas, diferenças culturais e um sistema jurídico complicado, Bill constrói uma nova vida para si mesmo na França ao tornar sua missão pessoal exonerar sua filha. Stillwater é o próximo filme de drama policial americano dirigido por Tom McCarthy, a partir de um roteiro que ele co-escreveu com Marcus Hinchey, Thomas Bidegain e Noé Debré. É estrelado por Matt Damon, Camille Cottin e Abigail Breslin.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B]  METEORO- A FUGA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4be35d95fe7f2a300b493e744fd0b8d1d21b5727</link>
