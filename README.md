@@ -5,6 +5,22 @@
 
 
 <item>
+<title>[COLOR silver][B] 007 SEM TEMPO PARA MORRER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OJW2V27LQIGSFLNMVBIX4L4FUYF5SQCT</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fpD2jkeaSZvPbgpcpqhv765R8PF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A ajuda de James Bond (Daniel Craig) é requerida pela CIA quando a missão de resgatar um cientista sequestrado se mostra mais traiçoeira do que esperada, levando-o a uma trilha deixada por um misterioso vilão (Rami Malek), armado com uma perigosa nova tecnologia.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ÚLTIMO DUELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4F1D8C2B0289AF9658BB59A786ED151653D50BA6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mhrzzNauB1PKrwnqVbLQODNNTJN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em plena Idade Média francesa, sob pena de ser condenada à fogueira por injúria e falso testemunho, Marguerite de Carrouges (Jodie Comer) acusa Jacques LeGris (Adam Driver), o melhor amigo de Jean de Carrouges (Matt Damon), seu marido, de estuprá-la. O caso torna-se um escândalo, não só pela acusação em si, mas por envolver três distintas figuras da nobreza. A acusação é levada ao Parlamento de Paris, que determina que se decida o caso em um “duelo judiciário”, combate armado do qual um homem só sairia vencedor ao matar o seu oponente. Baseado no romance "O Último Duelo", de Eric Jager.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] STILL WATER- EM BUSCA DA VERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c77b6e4336e6bcfa6ae90130281e5b747d5c24a3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cPdmPwcIcmu0ugfKcdFtI3vmOJq.jpg</thumbnail>
