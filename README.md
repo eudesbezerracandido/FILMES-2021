@@ -1,8 +1,13 @@
 # FILMES-2021
 
 
-
-
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO/ 14 MONTANHAS,8 MIL METROS E SETE MESES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2dc44495d12552408ae2a58afa0b1f0647f82c50</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/saGMNCD6ayFqmOb9mX2MkkMmW7w.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>( DOCUMENTÁRIO ) Nimsdai Purja, um destemido montanhista nepalês, embarca numa jornada aparentemente impossível: conquistar, em sete meses, todos os 14 picos de 8.000 metros do mundo</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] 007 SEM TEMPO PARA MORRER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
