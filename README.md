@@ -1,6 +1,42 @@
 # FILMES-2021
 
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] GUERRA SOB A TERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LSOMIA2GNYJIV3D6MJOXI7PFNV5AE6U4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ndOvtUxWiCAF6QsVajGidQJeZTM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Durante a Primeira Guerra Mundial, um grupo de mineiros britânicos é recrutado para construir um túnel sob a terra de ninguém e lançar bombas sob a frente alemã na esperança de quebrar o impasse mortal da Batalha de Messines.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ÚLTIMO DUELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OSIMZNBXIV4CWVQG3FMVXMZ4QQMQ52QB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4bTUK455ZQPdbHiRX1udYhdO8BH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em plena Idade Média francesa, sob pena de ser condenada à fogueira por injúria e falso testemunho, Marguerite de Carrouges (Jodie Comer) acusa Jacques LeGris (Adam Driver), o melhor amigo de Jean de Carrouges (Matt Damon), seu marido, de estuprá-la. O caso torna-se um escândalo, não só pela acusação em si, mas por envolver três distintas figuras da nobreza. A acusação é levada ao Parlamento de Paris, que determina que se decida o caso em um “duelo judiciário”, combate armado do qual um homem só sairia vencedor ao matar o seu oponente. Baseado no romance "O Último Duelo", de Eric Jager.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] COWBOYS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BR2OWLOXKXQQZ75KVV6CSZCXIA7G4R3T</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aCpNIX9oKp5qxA3WCVgT3Hk3yL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Troy e seu filho trans, Joe, estão fugindo de sua mãe conservadora no deserto de Montana, com um detetive os perseguindo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SURTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DJINL4AI5XBW2G7EG5DLI7ZKWDB4FUEK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eIa9CJPPIiyDCK2LV7jW8snJATu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Situado ao longo de 24 horas em Londres, um homem segue uma jornada ousada e imprudente de auto libertação.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO/ 14 MONTANHAS,8 MIL METROS E SETE MESES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2dc44495d12552408ae2a58afa0b1f0647f82c50</link>
