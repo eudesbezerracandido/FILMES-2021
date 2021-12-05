@@ -2,6 +2,30 @@
 
 
 <item>
+<title>[COLOR silver][B] ONDE FICA O PARAISO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:875c3eb31f73203af140bd54c0ea5325af3d2e13</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ivo3wru86az1oqORuV8fIHrB9Tg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Com Gemma Arterton. Durante a II Guerra Mundial, uma pesquisadora durona e solitária abriga um menino fugindo dos bombardeios em Londres. Aos poucos, ela acaba por abrir seu coração em uma emocionante jornada de amizade e imaginação.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DE NOVO NATAL? [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef2dd60b839ceb6d77607ded7e2a576cdbf7a6a0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mo13I9sQURkQCkGxbNjMSiUkGsI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma animada menina de 11 anos que espera adicionar mais coragem às suas comemorações de Natal quando o divórcio de seus pais não estiver indo bem.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A FITA CASSETE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KGRR5E4AUKFDXS6Q2CNVUT3SXGUIO32R</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6Y5CcWHLlTKlYxJVWWQkvhWVELy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A órfã e desajeitada Beverly, de 12 anos, descobre uma mixtape quebrada feita por seus pais quando eram adolescentes. Criada por sua avó Gail, que foi mãe adolescente e acha doloroso falar sobre sua filha falecida, Beverly vê esta mixtape como uma chance de finalmente aprender mais sobre seus pais. Então ela sai em uma jornada para encontrar todas as músicas da fita.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] POR TODA MINHA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cda44bdf16b8109b0151d8a90dbd39598292c10</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/t7eTgUwCggJVzEZb2Js7kLhcLLu.jpg</thumbnail>
