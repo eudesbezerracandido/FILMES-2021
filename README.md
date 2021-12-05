@@ -1,6 +1,15 @@
 # FILMES-2021
 
 
+
+<item>
+<title>[COLOR silver][B] ATAQUE DOS CÃES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TQETY3U5SMJIB25TXCA7ISTVVGPEEEU4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4n6QPFpMPLi82lHcpjzPrpyKmZi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> The Power of The Dog acompanha os irmãos Phil (Benedict Cumberbatch) e George (Jesse Plemons) são ricos proprietários da maior fazenda de Montana. Enquanto o primeiro é brilhante, mas cruel, o segundo é a gentileza em pessoa. Quando George secretamente se casa com a viúva local Rose (Kirsten Dunst), o invejoso Phil faz tudo para atrapalhá-los.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] VIAGEM AO TOPO DA TERRA ( ANIMAÇÃO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56b2b4c2b72629fcfa0a175ef1c8848288f7f1a6</link>
