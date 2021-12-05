@@ -1,9 +1,29 @@
 # FILMES-2021
 
 
+<item>
+<title>[COLOR silver][B] POR TODA MINHA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cda44bdf16b8109b0151d8a90dbd39598292c10</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/t7eTgUwCggJVzEZb2Js7kLhcLLu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>um jovem casal planeja seu casamento, mediante a descoberta de um câncer, que pode colocar um fim no sonho de construírem uma vida juntos.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] O TREM DO NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74dd6840fac1bda0c7b62bc8a9de73bf4535ee2b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7SwCx911iDRATeaXusVmnHt5JP7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O jornalista desiludido Tom Langdon deve ir de Washington, D.C. para Los Angeles a tempo para o Natal. Forçado a fazer a viagem de trem ele se encontra com uma variedade de personagens. O renomado produtor de filmes Max, o médico de Max, Eleanor e Agnes que ocupam a cabine em frente ao de Tom. Todos os passageiros no trem de Natal parecem dirigir-se ao mesmo destino.</info>
+</item>
 
-
+<item>
+<title>[COLOR silver][B]  FEITIÇO DAS TREVAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a632c1d3627a074b95813a321677e201d9863dfe</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2tdouTnIOwcRUv9pWHow5vpUGH6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após ser abandonada com sua filha pelo namorado, Jane resolve colocar um feitiço para trazê-lo de volta. Com ajuda de uma jovem cigana, ela realiza um ritual obscuro que a princípio parece funcionar, mas logo mostra que se deve ter cuidado com o que deseja.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] GUERRA SOB A TERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
