@@ -2,6 +2,22 @@
 
 
 <item>
+<title>[COLOR silver][B] VIAGEM AO TOPO DA TERRA ( ANIMAÇÃO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56b2b4c2b72629fcfa0a175ef1c8848288f7f1a6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/z6MxjaWXLruVN5x0qEKINN5vBXk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>George Mallory e seu companheiro Andrew Irvine foram os primeiros homens a escalar o Everest em 8 de junho de 1924? Apenas a pequena câmera Kodak que eles levaram pode revelar a verdade. Em Katmandu, 70 anos depois, um jovem repórter japonês chamado Fukamachi reconhece a câmera nas mãos do misterioso Habu Jôji, um alpinista pária que se acreditava desaparecido há anos. Fukamachi entra em um mundo de montanhistas obsessivos famintos por conquistas impossíveis em uma jornada que o leva, passo a passo, ao cume dos deuses. Versão animada do filme Everesuto: Kamigami no itadaki (2016).</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MIMADINHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:X7OMQWTEUXZRQVI65F2H7BGZQBGPKLJK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tXPWkZ03VfFPhok3DkUlJSxWpFv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um bilionário finge estar falido para ensinar uma lição aos filhos. Agora eles têm que aprender a ganhar a vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ONDE FICA O PARAISO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:875c3eb31f73203af140bd54c0ea5325af3d2e13</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ivo3wru86az1oqORuV8fIHrB9Tg.jpg</thumbnail>
