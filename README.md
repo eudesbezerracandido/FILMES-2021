@@ -1,6 +1,29 @@
 # FILMES-2021
 
 
+<item>
+<title>[COLOR silver][B] DOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:feea4dbc4d5c8520b675e49a2b39b232ddbc5dae</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dk9PgN3iN9MOPJW3LJErh4y5xWw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois estranhos descobrem, ao acordar, que foram unidos cirurgicamente. E ficam ainda mais chocados quando descobrem quem está por trás desse suplício.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] COM AMOR, ANÔNIMA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:616216183f9a66b8b155aea9fb6d231dd57b6579</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6hQRlHRXR8mATvrSVmYXMWF4s.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mensagem de texto enviada por engano se transforma em uma amizade virtual com gostinho de romance, mas o casal não se dá conta de que já se conhece na vida real.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] IMPERDOÁVEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:069ac9a5f587ba3170cc7c7252f059caf1ce3663</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kbHo7UFYihixl5goN2Ro5Zs15Cw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ruth Slater (Sandra Bullock) sai da prisão após cumprir a sentença por um crime violento, e tenta voltar a sociedade - que não esquece o passado da mulher. Com amigos e familiares dando as costas, seu único caminho é buscar redenção com sua irmã mais nova.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ATAQUE DOS CÃES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
