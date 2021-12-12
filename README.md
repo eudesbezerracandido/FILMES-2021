@@ -6,7 +6,7 @@
 <item>
 <title>[COLOR silver][B] ENCONTROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fa68257029c0828983be18a32281e125a8969a9</link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/m8FbbKowTcud7r1JPz95qFU8z2H.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Dois jovens irmãos embarcam numa fuga junto com seu pai (Riz Ahmed), um condecorado da Marinha que os tenta proteger de uma ameaça inumana.</info>
 </item>
