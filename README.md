@@ -3,6 +3,41 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] ALÉM DAS MONTANHAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ZYOLBDJWCDM7LMW4ZXHUHPSRDCCNVFS</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4N22lC5mofacGHCH13VinxyaQ38.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Anthony e Rosemary são amantes obstinados, cujas famílias estão presas em uma disputa por um território que separam as duas fazendas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ESQUECERAM DE NÓS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XOCB3RYO4IVLTXFURRLPHYOWBDIVYCQK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/h7tB1l5WcZQ3I9VmGmScniEmf3m.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nesta divertida história canina e natalina, dois ladrões atrapalhados invadem a casa de um inventor para roubar sua última criação na época do Natal. O que eles não esperavam é que os cães da vizinhança estariam a postos para defender o território.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MINHA MORTE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d7e492b8304b730be9af31fa38aac0b9ce728d8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3Zuwdd8FqYZTUci4Hbsk3rciA8V.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um casal de férias numa praia acorda uma manhã com uma ressaca e sem saber o que ocorreu na noite anterior. Ao checar as gravações, eles descobrem que participaram de um ritual satânico onde o marido matou a esposa... embora ela ainda esteja viva.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MORTAL KOMBAT 2021 [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bf4c48df74c98a7947154775e05c179f17e43d5$nome=MORTAL KOMBAT 2021</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:678ab400cc766d9392bd5ad04a2a1415a977b01f$nome=MORTAL KOMBAR 1995</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:383B74164280887152D9D7A728CDD231115B2AF5$nome=MORTAL KOMBAT 1997</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/71z7cXagPriquYJWDLIQ5WhElPV.jpg</thumbnail> 
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O lutador de MMA Cole Young (Lewis Tan), acostumado a ser pago para perder lutas, não imagina que vem uma de linhagem rara — nem que esse é o motivo para ele estar sendo caçado por guerreiros de outro mundo enviados pelo Imperador Shang Tsung. Para proteger sua família, ele embarca numa violenta jornada onde treinará para enfrentar os maiores campeões de combate do universo.</item>
+
 <item>
 <title>[COLOR silver][B] ENCONTROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fa68257029c0828983be18a32281e125a8969a9</link>
@@ -3276,16 +3311,6 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <thumbnail>https://www.themoviedb.org/t/p/original/7uByCU9hH64U7TkLjikOuCWHLMs.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Dois ex-amantes se encontram antes do casamento numa ilha tropical com seus amigos. Como os únicos passageiros de um avião monomotor sobrevoando as águas azuis do Oceano Índico, uma faísca logo reacende - mas quando o piloto sofre um ataque cardíaco, o casal precisa lutar por suas vidas para ficar no ar e encontrar seu caminho de volta à terra.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] MORTAL KOMBAT 2021 ARCHIVE LEGENDADO & DUBLADO NÃO OFICIAL [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
-<link>https://archive.org/download/mortal-kombat-2021_20210424_1336/MORTAL%20KOMBAT2021.mkv$nome=MORTAL KOMBAT LEGENDADO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B692B06FB982439C68AAB244EE19A862A19BBFBE$nome=MORTAL KOMBAT DUBLADO NÃO OFICIAL</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e08ac40c677ae831cb57de6b9479dc0560aa132$nome=MORTAL KOMBAT 4k DUBLADO</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/71z7cXagPriquYJWDLIQ5WhElPV.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Nova aventura baseada no videogame Mortal Kombat. Na história, um jovem que nunca treinou artes marciais acaba envolvido em um gigantesco torneio de luta envolvendo guerreiros da Terra e lutadores e outras dimensões.</info>
 </item>
 
 <item>
