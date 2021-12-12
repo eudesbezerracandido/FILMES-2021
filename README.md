@@ -1,6 +1,18 @@
 # FILMES-2021
 
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] NO LIMITE DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:577e3a813e32c6d5b19eb8b16d9aa6755dc25ec5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ans5FpsTvfhznxQdM297K3xy1kD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>As aventuras de Sir James Brooke, que desafiou o Império Britânico para governar um reino na selva no Bornéu de 1840, embarcou em uma cruzada ao longo da vida para acabar com a pirataria, a escravidão e caçadores de cabeças, e inspirou as obras literárias Lord JIM e O HOMEM QUE QUERIA SER REI.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] OPERAÇÃO FELIZ NATAL-O GOLPE DOS DUENDES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cccc5e16ba4f8357c9835f239e25588bbffa09bd</link>
