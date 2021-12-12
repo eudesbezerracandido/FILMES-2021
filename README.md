@@ -1,9 +1,13 @@
 # FILMES-2021
 
 
-
-
-
+<item>
+<title>[COLOR silver][B] OPERAÇÃO FELIZ NATAL-O GOLPE DOS DUENDES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cccc5e16ba4f8357c9835f239e25588bbffa09bd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e4ovmSAP2hTG1uARTxIYKi1qlbs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O plano de três batedores de carteira de realizar o roubo de suas vidas durante o Natal é frustrado quando o Papai Noel os envia em uma missão para que encontrem três preciosos presentes ou paguem as consequências.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ALÉM DAS MONTANHAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
