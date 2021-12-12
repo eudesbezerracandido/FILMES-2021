@@ -47,9 +47,9 @@
 
 <item>
 <title>[COLOR silver][B] MORTAL KOMBAT 2021 [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bf4c48df74c98a7947154775e05c179f17e43d5$nome=MORTAL KOMBAT 2021</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:678ab400cc766d9392bd5ad04a2a1415a977b01f$nome=MORTAL KOMBAR 1995</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:383B74164280887152D9D7A728CDD231115B2AF5$nome=MORTAL KOMBAT 1997</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e08ac40c677ae831cb57de6b9479dc0560aa132$nome=MORTAL KOMBAT 2021</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa45668ba8dc029a239af7b25ec3bac75619209b$nome=MORTAL KOMBAR 1995</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E99716DC77F2B627457E2156D92840112DF320B$nome=MORTAL KOMBAT 1997</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/71z7cXagPriquYJWDLIQ5WhElPV.jpg</thumbnail> 
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> O lutador de MMA Cole Young (Lewis Tan), acostumado a ser pago para perder lutas, não imagina que vem uma de linhagem rara — nem que esse é o motivo para ele estar sendo caçado por guerreiros de outro mundo enviados pelo Imperador Shang Tsung. Para proteger sua família, ele embarca numa violenta jornada onde treinará para enfrentar os maiores campeões de combate do universo.</item>
