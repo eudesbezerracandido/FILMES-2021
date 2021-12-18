@@ -2,8 +2,37 @@
 
 
 
+<item>
+<title>[COLOR silver][B] O CANTO DO CISNE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HKA3GBH6M55SAND5FOUG47BPTEEQDM7U</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2EaSwcTF4b7ano51FhwiPOKl1kh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando um amado esposo e pai é diagnosticado com uma doença terminal, lhe é apresentada uma controversa solução alternativa de substituí-lo por uma clone idêntico de carbono.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] REFÉNS- HELD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:992f198ea24d269d61a4767cee49f7d066857b1f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/c8NqVX14i0d9gmKsZFcTRa8xuac.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O casamento em dificuldades de um casal é posto à prova quando eles são mantidos como reféns, em um apartamento de férias isolado por uma voz invisível que comanda todos os seus movimentos.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edd2a63cae53469716a0e17c070e0c78b09bf78b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7zjKdP6mXzpeATxsbDUfMyenbJe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a morte trágica de seu marido, uma mãe leva seu filho adolescente e sua filha para a idílica cidade de Purity Falls, e descobre que a fenda com seu filho se aprofunda quando ele fica preso no negócio nefasto do lar do vilão do bairro.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A SONATA MALDITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a66b1b6d31f6852bc447b808ebc7f08954f8640c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e2Dq3UKNViKk7FlwuAiD1mTIKZv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> História de uma jovem violinista (Freya Tingley) que desvenda o passado do pai, ausente há muitos anos, o que acaba desencadeando as forças das trevas.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] NO LIMITE DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
