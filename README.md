@@ -11,6 +11,38 @@ item>
 </item>
 
 <item>
+<title>[COLOR silver][B] UM NAMORADO PARA NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ms52kt8qXWyStP1ZYhg5DkTIs98.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando o namorado de Brooke, Ethan, termina com ela pouco antes das festas de fim de ano, ela concorda em ir para casa com Joel, um ator que será o namorado dela. Ela criou o ex-namorado para ser o cara perfeito e 'Sr. Natal', mas descobre que Joel é judeu e nunca comemorou o feriado. O que lhe falta na experiência, compensa com entusiasmo e participa alegremente das festividades de fim de ano. Quando seu segredo é revelado, a família está ansiosa para adicionar as tradições de Hanukkah de Joel à celebração, mas logo suspeita de sua verdadeira identidade.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM POR TODOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ae829d38bf9ad1615af2a3665554c4ec419a079</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/etsooG5MBGSTwQ6WzRRf0lZNbYZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um professor substituto assume um emprego como professor da turma do sexto ano, em uma aldeia que ele não conhece. Ele precisa ajudar um aluno a se adaptar à escola, embora nenhum de seus colegas o queira lá.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] HERDEIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52dcc9c5ce1a3ec9d6587c5f21b489af6ba1d860</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/x6QStvZ0RBahnz5YZ584yeZLb5x.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando um menino adoece devido a uma doença misteriosa, sua mãe deve decidir até que ponto irá protegê-lo de forças terríveis em seu passado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM BRINDE AO NATAL- LUZES DA CIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:096c8b1730d723a769d517b8f02d318b21fe6331</link>
+<thumbnail>magnet:?xt=urn:btih:096c8b1730d723a769d517b8f02d318b21fe6331</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanar
+<info> Sequência de A California Christmas. Já faz um ano que Callie e Joseph se apaixonaram, e eles estão mais felizes do que nunca administrando sua fazenda de laticínios e vinícola, até que os negócios e as obrigações familiares o chamam de volta para a cidade – e ameaçam atrapalhar seu romance.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UMA ESPOSA DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:488648fcdffb6a173b9e19bd5bdab20b5de20dff</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hjTLVkjJ5fuGpTSNTOTrGYqFtMA.jpg</thumbnail>
