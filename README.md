@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] UMA ESPOSA DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:488648fcdffb6a173b9e19bd5bdab20b5de20dff</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hjTLVkjJ5fuGpTSNTOTrGYqFtMA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O desejo de Natal de uma mãe, que envolve uma bela recompensa, desencadeia uma competição acirrada entre os filhos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O CANTO DO CISNE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HKA3GBH6M55SAND5FOUG47BPTEEQDM7U</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2EaSwcTF4b7ano51FhwiPOKl1kh.jpg</thumbnail>
