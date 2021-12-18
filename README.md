@@ -2,9 +2,9 @@
 
 
 
-item>
+<item>
 <title>[COLOR silver][B] HOMEM ARANHA - SEM VOLTA PARA CASA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E4FC0A8555147F8E396C44D3E4088B5D891A270$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E4FC0A8555147F8E396C44D3E4088B5D891A270$nome=HOMEM ARANHA DUBLADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ECLTLLSRAYHFMGLGJFLGZVXQUE4VXGT$nome=LEDENDA TORRENT</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2zP8cjus0vSepp2GgfJ7QQpPHQ1.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
