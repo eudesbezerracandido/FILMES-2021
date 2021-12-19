@@ -1,6 +1,41 @@
 # FILMES-2021
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] MATRIX - RESURRECTION ( HDCAM ) LEGENDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PSHYF6437VX27Q543L5H4GYRZICOKB5W</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xLNtaLaHudIzOqdEZ7R3lcDLrQQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ijQafdZa2tINIzd9D4DDAEMjRaS.jpg</fanart>
+<info>"Matrix Resurrections" é uma continuação da história estabelecida no primeiro filme "Matrix". Ela reúne Keanu Reeves e Carrie-Anne Moss como os ícones cinematográficos Neo & Trinity numa expansão de sua história que se aventura de volta à Matrix e ainda mais fundo na toca do coelho.Uma nova aventura alucinante com ação e escala épica, que se passa num mundo familiar, mas ainda mais provocativo, onde a realidade é mais subjetiva do que nunca e tudo o que é necessário para ver a verdade é libertar sua mente.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O NATAL FOI CANCELADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F7A5WCETEL5XGT7GDAEIEASN7R7BOBCI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qi5vnjspWNNxmWNBjq78n07Yink.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O pai de Emma e sua amiga do colégio começam a namorar, então ela embarca em uma missão para separar o casal feliz.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A FORTALEZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BIR6DEYUNYWS5ZH5LNR4JZP7DY2EECL2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hYi00SLc8v92h5i4MoluCvIwLG1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um grupo de criminosos decididos a se vingar, força um oficial aposentado e seu filho a salvar o dia. Neste suspense de ação estrelado por Bruce Willis e Chad Michael Murray, um ex-agente da CIA e seu filho se veem presos em um complexo secreto sob o ataque de um ladrão cibernético vingativo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A DISPUTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ER7H3CJB247IG7JRMFFN2WR3DB4NZFY3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jYFaFJPg79ngwBrxjQw4aThzen4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fana
+<info>Inspirados por verdadeiros eventos ocorridos na primavera de 1944. Para comemorar o aniversário de Adolf Hitler, os nazistas organizaram uma partida de futebol entre um time de elite nazista e um esquadrão de presos formado por ex-jogadores de futebol e presos políticos. Liderada pelo carismático ex-Capitão Nacional do Futebol, a equipe dos Prisioneiros, apesar dos obstáculos que enfrentam, está determinada a vencer, aconteça o que acontecer.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] HOMEM ARANHA - SEM VOLTA PARA CASA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E4FC0A8555147F8E396C44D3E4088B5D891A270</link>
