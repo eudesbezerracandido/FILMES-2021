@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KIE7H23TJONBXWJ6RVJJVSKVAQYWO66T</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/l7isvIYHAhPiOF2lgipVmRkC5pg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Seis amigos resolvem caminhar por uma trilha nas florestas da West Virginia, mas lá, eles se deparam com A Fundação, uma comunidade reclusa de pessoas que viviam nas montanhas antes mesmo da Guerra Civil - e que não respondem bem à estranhos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MATRIX - RESURRECTION ( HDCAM ) LEGENDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
