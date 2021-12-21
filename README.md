@@ -2,8 +2,25 @@
 
 
 
+
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] MISTÉRIO NA TV- UM ASSASSINATO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1b534ed4bcbe1a4f5819d5655753b0cf43a96bc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1yNn6ldOo9i3fbTiG9aDejJb1S7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Enquanto a amizade da chef e apresentadora de televisão Billie Blessings e o detetive de polícia Ian Jackson está virando algo mais, os dois se envolvem numa nova investigação de homicídio.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] KING RICHARD-CRIANDO CÃMPEÂES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00e33f9bdd4e56ce1e9fd0cbd771ce69e15588cb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vjpMd1dsEsVBoUhq6iVHXwwFj9n.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Cinebiografia de Richard Williams, que não tinha histórico no esporte tênis, mas serviu como técnico de suas duas filhas, Venus e Serena Williams.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PÂNICO NA FLORESTA- A INDUÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KIE7H23TJONBXWJ6RVJJVSKVAQYWO66T</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/l7isvIYHAhPiOF2lgipVmRkC5pg.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
