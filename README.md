@@ -2,6 +2,29 @@
 
 
 
+<item>
+<title>[COLOR silver][B] HOMEM ARANHA - SEM VOLTA PARA CASA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E4FC0A8555147F8E396C44D3E4088B5D891A270</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2zP8cjus0vSepp2GgfJ7QQpPHQ1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jX09ShhDZKZnAX3wb7endTXzHLj.jpg</fanart>
+<info>Após ter tido sua identidade secreta revelada ao mundo por culpa das ações de Mysterio, Peter Parker vê a sua vida e a sua reputação desmoronar. Ao procurar ajuda de Stephen Strange para tentar consertar tudo, a situação só fica ainda mais perigosa, e Parker precisa descobrir o que significa ser o Homem-Aranha.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] APRESENTANDO OS RICARDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MSNU4ZDSBAHR2DK7BPZVVAINRMMORNIH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oztBLWdRk5gApYmNdADXvXkLT5m.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A futura cinebiografia de Lucille Ball pretende não apenas percorrer a carreira da atriz e comediante, mas também o casamento de 20 anos de Lucille com Desi Arnaz</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NATAL , MAS POUCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40e022a1e26cfb85b2e8f0f37ed08900239323c6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qLldLAaAXZPX2KFzTDbIQwVPbS4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma viagem para a praia vira uma loucura depois que Servando e Alicia, a obstinada tia de Alma, começam a competir para controlar o Natal.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MISTÉRIO NA TV- UM ASSASSINATO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -57,14 +80,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/jYFaFJPg79ngwBrxjQw4aThzen4.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fana
 <info>Inspirados por verdadeiros eventos ocorridos na primavera de 1944. Para comemorar o aniversário de Adolf Hitler, os nazistas organizaram uma partida de futebol entre um time de elite nazista e um esquadrão de presos formado por ex-jogadores de futebol e presos políticos. Liderada pelo carismático ex-Capitão Nacional do Futebol, a equipe dos Prisioneiros, apesar dos obstáculos que enfrentam, está determinada a vencer, aconteça o que acontecer.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] HOMEM ARANHA - SEM VOLTA PARA CASA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E4FC0A8555147F8E396C44D3E4088B5D891A270</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/2zP8cjus0vSepp2GgfJ7QQpPHQ1.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jX09ShhDZKZnAX3wb7endTXzHLj.jpg</fanart>
-<info>Após ter tido sua identidade secreta revelada ao mundo por culpa das ações de Mysterio, Peter Parker vê a sua vida e a sua reputação desmoronar. Ao procurar ajuda de Stephen Strange para tentar consertar tudo, a situação só fica ainda mais perigosa, e Parker precisa descobrir o que significa ser o Homem-Aranha.</info>
 </item>
 
 <item>
