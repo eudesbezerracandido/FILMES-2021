@@ -11,6 +11,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MATRIX - RESURRECTION ( HDCAM ) LEGENDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PSHYF6437VX27Q543L5H4GYRZICOKB5W</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xLNtaLaHudIzOqdEZ7R3lcDLrQQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ijQafdZa2tINIzd9D4DDAEMjRaS.jpg</fanart>
+<info>"Matrix Resurrections" é uma continuação da história estabelecida no primeiro filme "Matrix". Ela reúne Keanu Reeves e Carrie-Anne Moss como os ícones cinematográficos Neo & Trinity numa expansão de sua história que se aventura de volta à Matrix e ainda mais fundo na toca do coelho.Uma nova aventura alucinante com ação e escala épica, que se passa num mundo familiar, mas ainda mais provocativo, onde a realidade é mais subjetiva do que nunca e tudo o que é necessário para ver a verdade é libertar sua mente.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VICTORIA E MISTÉRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:H6I4NFRIRAQ7BDC6XOTCWJWQL3IA6MIO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kaqCExbRELkJ7qJhFrvCHX5q9aD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Stéphane decide se mudar para as belas montanhas de Cantal para se reconectar com sua filha Victoria, de 8 anos, que está calada desde o desaparecimento de sua mãe. Durante uma caminhada na floresta, um pastor dá a Victoria um cachorrinho chamado “Mystery” que gradualmente devolve a ela o gosto pela vida. Mas rapidamente, Stéphane descobre que o animal é na realidade um lobo. Apesar dos avisos e do perigo desta situação, ele não consegue separar sua filha desta aparentemente inofensiva bola de pelo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UMA TROCA DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:304b0c31a412b77d4fd76777d17479a17feb04a2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bv2VM4BR6JOayiH8RoRnKE6kTDC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando a cantora Audrey e a executiva Julia colidem no shopping, elas acordam na vida uma da outra na manhã seguinte. Enquanto o Natal se aproxima, as duas devem descobrir como se ajudar e voltar ao seu eu original.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NÃO OLHE PRA CIMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HNMP57ACDDYTP4ICIOANYUK5G5T6I426</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6Sc7Tjt7aPsdghYK32mDMFeZkqJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma dupla de cientistas descobre que um gigantesco meteoro vai se chocar contra a Terra em seis meses. No entanto, ao saírem alertando o mundo pela imprensa, os dois são recebidos com desdém e descrença.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] APRESENTANDO OS RICARDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MSNU4ZDSBAHR2DK7BPZVVAINRMMORNIH</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oztBLWdRk5gApYmNdADXvXkLT5m.jpg</thumbnail>
@@ -48,14 +80,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/l7isvIYHAhPiOF2lgipVmRkC5pg.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Seis amigos resolvem caminhar por uma trilha nas florestas da West Virginia, mas lá, eles se deparam com A Fundação, uma comunidade reclusa de pessoas que viviam nas montanhas antes mesmo da Guerra Civil - e que não respondem bem à estranhos.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] MATRIX - RESURRECTION ( HDCAM ) LEGENDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PSHYF6437VX27Q543L5H4GYRZICOKB5W</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/xLNtaLaHudIzOqdEZ7R3lcDLrQQ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ijQafdZa2tINIzd9D4DDAEMjRaS.jpg</fanart>
-<info>"Matrix Resurrections" é uma continuação da história estabelecida no primeiro filme "Matrix". Ela reúne Keanu Reeves e Carrie-Anne Moss como os ícones cinematográficos Neo & Trinity numa expansão de sua história que se aventura de volta à Matrix e ainda mais fundo na toca do coelho.Uma nova aventura alucinante com ação e escala épica, que se passa num mundo familiar, mas ainda mais provocativo, onde a realidade é mais subjetiva do que nunca e tudo o que é necessário para ver a verdade é libertar sua mente.</info>
 </item>
 
 <item>
