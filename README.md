@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LINHAS INIMIGAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QSTNXN2QH5CNE3U3K36IZQBYC73SORLB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2MuH7e5uNagt9djLR74JTgVFzEa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Segunda Guerra Mundial,1943. Atrás das linhas inimigas na Polônia ocupada, uma equipe de elite de soldados aliados são enviados para resgatar um cientista das mãos dos nazistas. Baseado em fatos reais.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A TITIA NOEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f01b2f72ac5e389bc2d51f620791dd1316a1f0a9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/17jx2QfSofvhmzQKC8kai14hINc.jpg</thumbnail>
