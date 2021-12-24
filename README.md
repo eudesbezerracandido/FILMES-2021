@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A TITIA NOEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f01b2f72ac5e389bc2d51f620791dd1316a1f0a9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/17jx2QfSofvhmzQKC8kai14hINc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Duas semanas antes do Natal, Rebecca Miller volta para casa no Tennessee para cuidar de sua sobrinha e sobrinho e acaba se reconectando com seu melhor amigo de infância.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UM CAROSSEL DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6RPIPQV633ZUJYPC4JV6DZ3EH6VDAP2J</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mDqEb8JX5T7NQ7fPVJEDybw8nbD.jpg</thumbnail>
