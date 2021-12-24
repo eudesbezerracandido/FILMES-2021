@@ -19,6 +19,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O BRILHO DO NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ee90110e61f462a8bb4e827aceca5d3c2f2bc7e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jtOiJhfLsCI7iGnYrV98PItcq1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Inspirada em verdadeiros eventos, Emma retorna a sua cidade natal construída em torno da pioneira Fábrica de Luz de Natal de sua família, duas semanas antes do Natal. No entanto, após o retorno de Emma, ela descobre que as luzes se apagaram na cidade outrora festiva, levando-a a se reconectar com uma velha chama para incendiar seus corações e a cidade novamente.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM CAROSSEL DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6RPIPQV633ZUJYPC4JV6DZ3EH6VDAP2J</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mDqEb8JX5T7NQ7fPVJEDybw8nbD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando Lila é contratada pela Família Real de Marcádia para consertar um carrossel, ela deve trabalhar com o Príncipe para concluí-lo até o Natal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VICTORIA E MISTÉRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:H6I4NFRIRAQ7BDC6XOTCWJWQL3IA6MIO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kaqCExbRELkJ7qJhFrvCHX5q9aD.jpg</thumbnail>
