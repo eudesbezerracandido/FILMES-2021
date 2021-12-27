@@ -11,8 +11,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] MATRIX - RESURRECTION ( HDCAM ) LEGENDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PSHYF6437VX27Q543L5H4GYRZICOKB5W</link>
+<title>[COLOR silver][B] MATRIX - RESURRECTION ( HDCAM ) DUBLADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2F518C85C5A2435DC5B42913DB1B539BACE4647B</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xLNtaLaHudIzOqdEZ7R3lcDLrQQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ijQafdZa2tINIzd9D4DDAEMjRaS.jpg</fanart>
 <info>"Matrix Resurrections" é uma continuação da história estabelecida no primeiro filme "Matrix". Ela reúne Keanu Reeves e Carrie-Anne Moss como os ícones cinematográficos Neo & Trinity numa expansão de sua história que se aventura de volta à Matrix e ainda mais fundo na toca do coelho.Uma nova aventura alucinante com ação e escala épica, que se passa num mundo familiar, mas ainda mais provocativo, onde a realidade é mais subjetiva do que nunca e tudo o que é necessário para ver a verdade é libertar sua mente.</info>
