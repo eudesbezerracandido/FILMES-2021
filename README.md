@@ -165,7 +165,7 @@
 <item>
 <title>[COLOR silver][B] UM BRINDE AO NATAL- LUZES DA CIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:096c8b1730d723a769d517b8f02d318b21fe6331</link>
-<thumbnail>magnet:?xt=urn:btih:096c8b1730d723a769d517b8f02d318b21fe6331</thumbnail>
+<thumbnail>https://www.themoviedb.org/movie/882096-a-california-christmas-city-lights</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanar
 <info> Sequência de A California Christmas. Já faz um ano que Callie e Joseph se apaixonaram, e eles estão mais felizes do que nunca administrando sua fazenda de laticínios e vinícola, até que os negócios e as obrigações familiares o chamam de volta para a cidade – e ameaçam atrapalhar seu romance.</info>
 </item>
@@ -195,7 +195,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] PURITY FALLS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edd2a63cae53469716a0e17c070e0c78b09bf78b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7zjKdP6mXzpeATxsbDUfMyenbJe.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
