@@ -19,6 +19,46 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SOORYAVANSHI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YGRXW22MVDWUYOBHTKCBSKTCLNSLW344</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zMuo3s9J0e5jsIJLCKv1ffKlLD4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Leal, destemido e um tanto esquecido, um policial de Mumbai faz de tudo para impedir um grande ataque à cidade.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ACHO QUE MATEI MINHA CHEFE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a20349e1d64bc458954fab93c6a9810cb44e2e7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wjbraXymMSdmmO4jHyPgwPEuMHt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Paige Davis acabou de ser promovida a presidente de vendas em seu trabalho. Paige Davis acaba de ser promovida a presidente de vendas em seu trabalho. Depois de uma noite de festa, Paige e suas amigas hilariamente acordam com sua chefe morta.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MAMÃE SAIU DE FÉRIAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c96b96402dec9f4b7f5d93700bf3f13aebec607</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qE2j8UxLh6QCvgAWcxWNxogKdoH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois de muitos anos de casamento, Cassandra decide tirar férias sozinha, deixando Gabriel encarregado de seus quatro filhos por 10 dias, exatamente no momento em que ele está prestes a conseguir uma promoção em seu trabalho. O caos gerado por sua inexperiência em afazeres do lar o faz valorizar a mãe e esposa impecável que o acompanha. Depois disso, sua família não será mais a mesma.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FATIMA-HISTÓRIA DE UM MILAGRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q5EY6DRWDINJ7FWRCPEPL244DX4OTZTM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uhOvDIvkSrqkdFk8Bn6f8UNuntK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A brasileira Sonia Braga (“O beijo da Mulher-Aranha”) e o americano Harvey Keitel (“O piano”, “Cães de aluguel”) dividirão os créditos de “Fátima”, longa-metragem que dramatiza a trajetória das três crianças camponesas que alegam terem visto por seis vezes a Virgem Maria, entre maio e outubro de 1917, na cidade portuguesa que dá nome ao longa. O filme será dirigido pelo italiano Marco Pontecorvo, diretor de fotografia de longa carreira no cinema e na TV (“Game of thrones”), e filho do lendário cineasta Gillo Pontecorvo, autor de títulos como “A batalha de Argel” (1966). Duas das três crianças que viram a Virgem Maria, Jacinta e Francisco, que morreram entre 1918 e 1919 durante uma pandemia de gripe, foram canonizados semana passada pelo papa Francisco o processo de beatificação da terceira, Lúcia foi concluído em 2008, três anos ap</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SUPER MURALI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:T54J2IWAF7EZKU76YYLVFZEAAERT63QA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/d66tZZvkbUrIUbqzF1LYdGUyCe3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um alfaiate ganha poderes especiais após ser atingido por um raio, mas deve derrotar um inimigo inesperado para se tornar o super-herói que a cidade precisa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O BRILHO DO NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ee90110e61f462a8bb4e827aceca5d3c2f2bc7e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jtOiJhfLsCI7iGnYrV98PItcq1.jpg</thumbnail>
