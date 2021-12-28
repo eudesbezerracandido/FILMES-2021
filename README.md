@@ -91,6 +91,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UM REECONTRO NATALINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2fcf64b0c66700c1393c6c5428d7e2b3424b1e1e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/y3d1zM5Wvb00vnI8KmiVGYTJHW0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um casal que estão separados finge felicidade conjugal na televisão para ajudar o festival de Natal de sua cidade - e seus negócios. Mas o que o futuro reserva para eles quando o amor reacendido se complica por novas oportunidades?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UM CAROSSEL DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6RPIPQV633ZUJYPC4JV6DZ3EH6VDAP2J</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mDqEb8JX5T7NQ7fPVJEDybw8nbD.jpg</thumbnail>
