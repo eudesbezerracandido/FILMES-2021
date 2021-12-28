@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OS SEGREDOS DO CASTELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UXMVAW4MEQGGNP2A3VKBFI5RIJMUJ5B4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ur3uasD8CkiNOWUu5Hti3HW2Cv3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma família isolada, que já perdeu quatro membros por envenenamento, utiliza rituais e talismãs para manter-se longe de pessoas hostis da cidade. Dentro deste cenário chega um primo distante (Sebastian Stan), com a intenção de garantir de forma maliciosa a fortuna da família e cuja chegada põe em movimento a descoberta de segredos de família.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SOORYAVANSHI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YGRXW22MVDWUYOBHTKCBSKTCLNSLW344</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zMuo3s9J0e5jsIJLCKv1ffKlLD4.jpg</thumbnail>
