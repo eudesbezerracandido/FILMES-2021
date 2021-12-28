@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PLANTÃO DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ab2e40921999a792e8af6225b04a01380ae2700</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hNXR0bHx8H87ThYZVkJhSI6XxDX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A dra. Alicia Wright é designada para uma clínica de uma pequena cidade, ela se surpreende quando começa a se sentir em casa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ACHO QUE MATEI MINHA CHEFE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a20349e1d64bc458954fab93c6a9810cb44e2e7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wjbraXymMSdmmO4jHyPgwPEuMHt.jpg</thumbnail>
