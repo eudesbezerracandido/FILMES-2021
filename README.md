@@ -2,6 +2,9 @@
 
 
 
+
+
+
 <item>
 <title>[COLOR silver][B] HOMEM ARANHA - SEM VOLTA PARA CASA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E4FC0A8555147F8E396C44D3E4088B5D891A270</link>
@@ -16,6 +19,22 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/xLNtaLaHudIzOqdEZ7R3lcDLrQQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ijQafdZa2tINIzd9D4DDAEMjRaS.jpg</fanart>
 <info>"Matrix Resurrections" é uma continuação da história estabelecida no primeiro filme "Matrix". Ela reúne Keanu Reeves e Carrie-Anne Moss como os ícones cinematográficos Neo & Trinity numa expansão de sua história que se aventura de volta à Matrix e ainda mais fundo na toca do coelho.Uma nova aventura alucinante com ação e escala épica, que se passa num mundo familiar, mas ainda mais provocativo, onde a realidade é mais subjetiva do que nunca e tudo o que é necessário para ver a verdade é libertar sua mente.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] GHOSTLAND- TERRA SEM LEI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5LXBWUVVJBU4B5DFKRKBBAFEQ6MG7WIH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xBNVjog86fRYEnjwl4yRbIoXUxC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Na traiçoeira cidade fronteira de Samurai Town, um assaltante de banco implacável (Nicolas Cage) é resgatado da prisão pelo chefe de guerra, The Governor (Bill Moseley), cuja neta adotiva Bernice (Sofia Boutella) desapareceu. The Governor oferece ao prisioneiro a sua liberdade em troca da descoberta da sua neta.Amarrado com um fato de cabedal que se autodestruirá dentro de cinco dias, o bandido parte numa viagem para encontrar a jovem e o seu próprio caminho para a redenção.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] RESIDENT EVIL -BEM VINDO A RACCOON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D57YM6KP5YKEBRPTK3Q744A4EUIHZPUY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eStYYbyaxyDMzHVkGrmkiSrMi0h.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma vez a crescente casa da companhia farmacêutica Umbrella Corporation, Raccoon City agora é uma cidade moribunda do centro-oeste. A retirada da empresa deixou a cidade devastada… com um grande mal abaixo da superfície. Quando este mal é liberado, as pessoas da cidade são para sempre transformadas, e um pequeno grupo de sobreviventes devem trabalhar juntos para descobrir a verdade por trás da Umbrella, e sobreviver à noite.</info>
 </item>
 
 <item>
