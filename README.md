@@ -1,8 +1,6 @@
 # FILMES-2021
 
 
-
-
 <item>
 <title>[COLOR silver][B] FINCH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:650c9c4b34b56935e8f770f8b10e6c9c858869e6</link>
@@ -12,7 +10,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] 007- SEM TEMPO PARA MORRER ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] 007- SEM TEMPO PARA MORRER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OJW2V27LQIGSFLNMVBIX4L4FUYF5SQCT$nome=007 DUBLADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f66b336e09da9a228f4b22d47659813dcd8dfba$nome=007 LEGENDA FIXA</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/b69JOlKOwus7rkKKUZwniY1mCwX.jpg</thumbnail>
@@ -67,6 +65,14 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/xLNtaLaHudIzOqdEZ7R3lcDLrQQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ijQafdZa2tINIzd9D4DDAEMjRaS.jpg</fanart>
 <info>"Matrix Resurrections" é uma continuação da história estabelecida no primeiro filme "Matrix". Ela reúne Keanu Reeves e Carrie-Anne Moss como os ícones cinematográficos Neo & Trinity numa expansão de sua história que se aventura de volta à Matrix e ainda mais fundo na toca do coelho.Uma nova aventura alucinante com ação e escala épica, que se passa num mundo familiar, mas ainda mais provocativo, onde a realidade é mais subjetiva do que nunca e tudo o que é necessário para ver a verdade é libertar sua mente.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A INVASÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:706081b9411f327cd6cf5e86e48970d2c2f1cdc8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6wq8H7AZRdQZcc9VE6oVjRvDkAG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um pequeno grupo de moradores de uma cidade tem que se unir após uma invasão devastadora da sua área. Enquanto lutam para sobreviver, eles percebem que devem ficar um passo à frente de seus agressores e trabalhar juntos para ter chance de atacar.</info>
 </item>
 
 <item>
