@@ -68,6 +68,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FÚRIA INCONTROLAVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PVT2HWJHMBMSRIM25WIQY36NODMQX2TO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kDt37orVVcJ4tbB2azkMc4nqn1U.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Rachel está atrasada para o trabalho e cruza o caminho de um motorista lento no semáforo. Após um ataque de raiva do estranho, uma discussão normal de um dia no trânsito acaba se tornando uma perseguição sem limites, com o objetivo de mostrar para Rachel e sua família as consequências de um dia ruim.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A INVASÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:706081b9411f327cd6cf5e86e48970d2c2f1cdc8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6wq8H7AZRdQZcc9VE6oVjRvDkAG.jpg</thumbnail>
