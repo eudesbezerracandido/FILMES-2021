@@ -3,7 +3,54 @@
 
 
 
+<item>
+<title>[COLOR silver][B] FINCH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:650c9c4b34b56935e8f770f8b10e6c9c858869e6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um mundo pós-apocalíptico um robô é criado para proteger o cachorro de seu criador doente. Ele aprenderá lições sobre o amor, amizade e a importância da vida humana.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] 007- SEM TEMPO PARA MORRER ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67B02D9A55AD61BBE5FF17C56DC662E725A7B127$nome=007 DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f66b336e09da9a228f4b22d47659813dcd8dfba$nome=007 LEGENDA FIXA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/b69JOlKOwus7rkKKUZwniY1mCwX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Bond deixou o serviço ativo e está desfrutando de uma vida tranquila na Jamaica. Sua paz é interrompida quando o seu velho amigo Felix Leiter, da CIA, aparece pedindo sua ajuda. A missão de resgatar um cientista sequestrado acaba sendo muito mais difícil do que o esperado, deixando Bond no caminho de um vilão misterioso e armado com uma nova tecnologia perigosa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ETERNOS HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HLWFO3KR6WHRBWYIYSEPYTCQ3JFVIOFC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oL2IqECjqsHumNKJTTLUxydlPZi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após os eventos de Vingadores: Ultimato (2019), os Eternos, uma raça alienígena imortal criada pelos Celestiais que vivem em segredo na Terra há mais de 7000 anos, se reúnem após uma tragédia inesperada para proteger a humanidade de seus colegas malignos: os Deviantes.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SHANG-CHI- E A LENDA DOS DEZ ANEIS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccfe0b9bfe7a3548b95e0119a73c6f067aa40363</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uEOmVZwCbmjx4AdpBzTYTb97wBB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Mestre de artes marciais, Shang-Chi é praticamente inigualável. Shang-Chi tem um passado que deixou para trás, mas é novamente confrontado com ele quando se enredar na teia da misteriosa organização dos Dez Anéis. Ao mesmo tempo, Shang-Chi tem de lidar com uma ameaça que se esconde por detrás do nome "Mandarim".</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VENON 2-TEMPO DE CARNIFICINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b019304dd9a72f74675d1a9411973fdef6545b2f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kz7xJLowO4x0BpcB1IJb9uIXgrq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de encontrar um corpo hospedeiro no repórter investigativo Eddie Brock, o simbionte alienígena deve enfrentar um novo inimigo, Carnage, o alter ego do assassino em série Cletus Kasady.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] GHOSTBUSTER-MAIS ALÉM ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C68AAF91E8A48B1810E33F55C2CAE7B2B60FBE52</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tMMk6bCiXbHObYHQYogADAWUfw3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mãe solteira (Carrie Coon) resolve se mudar para uma pequena cidade do interior com seus filhos (Finn Wolfhard e Mckenna Grace), e acaba descobrindo uma conexão com os Caça-Fantasmas originais e o que o seu avô deixou para trás como legado.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] HOMEM ARANHA - SEM VOLTA PARA CASA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -623,22 +670,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] VENON 2-TEMPO DE CARNIFICINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b019304dd9a72f74675d1a9411973fdef6545b2f</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/kz7xJLowO4x0BpcB1IJb9uIXgrq.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Depois de encontrar um corpo hospedeiro no repórter investigativo Eddie Brock, o simbionte alienígena deve enfrentar um novo inimigo, Carnage, o alter ego do assassino em série Cletus Kasady.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] GHOSTBUSTER-MAIS ALÉM ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ULEKOHN6I3LWKVHKIUFN3VW66644RRTW</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tMMk6bCiXbHObYHQYogADAWUfw3.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Uma mãe solteira (Carrie Coon) resolve se mudar para uma pequena cidade do interior com seus filhos (Finn Wolfhard e Mckenna Grace), e acaba descobrindo uma conexão com os Caça-Fantasmas originais e o que o seu avô deixou para trás como legado.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] PROCESSION-DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LHG5IMZP6GCZEHJIED5EJ6AGZTC4UXLR</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1mRucSorKd2Z1WdizhJc3rrqyA8.jpg</thumbnail>
@@ -692,14 +723,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/xMkS2EImCdeNMQaJxntGyjNNkhh.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A história de amor de um casal que deve enfrentar a vida depois de um acidente de carro devastador.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] SHANG-CHI- E A LENDA DOS DEZ ANEIS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccfe0b9bfe7a3548b95e0119a73c6f067aa40363</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/uEOmVZwCbmjx4AdpBzTYTb97wBB.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Mestre de artes marciais, Shang-Chi é praticamente inigualável. Shang-Chi tem um passado que deixou para trás, mas é novamente confrontado com ele quando se enredar na teia da misteriosa organização dos Dez Anéis. Ao mesmo tempo, Shang-Chi tem de lidar com uma ameaça que se esconde por detrás do nome "Mandarim".</info>
 </item>
 
 <item>
@@ -855,14 +878,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] ETERNOS HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HLWFO3KR6WHRBWYIYSEPYTCQ3JFVIOFC</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/oL2IqECjqsHumNKJTTLUxydlPZi.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Após os eventos de Vingadores: Ultimato (2019), os Eternos, uma raça alienígena imortal criada pelos Celestiais que vivem em segredo na Terra há mais de 7000 anos, se reúnem após uma tragédia inesperada para proteger a humanidade de seus colegas malignos: os Deviantes.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] A OUTRA FACE DA GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d89a34a75fe210511201e717f7d82fc664169b36</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/arlwPVSQg3fsBCDhwORpiHnZjYt.jpg</thumbnail>
@@ -900,23 +915,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/lmhvzr4UvmiFYzaH7zfjM5UXABO.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Moscow conta a história de uma mulher forte e cheia de personalidade, seu nome é VAL, ela vive em uma cidade turbulenta e assolada por gangues e violência. Em um contexto atemporal, mantendo um visual e fotografia marcantes, o filme se passa na maior parte em um Club noturno de Jazz, onde a Val trabalha como Gerente do local.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] FINCH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:650c9c4b34b56935e8f770f8b10e6c9c858869e6</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Em um mundo pós-apocalíptico um robô é criado para proteger o cachorro de seu criador doente. Ele aprenderá lições sobre o amor, amizade e a importância da vida humana.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] 007- SEM TEMPO PARA MORRER ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67B02D9A55AD61BBE5FF17C56DC662E725A7B127$nome=007 DUBLADO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f66b336e09da9a228f4b22d47659813dcd8dfba$nome=007 LEGENDA FIXA</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/b69JOlKOwus7rkKKUZwniY1mCwX.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Bond deixou o serviço ativo e está desfrutando de uma vida tranquila na Jamaica. Sua paz é interrompida quando o seu velho amigo Felix Leiter, da CIA, aparece pedindo sua ajuda. A missão de resgatar um cientista sequestrado acaba sendo muito mais difícil do que o esperado, deixando Bond no caminho de um vilão misterioso e armado com uma nova tecnologia perigosa.</info>
 </item>
 
 <item>
