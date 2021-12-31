@@ -68,6 +68,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A FILHA PERDIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W7V6STVBQTHZSW7E6DE4Z6XI4N6TBTI6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Leda, uma elegante professora universitária, em suas férias de verão à beira-mar, fica impressionada com suas próprias memórias do terror, confusão e intensidade da maternidade precoce.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ZONE 414 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RPONBK5IO7ZQASHETHTSMFHZI7F6N7PC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bJIq2UwwrrVP033Mk3G5paUwYnp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um futuro próximo numa colônia de robôs humanóides de última geração, a filha do seu criador desaparece, ele contrata o investigador particular David Carmichael, para trazê-la para casa. David se junta a Jane, uma IA altamente avançada e autoconsciente, para rastrear a filha desaparecida. Atravessando a perigosa selva de ferro, eles rapidamente juntam o mistério, descobrindo um crime que os leva a questionar as origens da Zona 414 e o verdadeiro propósito por trás da “Cidade dos Robôs”.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FÚRIA INCONTROLAVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PVT2HWJHMBMSRIM25WIQY36NODMQX2TO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kDt37orVVcJ4tbB2azkMc4nqn1U.jpg</thumbnail>
@@ -81,6 +97,14 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/6wq8H7AZRdQZcc9VE6oVjRvDkAG.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um pequeno grupo de moradores de uma cidade tem que se unir após uma invasão devastadora da sua área. Enquanto lutam para sobreviver, eles percebem que devem ficar um passo à frente de seus agressores e trabalhar juntos para ter chance de atacar.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SEPARATION [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MXP34XEBP6V4LWMUUUGP2MKFD2DRVXET</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lHbSC2Np17CRsRXIbaE0YY1Hora.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a morte acidental da mãe durante o processo de divórcio, a vida da pequena Jenny (Violet McGraw) fica mais complicada do que nunca. Com o avô tentando conseguir a custódia única do seu pai (Rupert Friend) e sua babá se tornando cada vez mais presente como a mulher da casa, logo uma presença maligna se aproveita da desunião para se apresentar pra garota.</info>
 </item>
 
 <item>
