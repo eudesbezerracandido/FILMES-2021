@@ -68,6 +68,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SHINY FLAKES-DROGAS ONLINE ( DOCUMETÁRIO )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DLXZBHVCP3A36MAN7NIVWRZ7JIE3IWQX</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/A90byJpjV0DvuozHQAxE5lZgd8D.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Max S. conta como controlou um império do tráfico de seu quarto de infância na verdadeira história por trás da série Como Vender Drogas Online (Rápido).</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A FILHA PERDIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W7V6STVBQTHZSW7E6DE4Z6XI4N6TBTI6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg</thumbnail>
@@ -89,6 +97,14 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/kDt37orVVcJ4tbB2azkMc4nqn1U.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Rachel está atrasada para o trabalho e cruza o caminho de um motorista lento no semáforo. Após um ataque de raiva do estranho, uma discussão normal de um dia no trânsito acaba se tornando uma perseguição sem limites, com o objetivo de mostrar para Rachel e sua família as consequências de um dia ruim.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] OPERAÇÃO RESGATE NA TAILÃNDIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MZ3EQSIDDEGLDXDDHMNNADXTWVP3GHU4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1ibkgLrUx5K2Ejoij3VkAJgnCCh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma crônica da envolvente história contra todas as formas que paralisou o mundo em 2018: o ousado resgate de doze rapazes e do seu treinador das profundezas de uma caverna inundada no norte da Tailândia.</info>
 </item>
 
 <item>
