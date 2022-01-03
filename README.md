@@ -80,7 +80,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W7V6STVBQTHZSW7E6DE4Z6XI4N6TBTI6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Leda, uma elegante professora universitária, em suas férias de verão à beira-mar, fica impressionada com suas próprias memórias do terror, confusão e intensidade da maternidade precoce.</info>
+<info>Leda, uma elegante professora universitária, em suas férias de verão à beira-mar, fica impressionada com suas próprias memórias do terror, confusão e intensidade da maternidade precoce.</info> 
 </item>
 
 <item>
