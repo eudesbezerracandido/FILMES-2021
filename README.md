@@ -60,7 +60,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] MATRIX - RESURRECTION ( HDCAM ) DUBLADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] MATRIX - RESURRECTION ( HDCAM ) DUBLADO LEG. FIXA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2F518C85C5A2435DC5B42913DB1B539BACE4647B</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xLNtaLaHudIzOqdEZ7R3lcDLrQQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ijQafdZa2tINIzd9D4DDAEMjRaS.jpg</fanart>
