@@ -43,8 +43,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] GHOSTBUSTER-MAIS ALÉM ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C68AAF91E8A48B1810E33F55C2CAE7B2B60FBE52</link>
+<title>[COLOR silver][B] GHOSTBUSTER-MAIS ALÉM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Y2FK7EPIUSFRQEHDH5K4FSXHWK3A7PSS</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tMMk6bCiXbHObYHQYogADAWUfw3.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma mãe solteira (Carrie Coon) resolve se mudar para uma pequena cidade do interior com seus filhos (Finn Wolfhard e Mckenna Grace), e acaba descobrindo uma conexão com os Caça-Fantasmas originais e o que o seu avô deixou para trás como legado.</info>
