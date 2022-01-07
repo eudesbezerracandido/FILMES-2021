@@ -69,7 +69,7 @@
 
 <item>
 <title>[COLOR silver][B] SHINY FLAKES-DROGAS ONLINE ( DOCUMETÁRIO )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DLXZBHVCP3A36MAN7NIVWRZ7JIE3IWQX</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DLXZBHVCP3A36MAN7NIVWRZ7JIE3IWQX</link> 
 <thumbnail>https://www.themoviedb.org/t/p/original/A90byJpjV0DvuozHQAxE5lZgd8D.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Max S. conta como controlou um império do tráfico de seu quarto de infância na verdadeira história por trás da série Como Vender Drogas Online (Rápido).</info>
