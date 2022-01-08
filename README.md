@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O PAI QUE MOVE MONTANHAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e0bffa5b3ee4d87f5dd7a785b3e906c9ce78695</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yoyBEeKlrtCPLJc0Rxk7likZLU5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um agente de inteligência aposentado arrisca a própria vida para salvar o filho que desapareceu no meio da neve durante uma caminhada nas montanhas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MORTAL KOMBAT 2021 [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e08ac40c677ae831cb57de6b9479dc0560aa132$nome=MORTAL KOMBAT 2021</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa45668ba8dc029a239af7b25ec3bac75619209b$nome=MORTAL KOMBAR 1995</link>
