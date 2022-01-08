@@ -1848,16 +1848,6 @@ Enredo: Quando ashley Beck-Ford de 21 anos encontra sua mãe biológica – Sara
 </item>
 
 <item>
-<title>[COLOR silver][B] SHANG -CHI E A LENDA DOS DEZ ANÉS (CAM) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE1250317890F41719CA76E676BA3F7231AB53F2$nome=CAM 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3YJFAMLYSD2BOGOKO3THNOR7OIY2WU7S$nome=CAM 2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE1250317890F41719CA76E676BA3F7231AB53F2$nome=CAM 3</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6T0r3jBs0xbmzVnM9u7e3vUXMYk.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Shang-Chi precisa confrontar o passado que pensou ter deixado para trás. Ao mesmo tempo, ele é envolvido em uma teia de mistérios da organização conhecida como Dez Anéis.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] ESTICANDO A FESTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc90d1475b5db167f1fdf97fbe08d8e23990a7d1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1bkcOEt4zvc5tBl6xFxTbkSqhEQ.jpg</thumbnail>
