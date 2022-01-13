@@ -1230,14 +1230,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] HALLOWEEN KILLS- O TERROR CONTINUA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2602B22EA003A672F7CDEAF69EFF67F5EA1096B6</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4NphuHmnuROLqCjAEr5LS7Aage6.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Depois de quatro décadas se preparando para enfrentar Michael Myers, Laurie Strode acredita que enfim venceu. Porém, ela é surpreendida pelo retorno de seu grande inimigo em um novo desdobramento de mais um capítulo na saga Halloween.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] SOBREVIVA AO JOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07412e7a28909e5c2d3cd38ab8f4e602d8e7cbe4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xF1uc2pEf34X2G41wvZaF5H0V7C.jpg</thumbnail>
