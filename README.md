@@ -75,7 +75,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/2zP8cjus0vSepp2GgfJ7QQpPHQ1.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jX09ShhDZKZnAX3wb7endTXzHLj.jpg</fanart>
 <info>Após ter tido sua identidade secreta revelada ao mundo por culpa das ações de Mysterio, Peter Parker vê a sua vida e a sua reputação desmoronar. Ao procurar ajuda de Stephen Strange para tentar consertar tudo, a situação só fica ainda mais perigosa, e Parker precisa descobrir o que significa ser o Homem-Aranha.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] MATRIX - RESURRECTION  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
