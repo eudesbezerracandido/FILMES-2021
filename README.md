@@ -34,7 +34,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/b69JOlKOwus7rkKKUZwniY1mCwX.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Bond deixou o serviço ativo e está desfrutando de uma vida tranquila na Jamaica. Sua paz é interrompida quando o seu velho amigo Felix Leiter, da CIA, aparece pedindo sua ajuda. A missão de resgatar um cientista sequestrado acaba sendo muito mais difícil do que o esperado, deixando Bond no caminho de um vilão misterioso e armado com uma nova tecnologia perigosa.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] ETERNOS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
