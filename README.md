@@ -53,10 +53,11 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] VENON 2-TEMPO DE CARNIFICINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b019304dd9a72f74675d1a9411973fdef6545b2f</link>
+<title>[COLOR silver][B] VENON/ VENOM 2-TEMPO DE CARNIFICINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b019304dd9a72f74675d1a9411973fdef6545b2f$nome=VENON 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EB2196840A2133A26AEE37CEEE0D2BCC2C7A2D3A$nome=VENON 1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kz7xJLowO4x0BpcB1IJb9uIXgrq.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/gB7ThItFiRFw18SsE1gWHA92eri.jpg</fanart>
 <info>Depois de encontrar um corpo hospedeiro no repórter investigativo Eddie Brock, o simbionte alienígena deve enfrentar um novo inimigo, Carnage, o alter ego do assassino em série Cletus Kasady.</info>
 </item>
 
