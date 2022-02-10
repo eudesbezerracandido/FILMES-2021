@@ -25,7 +25,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/71z7cXagPriquYJWDLIQ5WhElPV.jpg</thumbnail> 
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> O lutador de MMA Cole Young (Lewis Tan), acostumado a ser pago para perder lutas, não imagina que vem uma de linhagem rara — nem que esse é o motivo para ele estar sendo caçado por guerreiros de outro mundo enviados pelo Imperador Shang Tsung. Para proteger sua família, ele embarca numa violenta jornada onde treinará para enfrentar os maiores campeões de combate do universo.</item>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] 007- SEM TEMPO PARA MORRER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
