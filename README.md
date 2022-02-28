@@ -107,7 +107,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/bJIq2UwwrrVP033Mk3G5paUwYnp.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em um futuro próximo numa colônia de robôs humanóides de última geração, a filha do seu criador desaparece, ele contrata o investigador particular David Carmichael, para trazê-la para casa. David se junta a Jane, uma IA altamente avançada e autoconsciente, para rastrear a filha desaparecida. Atravessando a perigosa selva de ferro, eles rapidamente juntam o mistério, descobrindo um crime que os leva a questionar as origens da Zona 414 e o verdadeiro propósito por trás da “Cidade dos Robôs”.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] FÚRIA INCONTROLAVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
