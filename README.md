@@ -1,6 +1,18 @@
 # FILMES-2021
 
 
+
+
+<item>
+<title>[COLOR silver][B] HOMEM ARANHA - SEM VOLTA PARA CASA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E4FC0A8555147F8E396C44D3E4088B5D891A270$nome=HOMEM ARANHA - SEM VOLTA PARA CASA 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EBF753CEE42F8845F8C6A8FDB8FA96AEFF821B6F$nome=HOMEM ARANHA - SEM VOLTA PARA CASA 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21f6bf630dc960651027634ea59358329beaf598$nome=HOMEM ARANHA - SEM VOLTA PARA CASA 3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2zP8cjus0vSepp2GgfJ7QQpPHQ1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jX09ShhDZKZnAX3wb7endTXzHLj.jpg</fanart>
+<info>Após ter tido sua identidade secreta revelada ao mundo por culpa das ações de Mysterio, Peter Parker vê a sua vida e a sua reputação desmoronar. Ao procurar ajuda de Stephen Strange para tentar consertar tudo, a situação só fica ainda mais perigosa, e Parker precisa descobrir o que significa ser o Homem-Aranha.</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] FINCH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:650c9c4b34b56935e8f770f8b10e6c9c858869e6</link>
@@ -68,15 +80,6 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma mãe solteira (Carrie Coon) resolve se mudar para uma pequena cidade do interior com seus filhos (Finn Wolfhard e Mckenna Grace), e acaba descobrindo uma conexão com os Caça-Fantasmas originais e o que o seu avô deixou para trás como legado.</info>
 </item>
-
-<item>
-<title>[COLOR silver][B] HOMEM ARANHA - SEM VOLTA PARA CASA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E4FC0A8555147F8E396C44D3E4088B5D891A270$nome=HOMEM ARANHA - SEM VOLTA PARA CASA 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EBF753CEE42F8845F8C6A8FDB8FA96AEFF821B6F$nome=HOMEM ARANHA - SEM VOLTA PARA CASA 2</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/2zP8cjus0vSepp2GgfJ7QQpPHQ1.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jX09ShhDZKZnAX3wb7endTXzHLj.jpg</fanart>
-<info>Após ter tido sua identidade secreta revelada ao mundo por culpa das ações de Mysterio, Peter Parker vê a sua vida e a sua reputação desmoronar. Ao procurar ajuda de Stephen Strange para tentar consertar tudo, a situação só fica ainda mais perigosa, e Parker precisa descobrir o que significa ser o Homem-Aranha.</info>
-</item> 
 
 <item>
 <title>[COLOR silver][B] MATRIX - RESURRECTION  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
