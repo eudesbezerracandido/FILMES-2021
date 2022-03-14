@@ -8,6 +8,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E4FC0A8555147F8E396C44D3E4088B5D891A270$nome=HOMEM ARANHA - SEM VOLTA PARA CASA 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EBF753CEE42F8845F8C6A8FDB8FA96AEFF821B6F$nome=HOMEM ARANHA - SEM VOLTA PARA CASA 2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21f6bf630dc960651027634ea59358329beaf598$nome=HOMEM ARANHA - SEM VOLTA PARA CASA 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21f6bf630dc960651027634ea59358329beaf598$nome=HOMEM ARANHA - SEM VOLTA PARA CASA LEGENDADO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2zP8cjus0vSepp2GgfJ7QQpPHQ1.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jX09ShhDZKZnAX3wb7endTXzHLj.jpg</fanart>
 <info>Após ter tido sua identidade secreta revelada ao mundo por culpa das ações de Mysterio, Peter Parker vê a sua vida e a sua reputação desmoronar. Ao procurar ajuda de Stephen Strange para tentar consertar tudo, a situação só fica ainda mais perigosa, e Parker precisa descobrir o que significa ser o Homem-Aranha.</info>
