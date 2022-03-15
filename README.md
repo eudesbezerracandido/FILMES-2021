@@ -4,8 +4,9 @@
 
 
 <item>
-<title>[COLOR silver][B] HOMEM ARANHA - SEM VOLTA PARA CASA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21f6bf630dc960651027634ea59358329beaf598$nome=HOMEM ARANHA - SEM VOLTA PARA CASA</link>
+<title>[COLOR silver][B] HOMEM ARANHA - SEM VOLTA PARA CASA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PBXS2Q3UZHV3K5QO7OSUVRHTWW4NCZIB$nome=HOMEM ARANHA - SEM VOLTA PARA CASA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcfc9450eb7efd7c7304e754afeaf4ed3b266603$nome=HOMEM ARANHA - SEM VOLTA PARA CASA 4k</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2zP8cjus0vSepp2GgfJ7QQpPHQ1.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jX09ShhDZKZnAX3wb7endTXzHLj.jpg</fanart>
 <info>Após ter tido sua identidade secreta revelada ao mundo por culpa das ações de Mysterio, Peter Parker vê a sua vida e a sua reputação desmoronar. Ao procurar ajuda de Stephen Strange para tentar consertar tudo, a situação só fica ainda mais perigosa, e Parker precisa descobrir o que significa ser o Homem-Aranha.</info>
