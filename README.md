@@ -9,7 +9,15 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/2zP8cjus0vSepp2GgfJ7QQpPHQ1.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jX09ShhDZKZnAX3wb7endTXzHLj.jpg</fanart>
 <info>Após ter tido sua identidade secreta revelada ao mundo por culpa das ações de Mysterio, Peter Parker vê a sua vida e a sua reputação desmoronar. Ao procurar ajuda de Stephen Strange para tentar consertar tudo, a situação só fica ainda mais perigosa, e Parker precisa descobrir o que significa ser o Homem-Aranha.</info>
-</item> 
+</item>
+
+<item>
+<title>[COLOR silver][B] O CHAPELEIRO LOUCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dca7b7fc6b8c39dc46bdcb95c563f48c93e4c819</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/caJNuRJkwNmhNtssEynFW6IQl0i.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Henry e três de seus colegas de classe encontram um terror fantasmagórico alucinante quando se oferecem para um estudo de fim de semana com seu professor de psicologia na mansão mal-assombrada 'Chapeleiro Maluco'.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] FINCH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
