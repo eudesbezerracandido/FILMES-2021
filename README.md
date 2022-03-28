@@ -1,7 +1,12 @@
 # FILMES-2021
 
-
-
+<item>
+<title>[COLOR silver][B] KING RICHARD-CRIANDO CAMPEÃES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00e33f9bdd4e56ce1e9fd0cbd771ce69e15588cb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1GzzYMqCUbx0RMY3yAdrKdKVonh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No filme King Richard: Criando Campeãs Torrent – WEB-DL 1080p Dual Áudio, King Richard: Criando Campeãs é um filme biográfico inspirado em Richard Williams, pai das famosas tênistas Serena Williams e Venus Williams. Destinado a fazer de suas filhas futuras campeãs de tênis, Richard (Will Smith) usa métodos próprios e nada convencionais, seguindo sua visão clara que construiu para as filhas Serena (Demi Singleton) e Venus (Saniyya Sidney). Determinado, o pai das garotas vai fazer de tudo para fazer com que elas saiam das ruas de Compton para as quadras do mundo todo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] HOMEM ARANHA - SEM VOLTA PARA CASA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
