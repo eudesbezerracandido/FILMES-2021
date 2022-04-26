@@ -9,14 +9,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] HOMEM ARANHA - SEM VOLTA PARA CASA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PBXS2Q3UZHV3K5QO7OSUVRHTWW4NCZIB</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/2zP8cjus0vSepp2GgfJ7QQpPHQ1.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jX09ShhDZKZnAX3wb7endTXzHLj.jpg</fanart>
-<info>Após ter tido sua identidade secreta revelada ao mundo por culpa das ações de Mysterio, Peter Parker vê a sua vida e a sua reputação desmoronar. Ao procurar ajuda de Stephen Strange para tentar consertar tudo, a situação só fica ainda mais perigosa, e Parker precisa descobrir o que significa ser o Homem-Aranha.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] O CHAPELEIRO LOUCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dca7b7fc6b8c39dc46bdcb95c563f48c93e4c819</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/caJNuRJkwNmhNtssEynFW6IQl0i.jpg</thumbnail>
@@ -58,31 +50,6 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Bond deixou o serviço ativo e está desfrutando de uma vida tranquila na Jamaica. Sua paz é interrompida quando o seu velho amigo Felix Leiter, da CIA, aparece pedindo sua ajuda. A missão de resgatar um cientista sequestrado acaba sendo muito mais difícil do que o esperado, deixando Bond no caminho de um vilão misterioso e armado com uma nova tecnologia perigosa.</info>
 </item> 
-
-<item>
-<title>[COLOR silver][B] ETERNOS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e319e497ad4986832dcdea524bff25f0d8d478a</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/oL2IqECjqsHumNKJTTLUxydlPZi.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Após os eventos de Vingadores: Ultimato (2019), os Eternos, uma raça alienígena imortal criada pelos Celestiais que vivem em segredo na Terra há mais de 7000 anos, se reúnem após uma tragédia inesperada para proteger a humanidade de seus colegas malignos: os Deviantes.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] SHANG-CHI- E A LENDA DOS DEZ ANEIS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccfe0b9bfe7a3548b95e0119a73c6f067aa40363</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/uEOmVZwCbmjx4AdpBzTYTb97wBB.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Mestre de artes marciais, Shang-Chi é praticamente inigualável. Shang-Chi tem um passado que deixou para trás, mas é novamente confrontado com ele quando se enredar na teia da misteriosa organização dos Dez Anéis. Ao mesmo tempo, Shang-Chi tem de lidar com uma ameaça que se esconde por detrás do nome "Mandarim".</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] VENON/ VENOM 2-TEMPO DE CARNIFICINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b019304dd9a72f74675d1a9411973fdef6545b2f$nome=VENON 2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EB2196840A2133A26AEE37CEEE0D2BCC2C7A2D3A$nome=VENON 1</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/kz7xJLowO4x0BpcB1IJb9uIXgrq.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/gB7ThItFiRFw18SsE1gWHA92eri.jpg</fanart>
-<info>Depois de encontrar um corpo hospedeiro no repórter investigativo Eddie Brock, o simbionte alienígena deve enfrentar um novo inimigo, Carnage, o alter ego do assassino em série Cletus Kasady.</info>
-</item>
 
 <item>
 <title>[COLOR silver][B] GHOSTBUSTER-MAIS ALÉM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -2285,16 +2252,6 @@ Enredo: Quando ashley Beck-Ford de 21 anos encontra sua mãe biológica – Sara
 <thumbnail>https://www.themoviedb.org/t/p/original/46qwaON7l11M407rqh8lD4vXcAR.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Os mortais Graboids estão de volta, ilegalmente transportados para uma ilha resort onde um playboy rico pretende criar um safári diferente.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] VIÚVA NEGRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LSDQ5MDLYPDTT5NLK7ZHYDL6THSW2SMM$nome=VIÚVA NEGRA DUBLADO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ea2e1760aa474d29d111c64fc9025008a1b0ad2$nome=VIÚVA NEGRA LEGENDADO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UWCGHN75PQZBBZDCGHWCT7MHBD5IOYX4$nome=VIÚVA NEGRA 4k</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Natasha Romanoff "Viúva Negra" precisa confrontar partes de sua história quando surge uma conspiração perigosa ligada ao seu passado. Perseguida por uma força que não irá parar até derrotá-la, Natasha terá que lidar com sua antiga vida de espiã, e também reencontrar membros de sua família que deixou para trás antes de se tornar parte dos Vingadores.</info>
 </item>
 
 <item>
