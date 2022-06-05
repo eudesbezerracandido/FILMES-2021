@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A CAÇADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:adc8f46e05e8a8c25d88d9d8c9424758dac60541</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Doze estranhos acordam numa clareira. Eles não sabem o motivo de estarem ali, nem como chegaram. Tampouco sabem que foram escolhidos para um único propósito: A Caçada, um serviço de caça humana para elites privilegiadas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O CHAPELEIRO LOUCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dca7b7fc6b8c39dc46bdcb95c563f48c93e4c819</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/caJNuRJkwNmhNtssEynFW6IQl0i.jpg</thumbnail>
