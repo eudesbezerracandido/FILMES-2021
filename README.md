@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] JOGO PERIGOSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed5144ca9d9e073e52a6b182b9a9d8d7d1c0fe01</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5vHqNWyTtjkaknHAEMtaLNk9CAs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Desesperado para cuidar de sua esposa grávida antes que uma doença terminal possa tirar sua vida, Dodge Maynard aceita uma oferta para participar de um jogo mortal onde ele logo descobre que não é o caçador … mas a presa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A CAÇADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:adc8f46e05e8a8c25d88d9d8c9424758dac60541</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg</thumbnail>
