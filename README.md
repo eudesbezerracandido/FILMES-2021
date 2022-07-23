@@ -17,6 +17,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SOBREVIVA AO JOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07412e7a28909e5c2d3cd38ab8f4e602d8e7cbe4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o3QnhGeG4Kx9dkSRTbDx4OSw6cr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando o policial David é ferido em uma apreensão de drogas que deu errado, seu parceiro Cal persegue os dois criminosos que atiraram nele. Todos eles pousam em uma fazenda remota de propriedade do veterinário Eric, e enquanto Cal e Eric planejam sua defesa, mais membros da gangue chegam – junto com David ferido. Em menor número, os três heróis devem usar furtividade, inteligência e bom tiro para derrubar a multidão de traficantes de drogas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A CAÇADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:adc8f46e05e8a8c25d88d9d8c9424758dac60541</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg</thumbnail>
