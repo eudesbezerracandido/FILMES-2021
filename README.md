@@ -17,6 +17,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SILENCIADAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AVJOHI2AJKTATXA5FEXU74I6B3KIRUPS</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3pJRTOJiuRM3C7PKu9UOnmMzLyJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>País Basco, 1609. Para adiar sua execução, um grupo de mulheres acusadas de bruxaria se oferece para realizar um Sabbath para o inquisidor.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SOBREVIVA AO JOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07412e7a28909e5c2d3cd38ab8f4e602d8e7cbe4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/o3QnhGeG4Kx9dkSRTbDx4OSw6cr.jpg</thumbnail>
