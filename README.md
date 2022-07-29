@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ENDGAME - ROUBO DE IDENTIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/euoonsQCowBYYqI1ztvonNjxibM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando um assassino perde sua memória, um ator mal sucedido troca identidades com ele. Chen Xiaomeng é um ator de teatro que simplesmente não consegue dar um tempo na vida. Sua carreira está em ruínas, sua vida amorosa é deprimente e ele não consegue nem cometer suicídio. Antes de fazer outra tentativa de suicídio, ele decide visitar o balneário local para poder morrer com dignidade. Na casa de banho, Xiaomeng acidentalmente faz com que um homem escorregue em um pedaço de sabão e cai em coma profundo. Em uma fração de segundo, ele decide trocar de lugar com o homem em coma, apenas para descobrir que o homem é um renomado assassino profissional.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JOGO PERIGOSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed5144ca9d9e073e52a6b182b9a9d8d7d1c0fe01</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5vHqNWyTtjkaknHAEMtaLNk9CAs.jpg</thumbnail>
