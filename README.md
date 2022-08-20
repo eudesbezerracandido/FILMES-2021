@@ -9,14 +9,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] ENDGAME - ROUBO DE IDENTIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/euoonsQCowBYYqI1ztvonNjxibM.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Quando um assassino perde sua memória, um ator mal sucedido troca identidades com ele. Chen Xiaomeng é um ator de teatro que simplesmente não consegue dar um tempo na vida. Sua carreira está em ruínas, sua vida amorosa é deprimente e ele não consegue nem cometer suicídio. Antes de fazer outra tentativa de suicídio, ele decide visitar o balneário local para poder morrer com dignidade. Na casa de banho, Xiaomeng acidentalmente faz com que um homem escorregue em um pedaço de sabão e cai em coma profundo. Em uma fração de segundo, ele decide trocar de lugar com o homem em coma, apenas para descobrir que o homem é um renomado assassino profissional.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] JOGO PERIGOSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed5144ca9d9e073e52a6b182b9a9d8d7d1c0fe01</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5vHqNWyTtjkaknHAEMtaLNk9CAs.jpg</thumbnail>
@@ -689,14 +681,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/iNgQzpc1mDmt8j60FizkqwMOmv1.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Quando a historiadora Jessica é contratada para criar a exibição de Natal do The Plaza, ela encontra mais do que fatos enquanto se une ao bonito decorador Nick, para dar vida à exibição.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] O NATAL DOS DARLINGTONS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/h18hQf5ZZ2qrX6b7wMF5pPDmiSk.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Jessica vai ajudar o seu charmoso irmão mais novo a cuida de seus sobrinhos órfãos durante o Natal. A assistente de uma firma de advocacia decide pedir demissão, mas ela se vê obrigada a ajudar o irmão mais novo de seu chefe enquanto ele cuida de seus sobrinhos e sobrinhas órfãos durante o Natal.</info>
 </item>
 
 <item>
@@ -2568,8 +2552,8 @@ Enredo: Quando ashley Beck-Ford de 21 anos encontra sua mãe biológica – Sara
 
 <item>
 <title>[COLOR silver][B] SAMURAI  X - A ORIGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e861c429955886252bb5b9cf5544298b6b47f3e$nome=SAMURAI  X - A ORIGEM 4.8GB</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:STWV7QBJ6TWVK23IDO5KKXNWPDKVA3XN$nome= SAMURAI  X - A ORIGEM 3.24 GB</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e861c429955886252bb5b9cf5544298b6b47f3e$nome=SAMURAI  X  A ORIGEM 4.8GB</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:STWV7QBJ6TWVK23IDO5KKXNWPDKVA3XN$nome= SAMURAI  X  A ORIGEM 3.24 GB</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/a7cWay8MBxGbgvFI8HN5FhJsPAX.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Himura Kenshin enfrenta o misterioso negociante de armas Enishi. Ele controla o submundo da China. O segredo do "Jujishou" de Kenshin Himura também é revelado. Related ContentRurouni Kenshin: The Final (Japanese prequel)</info>
@@ -3820,7 +3804,7 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 
 <item>
 <title>[COLOR silver][B] MUNDO EM CAOS- DUBLADO NÃO OFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4B81F88521841FC9410C4B058006D6E7AC1CCD94$nome=MUNDO EM CAOS-DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4B81F88521841FC9410C4B058006D6E7AC1CCD94</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7poSpsfrnhxjVN2uRmemd76ASvS.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em um futuro não muito distante, em um mundo onde as mulheres desapareceram e os homens foram afetados pelo “ruído” – uma força que deixa seus pensamentos audíveis – Todd Hewitt encontra Viola, uma jovem misteriosa que aterrissou em seu planeta. Com Viola correndo perigo, Todd jura protegê-la e colocá-la fora de perigo. Para salvá-la, Todd terá que controlar seu “ruído”, descobrir sua própria força e desvendar todos os segredos sombrios que seu planeta e sua comunidade guardam.</info>
@@ -3840,14 +3824,6 @@ Enredo: No ano de 2092, o espaço está cheio de lixo flutuante perigoso, como s
 <thumbnail>https://www.themoviedb.org/t/p/original/2ZZeSKqhbteQ7lDZnse9DmpIQDC.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Selah (Raffey Cassidy) é uma jovem nascida em um culto repressivo conhecido como "rebanho". Todas as mulheres e crianças vivem em um complexo rural e são liderados por um homem, conhecido apenas como "Pastor". Selah recebe a grande honra de participar do ritual sagrado do nascimento dos cordeiros, do qual o rebanho depende para sobreviver. Durante a cerimônia, ela passa por uma experiência chocante. A adolescente começa a ter visões estranhas que a fazem questionar sua própria realidade, e tudo o que o Pastor a ensinou.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] O MAURITANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eiUnQ2YXcxSGdCLrN8tQEhLirZq.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Mohamedou Ould Slahi (Tahar Rahim) é capturado pelo governo americano e jogado na prisão sem acusação oficial ou julgamento. Ele encontra aliança na advogada de defesa Nancy Hollander (Jodie Foster) e sua assistente Teri Duncan (Shailene Woodley). Juntos, eles enfrentam diversos obstáculos numa desesperada luta por justiça. Com a ajuda do promotor militar Ten. Stuart Couch (Benedict Cumberbatch), eles acabam descobrindo uma conspiração chocante e maior do que eles imaginavam.</info>
 </item>
 
 <item>
