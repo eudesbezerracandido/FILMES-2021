@@ -1,7 +1,7 @@
 # FILMES-2021
 
 
-<item>
+<items>
 <title>[COLOR silver][B] SOORYAVANSHI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YGRXW22MVDWUYOBHTKCBSKTCLNSLW344</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zMuo3s9J0e5jsIJLCKv1ffKlLD4.jpg</thumbnail>
@@ -2162,7 +2162,7 @@ Enredo: Quando ashley Beck-Ford de 21 anos encontra sua mãe biológica – Sara
 <thumbnail>https://www.themoviedb.org/t/p/original/s2OLfim4v1WvgTzP0VjuBCISS2L.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Nesta história sobre amadurecimento e amores de verão, Deniz quer encontrar sua paixão de infância nas férias, mas acaba envolvido em um triângulo amoroso.</info>
-</item>
+</items>
 
 
 
