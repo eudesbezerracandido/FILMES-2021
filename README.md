@@ -3952,8 +3952,7 @@ Enredo: Um implacável Ferry Bouman é enviado para sua região natal de Brabant
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98f1d9f14ad98983bf5719281815a810a2850839</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fciMWczNCEODy1EaII34BNbHdYA.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Numa estrada deserta durante a noite uma van blindada é atacada durante a transferência de prisioneiros. Alguém está procurando por um dos prisioneiros e não vai parar até encontrar. Seu plano não tem fissuras, ele não se importa com as consequências. Mas Martin, o motorista da van, fica entrincheirado no cubículo blindado com os internos, se tornando seu único obstáculo. Martin tentará sobreviver e cumprir seu dever em uma longa noite de pesadelo, que acabará fazendo com que ele questione todos os seus princípios.
-</info>
+<info> Numa estrada deserta durante a noite uma van blindada é atacada durante a transferência de prisioneiros. Alguém está procurando por um dos prisioneiros e não vai parar até encontrar. Seu plano não tem fissuras, ele não se importa com as consequências. Mas Martin, o motorista da van, fica entrincheirado no cubículo blindado com os internos, se tornando seu único obstáculo. Martin tentará sobreviver e cumprir seu dever em uma longa noite de pesadelo, que acabará fazendo com que ele questione todos os seus princípios.</info>
 </item>
 
 <item>
