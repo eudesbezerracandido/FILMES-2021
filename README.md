@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] SOMBRAS DO TERROR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:367cacb0a4f213c9752f756493d10a54b3647f44</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3xOYf938hlGXR7Epta7jH2CjCba.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Stan mora com seu avô abusivo e tenta proteger seu melhor amigo de agressores do ensino médio. Quando ele descobre que uma criatura assassina se refugia dentro de seu galpão, ele tenta combater o demônio sozinho até que seu amigo intimidado descubra a criatura e tenha um plano muito mais sinistro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SOORYAVANSHI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YGRXW22MVDWUYOBHTKCBSKTCLNSLW344</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zMuo3s9J0e5jsIJLCKv1ffKlLD4.jpg</thumbnail>
