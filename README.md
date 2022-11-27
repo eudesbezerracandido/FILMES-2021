@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] BLACK FRIDAY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OPWGR3PN45UPUVF556VXQF7N4VJM6H5Z</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vf9Ex4EwSPlwbva4ZJdljsQQOML.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um grupo de funcionários de uma loja de brinquedos deve se proteger de uma horda de compradores infectados por parasitas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SOMBRAS DO TERROR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:367cacb0a4f213c9752f756493d10a54b3647f44</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3xOYf938hlGXR7Epta7jH2CjCba.jpg</thumbnail>
