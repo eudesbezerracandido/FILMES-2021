@@ -1,6 +1,15 @@
 # FILMES-2021
 
 
+
+<item>
+<title>[COLOR silver][B] FRANCE SOB OS HOLOFOTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13ebb6614cc4b6ad9e46f5246fe8bfd59f368cd4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wpFJGrThPtTjFLyEc3r9MdQH7xr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A vida frenética de uma jornalista estrela de TV, presa entre a celebridade e um espiral de eventos que a derrubarão.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] BLACK FRIDAY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OPWGR3PN45UPUVF556VXQF7N4VJM6H5Z</link>
